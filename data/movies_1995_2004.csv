@@ -1,0 +1,1003 @@
+Title,Year,Genre,Vote_Average,Vote_Count,Budget,Revenue,TMDB_ID
+Se7en,1995,"['Crime', 'Mystery', 'Thriller']",8.4,22293,33000000,327311859,807
+Toy Story,1995,"['Family', 'Comedy', 'Animation', 'Adventure']",7.97,19296,30000000,394436586,862
+Jumanji,1995,"['Adventure', 'Fantasy', 'Family']",7.242,10970,65000000,262821940,8844
+The Usual Suspects,1995,"['Drama', 'Crime', 'Thriller']",8.173,10966,6000000,23300000,629
+Braveheart,1995,"['Action', 'Drama', 'History', 'War']",7.941,10698,72000000,213216216,197
+Twelve Monkeys,1995,"['Science Fiction', 'Thriller', 'Mystery']",7.602,8781,29000000,168841459,63
+Heat,1995,"['Crime', 'Drama', 'Action']",7.922,7919,60000000,187400000,949
+Bad Boys,1995,"['Action', 'Comedy', 'Crime', 'Thriller']",6.824,6707,19000000,141407024,9737
+Die Hard: With a Vengeance,1995,"['Action', 'Thriller']",7.274,6416,90000000,366101666,1572
+Casino,1995,"['Crime', 'Drama']",7.993,6250,50000000,116112375,524
+Pocahontas,1995,"['Adventure', 'Animation', 'Family', 'Romance']",6.912,5919,55000000,346079773,10530
+Apollo 13,1995,"['Drama', 'History']",7.449,5673,52000000,355237933,568
+Batman Forever,1995,"['Action', 'Crime', 'Fantasy']",5.4,5412,100000000,336529144,414
+Casper,1995,"['Fantasy', 'Comedy', 'Family']",6.332,4789,50000000,287928194,8839
+Clueless,1995,"['Comedy', 'Romance']",7.262,4647,12000000,56631572,9603
+Dilwale Dulhania Le Jayenge,1995,"['Comedy', 'Drama', 'Romance']",8.515,4518,13200000,100000000,19404
+Before Sunrise,1995,"['Drama', 'Romance']",7.968,4472,2500000,5987386,76
+Ace Ventura: When Nature Calls,1995,"['Crime', 'Comedy', 'Adventure']",6.321,4372,30000000,212385533,9273
+La Haine,1995,['Drama'],8.1,4342,2600000,15300000,406
+GoldenEye,1995,"['Adventure', 'Action', 'Thriller']",6.897,4150,60000000,352194034,710
+Waterworld,1995,"['Adventure', 'Action', 'Science Fiction']",6.229,3899,175000000,264218220,9804
+Ghost in the Shell,1995,"['Action', 'Animation', 'Science Fiction']",7.926,3680,3000000,10000000,9323
+Babe,1995,"['Fantasy', 'Drama', 'Comedy', 'Family']",6.251,3027,30000000,254100000,9598
+Desperado,1995,"['Thriller', 'Action', 'Crime']",6.923,3017,7000000,25405445,8068
+Four Rooms,1995,['Comedy'],5.873,2758,4000000,4257354,5
+Judge Dredd,1995,"['Science Fiction', 'Action']",5.847,2614,90000000,113493481,9482
+Mortal Kombat,1995,"['Action', 'Fantasy']",5.864,2411,18000000,122195920,9312
+Outbreak,1995,"['Action', 'Drama', 'Science Fiction', 'Thriller']",6.563,2387,50000000,189900000,6950
+The Bridges of Madison County,1995,"['Drama', 'Romance']",7.708,2276,24000000,182000000,688
+Whisper of the Heart,1995,"['Animation', 'Drama', 'Family']",7.949,2164,0,0,37797
+Balto,1995,"['Family', 'Animation', 'Adventure']",7.302,2116,31000000,11348324,21032
+The Basketball Diaries,1995,"['Drama', 'Crime']",7.402,2114,2000000,2381087,10474
+Friday,1995,"['Comedy', 'Drama']",7.132,1933,3500000,28215918,10634
+While You Were Sleeping,1995,"['Romance', 'Comedy']",7.017,1909,17000000,182100000,2064
+Crimson Tide,1995,"['Thriller', 'Action', 'Drama', 'War']",7.18,1898,53000000,157387195,8963
+The Quick and the Dead,1995,"['Western', 'Action', 'Drama', 'Romance', 'Thriller']",6.537,1866,35000000,47000000,12106
+A Goofy Movie,1995,"['Adventure', 'Comedy', 'Romance', 'Animation', 'Family']",7.007,1858,18000000,35348597,15789
+In the Mouth of Madness,1995,"['Horror', 'Mystery']",7.211,1804,8000000,8946600,2654
+Sense and Sensibility,1995,"['Drama', 'Romance']",7.42,1776,16000000,134582776,4584
+Species,1995,"['Science Fiction', 'Horror', 'Action']",5.974,1757,35000000,113400000,9348
+Billy Madison,1995,['Comedy'],6.184,1731,10000000,26488734,11017
+Dead Man,1995,"['Drama', 'Fantasy', 'Western']",7.297,1658,9000000,1038000,922
+Assassins,1995,"['Action', 'Adventure', 'Crime', 'Thriller']",6.493,1643,50000000,30303072,9691
+Leaving Las Vegas,1995,"['Drama', 'Romance']",7.2,1563,3600000,49800000,451
+Strange Days,1995,"['Crime', 'Drama', 'Science Fiction', 'Thriller']",6.999,1458,42000000,7959291,281
+Johnny Mnemonic,1995,"['Science Fiction', 'Action', 'Adventure']",5.763,1453,25000000,19075720,9886
+The Net,1995,"['Crime', 'Drama', 'Mystery', 'Thriller', 'Action']",6.034,1448,22000000,110627965,1642
+Dead Man Walking,1995,['Drama'],7.32,1433,11000000,39363635,687
+Hackers,1995,"['Action', 'Crime', 'Thriller', 'Drama']",6.384,1392,20000000,7563728,10428
+Showgirls,1995,['Drama'],5.6,1320,45000000,20367472,10802
+Mallrats,1995,"['Romance', 'Comedy']",6.8,1315,6000000,2122561,2293
+First Knight,1995,"['Action', 'Adventure', 'Drama', 'Romance']",6.105,1288,55000000,127600435,6520
+Kids,1995,"['Drama', 'Crime']",6.896,1220,1500000,20412216,9344
+Dangerous Minds,1995,['Drama'],6.961,1216,23000000,179519401,9909
+Fallen Angels,1995,"['Action', 'Romance', 'Crime']",7.7,1204,0,0,11220
+Halloween: The Curse of Michael Myers,1995,"['Horror', 'Thriller']",5.155,1193,5000000,15116634,10987
+Copycat,1995,"['Thriller', 'Crime', 'Mystery']",6.472,1175,20000000,32000000,1710
+The City of Lost Children,1995,"['Fantasy', 'Science Fiction', 'Adventure']",7.253,1162,18000000,1738611,902
+Get Shorty,1995,"['Comedy', 'Thriller', 'Crime']",6.507,1136,30250000,115101622,8012
+Rumble in the Bronx,1995,"['Crime', 'Action', 'Comedy', 'Thriller']",6.813,1103,7500000,76028558,33542
+A Walk in the Clouds,1995,"['Drama', 'Romance']",7.358,1088,20000000,50012507,9560
+Dracula: Dead and Loving It,1995,"['Comedy', 'Horror']",6.081,1049,30000000,10772144,12110
+A Little Princess,1995,"['Drama', 'Family', 'Fantasy']",7.618,1012,17000000,10000000,19101
+Tommy Boy,1995,['Comedy'],6.802,1010,20000000,32648673,11381
+Under Siege 2: Dark Territory,1995,"['Action', 'Thriller']",5.842,971,60000000,104324083,3512
+Congo,1995,"['Action', 'Adventure', 'Science Fiction']",5.579,939,50000000,152022101,10329
+It Takes Two,1995,"['Comedy', 'Family', 'Romance']",6.513,934,19474589,19474589,33689
+Dragon Ball Z: Fusion Reborn,1995,"['Animation', 'Action', 'Science Fiction']",7.5,893,0,23500000,39107
+Village of the Damned,1995,"['Thriller', 'Horror', 'Science Fiction']",6.1,879,22000000,9418365,12122
+Major Payne,1995,"['Adventure', 'Comedy', 'Family']",6.442,852,0,30112050,11008
+To Die For,1995,"['Drama', 'Comedy', 'Crime']",6.579,844,20000000,21300000,577
+Dolores Claiborne,1995,"['Crime', 'Drama', 'Mystery']",7.3,832,13000000,46400000,11929
+Money Train,1995,"['Action', 'Comedy', 'Crime']",5.851,818,68000000,77224232,11517
+Father of the Bride Part II,1995,"['Comedy', 'Family']",6.266,777,0,76594107,11862
+The Three Brothers,1995,['Comedy'],6.945,776,7500000,46000000,37653
+Sudden Death,1995,"['Action', 'Drama', 'Thriller', 'Crime']",6.005,773,35000000,64350171,9091
+Nick of Time,1995,"['Thriller', 'Crime', 'Action']",6.234,768,33000000,8175346,2086
+French Kiss,1995,"['Comedy', 'Romance']",6.456,766,0,101982854,397
+Dragon Ball Z: Wrath of the Dragon,1995,"['Animation', 'Action', 'Science Fiction']",7.3,758,0,11694663,39108
+Empire Records,1995,"['Music', 'Comedy', 'Drama', 'Romance']",6.634,757,10000000,303841,13531
+The American President,1995,"['Comedy', 'Drama', 'Romance']",6.5,754,62000000,107879496,9087
+Mighty Morphin Power Rangers: The Movie,1995,"['Action', 'Adventure', 'Science Fiction', 'Fantasy']",5.857,738,15000000,66433194,9070
+Underground,1995,"['Comedy', 'Drama', 'War']",7.727,731,14000000,0,11902
+The Return of the Texas Chainsaw Massacre,1995,"['Horror', 'Comedy']",4.6,723,600000,185898,16780
+Mighty Aphrodite,1995,"['Comedy', 'Romance']",6.714,721,15000000,26000000,11448
+"To Wong Foo, Thanks for Everything! Julie Newmar",1995,"['Comedy', 'Drama']",7.375,722,0,47774193,9090
+Powder,1995,"['Drama', 'Fantasy']",7.0,691,9500000,30900000,12665
+Rob Roy,1995,"['Adventure', 'History', 'Drama', 'Action', 'War']",6.703,681,28000000,31600000,11780
+Nine Months,1995,"['Romance', 'Comedy']",5.708,681,35000000,138500000,11472
+Sabrina,1995,"['Romance', 'Drama', 'Comedy']",6.2,657,58000000,53672080,11860
+The Indian in the Cupboard,1995,"['Adventure', 'Family', 'Fantasy']",6.455,656,45000000,35700000,11359
+Vampire in Brooklyn,1995,"['Comedy', 'Horror', 'Romance', 'Fantasy']",5.084,614,14000000,19800000,12158
+Free Willy 2: The Adventure Home,1995,"['Family', 'Adventure', 'Drama', 'Comedy']",5.927,604,31000000,30077111,9073
+Just Cause,1995,"['Action', 'Drama', 'Mystery', 'Thriller']",6.247,598,0,36853222,9061
+Cutthroat Island,1995,"['Action', 'Adventure']",5.787,594,102000000,16000000,1408
+Murder in the First,1995,"['Crime', 'Drama']",7.1,589,20000000,29500000,8438
+The Day of the Beast,1995,"['Horror', 'Comedy', 'Action']",7.247,575,0,4367497,10722
+Virtuosity,1995,"['Action', 'Crime', 'Science Fiction', 'Thriller']",5.506,575,30000000,24048000,9271
+Screamers,1995,"['Horror', 'Science Fiction', 'War']",6.21,571,20000000,5781885,9102
+Tank Girl,1995,"['Action', 'Comedy', 'Science Fiction', 'Fantasy']",5.435,545,25000000,4064495,9067
+Trainspotting,1996,"['Drama', 'Crime']",7.961,10090,4000000,71981823,627
+Independence Day,1996,"['Action', 'Adventure', 'Science Fiction']",6.897,10054,75000000,817400891,602
+Mission: Impossible,1996,"['Adventure', 'Action', 'Thriller']",7.013,9643,80000000,457696391,954
+Fargo,1996,"['Crime', 'Drama', 'Thriller']",7.852,8666,7000000,60611975,275
+Scream,1996,"['Crime', 'Horror', 'Mystery']",7.423,7538,14000000,173046663,4232
+From Dusk Till Dawn,1996,"['Horror', 'Action', 'Thriller', 'Crime']",7.03,6246,19000000,25800000,755
+Space Jam,1996,"['Comedy', 'Animation', 'Family', 'Science Fiction']",6.813,6244,80000000,250200000,2300
+Mars Attacks!,1996,"['Comedy', 'Fantasy', 'Science Fiction']",6.4,5698,70000000,101371017,75
+The Hunchback of Notre Dame,1996,"['Drama', 'Animation', 'Family']",7.1,5220,100000000,325300000,10545
+Romeo + Juliet,1996,"['Drama', 'Romance']",6.784,5194,14500000,147298761,454
+The Rock,1996,"['Action', 'Adventure', 'Thriller']",7.136,4970,75000000,335062621,9802
+Matilda,1996,"['Comedy', 'Family', 'Fantasy']",7.169,4652,36000000,33500000,10830
+Sleepers,1996,"['Crime', 'Drama', 'Thriller']",7.6,3713,44000000,165600000,819
+Primal Fear,1996,"['Crime', 'Drama', 'Mystery', 'Thriller']",7.655,3697,30000000,102616183,1592
+Twister,1996,"['Action', 'Adventure', 'Drama']",6.545,3673,92000000,494471524,664
+Jerry Maguire,1996,"['Comedy', 'Drama', 'Romance']",6.973,3527,50000000,273600000,9390
+101 Dalmatians,1996,"['Family', 'Comedy']",5.936,3522,54000000,320689294,11674
+Happy Gilmore,1996,['Comedy'],6.676,3152,12000000,41422354,9614
+The Nutty Professor,1996,"['Fantasy', 'Comedy', 'Romance', 'Science Fiction']",5.644,3024,54000000,128769345,9327
+Jingle All the Way,1996,"['Family', 'Comedy', 'Adventure']",6.057,2814,60000000,129800000,9279
+A Time to Kill,1996,"['Crime', 'Drama', 'Thriller']",7.386,2761,40000000,152266007,1645
+The Cable Guy,1996,"['Comedy', 'Drama', 'Thriller']",5.994,2559,47000000,102825796,9894
+The English Patient,1996,"['Drama', 'Romance', 'War']",7.157,2301,27000000,231976425,409
+DragonHeart,1996,"['Fantasy', 'Action', 'Adventure', 'Drama']",6.54,2073,57000000,115267375,8840
+Slayers Return,1996,"['Animation', 'Adventure', 'Comedy', 'Fantasy']",6.5,2072,0,0,125521
+The Craft,1996,"['Horror', 'Drama', 'Fantasy']",6.776,1984,15000000,24800000,9100
+Ransom,1996,"['Action', 'Thriller']",6.671,1971,80000000,309492681,3595
+Eraser,1996,"['Action', 'Mystery', 'Thriller']",6.082,1933,100000000,242295562,9268
+Aladdin and the King of Thieves,1996,"['Adventure', 'Animation', 'Family']",6.2,1919,0,0,11238
+Star Trek: First Contact,1996,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",7.3,1871,46000000,146027888,199
+The Frighteners,1996,"['Horror', 'Comedy']",6.916,1640,30000000,29359216,10779
+Daylight,1996,"['Action', 'Adventure', 'Thriller']",6.11,1617,80000000,159212469,11228
+Broken Arrow,1996,"['Action', 'Thriller']",6.06,1600,50000000,150300000,9208
+Escape from L.A.,1996,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",5.876,1535,50000000,42277365,10061
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood,1996,"['Comedy', 'Crime']",7.022,1416,3800000,20100000,10607
+James and the Giant Peach,1996,"['Adventure', 'Animation', 'Family', 'Fantasy']",6.575,1387,38000000,28946127,10539
+Jack,1996,"['Comedy', 'Family', 'Drama']",6.3,1316,45000000,58620973,7095
+The Long Kiss Goodnight,1996,"['Crime', 'Action', 'Mystery', 'Thriller']",6.589,1268,65000000,89456761,11412
+Phenomenon,1996,"['Drama', 'Romance', 'Science Fiction', 'Fantasy']",6.472,1267,32000000,152000000,9294
+Crash,1996,"['Thriller', 'Drama']",6.458,1260,9000000,2671855,884
+The Birdcage,1996,['Comedy'],7.038,1255,31000000,185300000,11000
+The People vs. Larry Flynt,1996,['Drama'],6.963,1182,36000000,20300385,1630
+Chain Reaction,1996,"['Thriller', 'Action', 'Science Fiction']",5.8,1152,50000000,60209334,12123
+Bottle Rocket,1996,"['Comedy', 'Crime', 'Drama']",6.7,1131,7000000,1040879,13685
+Striptease,1996,"['Comedy', 'Crime', 'Drama']",5.5,1131,50000000,113309743,9879
+The Ghost and the Darkness,1996,"['Adventure', 'Thriller', 'History']",6.828,1097,50000000,38619405,10586
+Breaking the Waves,1996,"['Drama', 'Romance']",7.493,1065,7500000,23000000,145
+Bound,1996,"['Drama', 'Thriller', 'Crime']",7.208,1024,4500000,7011317,9303
+Tremors 2: Aftershocks,1996,"['Action', 'Horror', 'Comedy']",6.308,1007,4000000,0,11069
+Courage Under Fire,1996,"['Drama', 'Thriller', 'Mystery', 'War']",6.523,998,46000000,100900000,10684
+Executive Decision,1996,"['Action', 'Adventure', 'Drama', 'Thriller']",6.3,988,55000000,121969216,2320
+Fear,1996,['Thriller'],6.511,943,0,0,10543
+Last Man Standing,1996,"['Crime', 'Action', 'Western']",6.357,935,67000000,47267001,9333
+Kingpin,1996,['Comedy'],6.515,927,27000000,25023434,11543
+Thesis,1996,"['Horror', 'Thriller']",7.477,897,0,2647055,9299
+That Thing You Do!,1996,"['Comedy', 'Drama', 'Romance', 'Music']",6.886,889,26000000,34585416,9591
+A Close Shave,1996,"['Family', 'Animation', 'Comedy']",7.567,885,0,4638,532
+Sling Blade,1996,['Drama'],7.5,829,1200000,34100000,12498
+The Fan,1996,"['Thriller', 'Action', 'Drama']",6.003,824,55000000,18626419,9566
+Pusher,1996,"['Action', 'Crime', 'Drama']",7.0,810,965000,0,2061
+The First Wives Club,1996,['Comedy'],6.702,789,26000000,116400000,2925
+The Arrival,1996,"['Science Fiction', 'Thriller', 'Horror']",5.993,789,25000000,14063331,10547
+Swingers,1996,"['Comedy', 'Drama']",6.865,776,200000,4505922,10218
+The Quest,1996,"['Action', 'Adventure', 'Drama']",6.17,763,30000000,57400547,9103
+The Cyclone,1996,"['Comedy', 'Romance']",6.95,753,0,0,38366
+Beavis and Butt-Head Do America,1996,"['Animation', 'Comedy', 'Adventure', 'Crime', 'Music']",6.655,742,12000000,63118386,3179
+Spy Hard,1996,"['Comedy', 'Action']",5.397,720,18000000,27000000,10535
+One Fine Day,1996,"['Romance', 'Comedy']",6.449,700,0,97529550,7300
+Everyone Says I Love You,1996,"['Comedy', 'Romance']",6.431,694,20000000,9759200,9716
+Secrets & Lies,1996,['Drama'],7.6,693,4500000,13417292,11159
+Shine,1996,['Drama'],7.4,683,5500000,35892330,7863
+Michael,1996,"['Comedy', 'Drama', 'Fantasy']",5.712,660,20000000,119700000,2928
+Thinner,1996,"['Fantasy', 'Horror']",5.883,656,8000000,15315484,10280
+Emma,1996,"['Romance', 'Comedy', 'Drama']",6.624,645,6000000,22231658,3573
+Marvin's Room,1996,['Drama'],6.7,618,23000000,12803305,9819
+Bulletproof,1996,"['Comedy', 'Crime', 'Action']",5.707,610,25000000,22611954,10723
+The Phantom,1996,"['Adventure', 'Action']",5.273,594,45000000,17323326,9826
+Stealing Beauty,1996,"['Drama', 'Romance']",6.7,588,10000000,4800000,14553
+Hellraiser: Bloodline,1996,"['Horror', 'Science Fiction', 'Thriller']",5.313,581,4000000,16675000,8766
+The Crow: City of Angels,1996,"['Action', 'Fantasy', 'Thriller']",5.507,576,13000000,25317287,10546
+Multiplicity,1996,"['Comedy', 'Fantasy', 'Science Fiction', 'Romance']",5.791,575,45000000,21075014,9304
+Tin Cup,1996,"['Drama', 'Romance', 'Comedy']",6.1,560,45000000,53854588,10478
+The Island of Dr. Moreau,1996,"['Science Fiction', 'Horror']",4.902,540,40000000,49627779,9306
+Maximum Risk,1996,"['Action', 'Thriller', 'Crime']",5.799,536,25000000,51702483,10861
+The Crucible,1996,"['Drama', 'History']",6.59,534,25000000,7343114,20539
+The Substitute,1996,"['Action', 'Crime', 'Drama', 'Thriller']",6.923,530,0,14818176,20762
+Homeward Bound II: Lost in San Francisco,1996,"['Adventure', 'Comedy', 'Drama', 'Family']",6.598,517,0,32709423,25059
+Police Story 4: First Strike,1996,"['Action', 'Adventure', 'Comedy', 'Crime', 'Drama', 'Thriller']",6.5,511,1500000,53168876,9404
+Michael Collins,1996,"['War', 'Drama', 'Thriller', 'History']",6.9,500,25000000,16900000,1770
+Hamlet,1996,['Drama'],7.338,499,18000000,4700000,10549
+Down Periscope,1996,['Comedy'],6.4,494,0,37553585,9101
+Evita,1996,"['History', 'Drama']",6.1,494,55000000,141047179,8818
+Fly Away Home,1996,"['Adventure', 'Drama', 'Family']",6.934,488,22000000,25143818,11076
+Welcome to the Dollhouse,1996,"['Comedy', 'Drama']",7.086,475,800000,5034794,11446
+D3: The Mighty Ducks,1996,"['Comedy', 'Action', 'Family', 'Drama']",5.951,471,0,22955097,10680
+Barb Wire,1996,"['Science Fiction', 'Action', 'Adventure']",4.08,464,9000000,3793614,11867
+Eye for an Eye,1996,"['Thriller', 'Drama']",6.183,442,20000000,26877589,17182
+Black Sheep,1996,['Comedy'],6.073,438,32400000,32000000,13997
+Muppet Treasure Island,1996,"['Family', 'Comedy', 'Adventure']",6.672,436,31000000,34300000,10874
+The Juror,1996,"['Thriller', 'Crime', 'Drama']",5.657,421,44000000,22754725,9623
+Titanic,1997,"['Drama', 'Romance']",7.9,26479,200000000,2264162353,597
+Men in Black,1997,"['Action', 'Adventure', 'Comedy', 'Science Fiction']",7.214,14392,90000000,589390539,607
+Life Is Beautiful,1997,"['Comedy', 'Drama']",8.439,13633,20000000,230098753,637
+Good Will Hunting,1997,['Drama'],8.157,13259,10000000,225900000,489
+The Fifth Element,1997,"['Science Fiction', 'Action', 'Adventure']",7.6,11291,90000000,263920180,18
+The Lost World: Jurassic Park,1997,"['Adventure', 'Action', 'Science Fiction']",6.558,8914,73000000,618638999,330
+Princess Mononoke,1997,"['Adventure', 'Fantasy', 'Animation']",8.326,8606,23500000,176506186,128
+Hercules,1997,"['Animation', 'Family', 'Fantasy', 'Adventure', 'Comedy', 'Romance']",7.495,7743,85000000,252712101,11970
+The Game,1997,"['Drama', 'Thriller', 'Mystery']",7.6,7040,50000000,109423648,2649
+Jackie Brown,1997,"['Crime', 'Drama', 'Thriller']",7.358,6705,12000000,74727492,184
+Gattaca,1997,"['Thriller', 'Science Fiction', 'Mystery', 'Romance']",7.562,6672,36000000,12532777,782
+The Devil's Advocate,1997,"['Drama', 'Mystery', 'Horror']",7.465,6486,57000000,153000000,1813
+Liar Liar,1997,['Comedy'],6.702,6011,45000000,302710615,1624
+Face/Off,1997,"['Action', 'Crime', 'Science Fiction']",7.049,5653,80000000,245700000,754
+Anastasia,1997,"['Animation', 'Family', 'Fantasy', 'Adventure']",7.606,5478,53000000,139804348,9444
+Alien Resurrection,1997,"['Science Fiction', 'Horror', 'Action']",6.162,5337,70000000,162000000,8078
+L.A. Confidential,1997,"['Crime', 'Mystery', 'Thriller', 'Drama']",7.8,5286,35000000,126216940,2118
+Batman & Robin,1997,"['Action', 'Science Fiction', 'Adventure']",4.4,5241,125000000,238207122,415
+Starship Troopers,1997,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",7.1,5240,105000000,121214377,563
+Contact,1997,"['Drama', 'Science Fiction', 'Mystery']",7.438,4764,90000000,171120329,686
+Donnie Brasco,1997,"['Crime', 'Drama', 'Thriller']",7.536,4688,35000000,124909762,9366
+Scream 2,1997,"['Horror', 'Mystery']",6.505,4478,24000000,172363301,4233
+Con Air,1997,"['Action', 'Thriller', 'Crime']",6.76,4477,75000000,224012234,1701
+As Good as It Gets,1997,"['Drama', 'Comedy', 'Romance']",7.4,3967,50000000,314178011,2898
+Austin Powers: International Man of Mystery,1997,"['Science Fiction', 'Comedy', 'Crime']",6.586,3628,16500000,67711748,816
+Boogie Nights,1997,['Drama'],7.627,3380,15000000,43101594,4995
+Tomorrow Never Dies,1997,"['Adventure', 'Action', 'Thriller']",6.375,3289,110000000,333011068,714
+Air Force One,1997,"['Action', 'Thriller']",6.478,3172,85000000,315200000,9772
+Home Alone 3,1997,"['Comedy', 'Family']",5.276,3164,32000000,79082515,9714
+I Know What You Did Last Summer,1997,"['Horror', 'Thriller', 'Mystery']",5.997,3112,17000000,125586134,3597
+Event Horizon,1997,"['Horror', 'Science Fiction', 'Mystery']",6.569,3089,60000000,26700000,8413
+Seven Years in Tibet,1997,"['Adventure', 'Drama', 'History']",7.157,3003,70000000,131457682,978
+Lost Highway,1997,"['Drama', 'Thriller', 'Mystery']",7.542,2818,15000000,3836866,638
+My Best Friend's Wedding,1997,"['Comedy', 'Romance']",6.58,2786,38000000,299288605,8874
+Anaconda,1997,"['Adventure', 'Horror', 'Thriller']",5.25,2640,45000000,136885767,9360
+Bean,1997,"['Family', 'Adventure', 'Comedy']",6.468,2511,18000000,251212670,1281
+Flubber,1997,"['Comedy', 'Family', 'Science Fiction']",5.661,2468,80000000,178000000,9574
+George of the Jungle,1997,"['Adventure', 'Comedy', 'Family', 'Romance']",5.644,2168,55000000,174463257,10603
+Three Men and a Leg,1997,['Comedy'],7.966,2120,0,0,38286
+The Jackal,1997,"['Action', 'Thriller', 'Adventure', 'Crime']",6.379,2013,60000000,159300000,4824
+Dante's Peak,1997,"['Action', 'Adventure', 'Drama', 'Thriller']",6.211,1973,116000000,178127760,9619
+Funny Games,1997,"['Drama', 'Horror', 'Thriller']",7.31,1971,0,2506,10234
+Lolita,1997,"['Drama', 'Romance']",7.119,1895,62000000,1100000,9769
+Kiss the Girls,1997,"['Thriller', 'Crime', 'Mystery', 'Drama']",6.5,1798,27000000,60527873,9437
+G.I. Jane,1997,"['Action', 'Drama']",6.463,1778,50000000,48169156,4421
+Neon Genesis Evangelion: The End of Evangelion,1997,"['Animation', 'Science Fiction', 'Drama', 'Fantasy']",8.269,1743,0,20563523,18491
+The Full Monty,1997,['Comedy'],6.992,1729,3500000,257850122,9427
+Speed 2: Cruise Control,1997,"['Action', 'Adventure', 'Thriller', 'Romance', 'Drama']",4.606,1729,160000000,164508066,1639
+Cop Land,1997,"['Crime', 'Drama', 'Thriller']",6.789,1699,15000000,44862187,2142
+Volcano,1997,"['Science Fiction', 'Action', 'Drama', 'Thriller']",5.924,1607,90000000,122823468,10357
+Conspiracy Theory,1997,"['Action', 'Drama', 'Mystery', 'Thriller']",6.621,1558,75000000,137000000,8834
+Chasing Amy,1997,"['Comedy', 'Drama', 'Romance']",6.767,1473,250000,12021272,2255
+Spawn,1997,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Science Fiction', 'Thriller']",5.434,1428,40000000,87840042,10336
+The Rainmaker,1997,"['Drama', 'Crime', 'Thriller']",7.025,1402,40000000,45916769,11975
+Amistad,1997,"['Drama', 'History', 'Mystery']",7.02,1368,36000000,44229441,11831
+MouseHunt,1997,"['Comedy', 'Family']",6.543,1309,38000000,122417389,6283
+The Devil's Own,1997,"['Crime', 'Thriller', 'Drama']",6.2,1291,90000000,140807547,4477
+Selena,1997,"['Drama', 'Music', 'History']",7.7,1284,20000000,60000000,16052
+Mortal Kombat: Annihilation,1997,"['Action', 'Fantasy', 'Science Fiction']",4.509,1267,30000000,51376861,9823
+The Edge,1997,"['Action', 'Adventure', 'Drama']",6.8,1258,30000000,43300000,9433
+The Saint,1997,"['Thriller', 'Action', 'Romance', 'Science Fiction', 'Adventure']",6.095,1182,68000000,118100000,10003
+Geri's Game,1997,"['Animation', 'Comedy', 'Family']",7.632,1180,0,0,13929
+Mimic,1997,"['Horror', 'Science Fiction']",6.1,1178,30000000,25480490,4961
+Absolute Power,1997,"['Crime', 'Drama', 'Action']",6.652,1167,50000000,50100000,66
+The Postman,1997,"['Science Fiction', 'Adventure', 'Action']",6.3,1146,80000000,17626234,9922
+Open Your Eyes,1997,"['Drama', 'Thriller', 'Science Fiction']",7.446,1128,2900000,370720,1902
+The Peacemaker,1997,"['Action', 'Thriller']",6.031,1072,50000000,110463140,6623
+Beauty and the Beast: The Enchanted Christmas,1997,"['Animation', 'Family', 'Fantasy']",6.218,1066,0,0,13313
+Breakdown,1997,"['Crime', 'Mystery', 'Thriller', 'Drama', 'Action']",6.905,1026,36000000,50159144,2163
+Deconstructing Harry,1997,"['Comedy', 'Drama']",7.243,1009,20000000,10686841,2639
+Wag the Dog,1997,"['Comedy', 'Drama']",6.943,1003,15000000,64256513,586
+Grosse Pointe Blank,1997,"['Action', 'Comedy', 'Thriller', 'Romance']",6.9,980,15000000,31100000,9434
+Hard Eight,1997,"['Drama', 'Crime']",6.861,919,3000000,222559,8052
+Beverly Hills Ninja,1997,"['Comedy', 'Action']",5.65,808,18000000,31480022,9622
+Double Team,1997,"['Action', 'Science Fiction']",5.184,796,30000000,48138337,9405
+U Turn,1997,"['Crime', 'Drama', 'Thriller', 'Romance']",6.614,774,19000000,6682098,10155
+Happy Together,1997,"['Drama', 'Romance']",7.557,764,125000,5000000,18329
+Fireworks,1997,"['Crime', 'Drama']",7.682,740,0,0,5910
+An American Werewolf in Paris,1997,"['Horror', 'Comedy', 'Fantasy']",5.937,725,22000000,26570463,9406
+In & Out,1997,['Comedy'],6.46,719,35000000,63900000,10806
+Mr. Nice Guy,1997,"['Crime', 'Action', 'Comedy']",6.529,715,12700000,18800000,10622
+The Ice Storm,1997,['Drama'],6.9,708,18000000,8038061,68924
+"Honey, We Shrunk Ourselves",1997,"['Adventure', 'Comedy', 'Family', 'Science Fiction']",5.417,708,7000000,0,11425
+Live Flesh,1997,"['Drama', 'Romance', 'Thriller']",7.043,704,0,1535558,267
+Cure,1997,"['Crime', 'Thriller', 'Horror', 'Mystery']",7.528,700,20000,234821,36095
+Vegas Vacation,1997,['Comedy'],5.999,687,25000000,36400360,11419
+Children of Heaven,1997,"['Drama', 'Family']",7.921,680,180000,925402,21334
+Gummo,1997,"['Drama', 'Comedy']",6.6,674,1300000,116799,18415
+Wishmaster,1997,"['Horror', 'Fantasy']",6.09,669,5000000,15738769,10351
+Taste of Cherry,1997,['Drama'],7.7,666,0,0,30020
+Nothing to Lose,1997,"['Comedy', 'Crime', 'Action', 'Adventure']",6.6,658,25000000,44480039,11676
+Didier,1997,['Comedy'],6.097,638,11000000,0,37652
+One Eight Seven,1997,"['Drama', 'Thriller']",6.647,605,20000000,5716080,6072
+Midnight in the Garden of Good and Evil,1997,"['Mystery', 'Crime', 'Drama']",6.354,604,35000000,25100000,8197
+Metro,1997,"['Action', 'Comedy', 'Crime']",5.7,590,55000000,31987563,8860
+Fools Rush In,1997,"['Comedy', 'Drama', 'Romance']",6.47,582,20000000,42000000,1968
+The Relic,1997,"['Horror', 'Mystery', 'Thriller']",6.004,576,60000000,33956608,11015
+Romy and Michele's High School Reunion,1997,['Comedy'],6.214,563,20000000,29235353,9611
+Murder at 1600,1997,"['Action', 'Drama', 'Mystery', 'Thriller', 'Crime']",6.073,561,40000000,25804707,9415
+Knockin' on Heaven's Door,1997,"['Comedy', 'Crime', 'Action', 'Drama']",7.7,555,3500000,0,158
+The Truman Show,1998,"['Comedy', 'Drama']",8.148,19481,60000000,264118712,37165
+Saving Private Ryan,1998,"['Drama', 'History', 'War']",8.221,16653,70000000,481840909,857
+American History X,1998,['Drama'],8.331,12168,20000000,23900000,73
+The Big Lebowski,1998,"['Comedy', 'Crime']",7.841,11775,15000000,47010480,115
+Mulan,1998,"['Animation', 'Family', 'Adventure']",7.903,10164,90000000,304320254,10674
+A Bug's Life,1998,"['Family', 'Animation', 'Adventure', 'Comedy']",6.972,9514,80000000,363258859,9487
+Armageddon,1998,"['Action', 'Thriller', 'Science Fiction', 'Adventure']",6.833,8310,140000000,553799566,95
+"Lock, Stock and Two Smoking Barrels",1998,"['Comedy', 'Crime']",8.104,6934,1350000,28356188,100
+Blade,1998,"['Horror', 'Action']",6.814,6430,45000000,131183530,36647
+Meet Joe Black,1998,"['Fantasy', 'Drama', 'Romance']",7.351,5558,90000000,142940100,297
+Rush Hour,1998,"['Action', 'Comedy', 'Crime']",7.058,5388,33000000,244721064,2109
+There's Something About Mary,1998,"['Romance', 'Comedy']",6.618,5150,23000000,369900000,544
+Cube,1998,"['Thriller', 'Science Fiction', 'Mystery']",6.807,5022,257899,8969065,431
+Fear and Loathing in Las Vegas,1998,"['Adventure', 'Drama', 'Comedy']",7.213,4835,18500000,10700000,1878
+Antz,1998,"['Animation', 'Family', 'Comedy', 'Adventure', 'War', 'Romance']",6.17,4612,60000000,171757863,8916
+The Lion King II: Simba's Pride,1998,"['Family', 'Adventure', 'Animation', 'Drama', 'Romance']",6.9,4577,0,0,9732
+The Parent Trap,1998,"['Comedy', 'Family', 'Romance']",7.215,4386,15000000,92108518,9820
+The Mask of Zorro,1998,"['Action', 'Adventure']",6.6,4191,95000000,250288523,9342
+The Prince of Egypt,1998,"['Adventure', 'Animation', 'Drama', 'Family']",7.298,4173,70000000,218613188,9837
+Enemy of the State,1998,"['Action', 'Drama', 'Thriller']",7.1,4082,90000000,250649836,9798
+Godzilla,1998,"['Science Fiction', 'Action', 'Thriller']",5.642,4082,130000000,379014294,929
+The Man in the Iron Mask,1998,"['Adventure', 'Action', 'Drama']",6.639,4003,35000000,183000000,9313
+You've Got Mail,1998,"['Comedy', 'Romance']",6.7,3486,65000000,250800000,9489
+Patch Adams,1998,"['Comedy', 'Drama']",7.311,3345,50000000,202292902,10312
+Doctor Dolittle,1998,"['Comedy', 'Family', 'Fantasy']",5.71,3187,71000000,294500000,3050
+Deep Impact,1998,"['Action', 'Drama', 'Science Fiction']",6.233,3178,75000000,349464664,8656
+The Thin Red Line,1998,"['Drama', 'History', 'War']",7.448,3167,52000000,98126565,8741
+Shakespeare in Love,1998,"['Romance', 'History', 'Comedy']",6.843,3114,25000000,289300000,1934
+Dark City,1998,"['Mystery', 'Science Fiction']",7.329,3037,27000000,27200000,2666
+Perfect Blue,1998,"['Animation', 'Thriller']",8.3,2977,3000000,683666,10494
+Lethal Weapon 4,1998,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",6.599,2804,140000000,285444603,944
+Rushmore,1998,"['Comedy', 'Drama']",7.39,2620,9000000,17096053,11545
+Taxi,1998,"['Action', 'Comedy', 'Crime', 'Adventure']",6.708,2605,8700000,44218015,2330
+Ronin,1998,"['Action', 'Thriller', 'Crime']",6.96,2522,55000000,70692101,8195
+Run Lola Run,1998,"['Action', 'Drama', 'Thriller']",7.293,2440,1530000,7660911,104
+What Dreams May Come,1998,"['Drama', 'Fantasy', 'Romance']",7.201,2408,85000000,71485043,12159
+Pi,1998,"['Mystery', 'Drama', 'Thriller']",7.112,2373,60000,3221152,473
+The Legend of 1900,1998,"['Drama', 'Music']",8.246,2361,9000000,21057208,10376
+City of Angels,1998,"['Romance', 'Drama', 'Fantasy']",6.814,2261,55000000,198685114,795
+The Negotiator,1998,"['Action', 'Crime', 'Drama', 'Thriller']",7.101,2260,50000000,44547681,9631
+Small Soldiers,1998,"['Comedy', 'Adventure', 'Fantasy', 'Science Fiction', 'Action']",6.552,2241,40000000,54682547,11551
+The Faculty,1998,"['Horror', 'Science Fiction']",6.6,2126,15000000,40283321,9276
+Bride of Chucky,1998,"['Horror', 'Comedy']",6.122,2050,25000000,50671850,11932
+The Dinner Game,1998,['Comedy'],7.762,1998,12500000,78599508,9421
+The Waterboy,1998,['Comedy'],6.06,1931,23000000,185991646,10663
+Wild Things,1998,"['Mystery', 'Thriller', 'Drama']",6.36,1867,20000000,67200000,617
+The Wedding Singer,1998,"['Romance', 'Comedy']",6.772,1839,18000000,123306987,11003
+Rounders,1998,"['Drama', 'Crime']",7.009,1835,12000000,22912409,10220
+Pleasantville,1998,"['Fantasy', 'Comedy', 'Drama']",7.258,1789,60000000,49800000,2657
+Halloween H20: 20 Years Later,1998,"['Horror', 'Thriller']",6.047,1740,17000000,75041738,11675
+Sphere,1998,"['Science Fiction', 'Mystery', 'Thriller']",6.129,1734,80000000,37020277,10153
+The X-Files,1998,"['Mystery', 'Science Fiction', 'Thriller']",6.895,1717,66000000,189198313,846
+U.S. Marshals,1998,"['Thriller', 'Crime', 'Action']",6.5,1711,60000000,102367405,11808
+Practical Magic,1998,"['Romance', 'Comedy', 'Fantasy']",6.776,1647,75000000,46733235,6435
+I Still Know What You Did Last Summer,1998,"['Horror', 'Mystery', 'Thriller']",5.376,1645,24000000,84002112,3600
+Mercury Rising,1998,"['Action', 'Crime', 'Drama', 'Thriller']",6.289,1597,60000000,93100000,8838
+Ring,1998,"['Horror', 'Thriller']",7.075,1553,1200000,19400000,2671
+Six Days Seven Nights,1998,"['Comedy', 'Action', 'Adventure', 'Romance']",6.1,1551,70000000,164839294,6068
+Pokémon: The First Movie,1998,"['Animation', 'Family', 'Adventure', 'Fantasy', 'Action']",6.938,1532,30000000,163644940,10228
+EverAfter,1998,"['Drama', 'Romance', 'Comedy']",7.44,1532,26000000,98005666,9454
+Fallen,1998,"['Crime', 'Drama', 'Thriller']",6.782,1519,46000000,25232289,9411
+Stepmom,1998,"['Drama', 'Romance', 'Comedy']",7.153,1504,50000000,159710793,9441
+A Perfect Murder,1998,"['Crime', 'Thriller', 'Drama']",6.54,1485,60000000,128038368,1965
+Elizabeth,1998,"['Drama', 'History']",7.168,1453,30000000,82150642,4518
+Snake Eyes,1998,"['Crime', 'Mystery', 'Thriller']",6.182,1443,73000000,103900000,8688
+The Siege,1998,"['Drama', 'Action', 'Thriller', 'Crime']",6.3,1415,70000000,116700000,9882
+Pocahontas II: Journey to a New World,1998,"['Animation', 'Family', 'Adventure', 'Romance']",5.517,1405,0,0,13761
+Urban Legend,1998,"['Horror', 'Mystery']",5.726,1397,14000000,72527595,9877
+Sliding Doors,1998,"['Comedy', 'Drama', 'Fantasy', 'Romance']",6.565,1375,6000000,58809149,10215
+That's Life,1998,['Comedy'],7.472,1356,0,0,38396
+Out of Sight,1998,"['Romance', 'Comedy', 'Crime']",6.7,1343,48000000,77745966,1389
+Vampires,1998,"['Action', 'Fantasy', 'Horror']",6.324,1308,20000000,20308772,9945
+Star Trek: Insurrection,1998,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",6.4,1295,70000000,112587658,200
+Babe: Pig in the City,1998,"['Family', 'Adventure', 'Comedy', 'Drama']",5.653,1293,90000000,69100000,9447
+Lost in Space,1998,"['Science Fiction', 'Adventure']",5.4,1269,80000000,136159423,2157
+The Celebration,1998,['Drama'],7.712,1191,1300000,0,309
+Jack Frost,1998,"['Comedy', 'Family', 'Drama', 'Fantasy']",6.02,1188,27000000,34562925,9745
+The Horse Whisperer,1998,"['Adventure', 'Drama', 'Romance']",6.9,1158,60000000,186883563,547
+Kirikou and the Sorceress,1998,"['Fantasy', 'Adventure', 'Animation', 'Family']",7.334,1139,4495000,0,21348
+The Visitors II: The Corridors of Time,1998,"['Comedy', 'Fantasy']",6.023,1037,23030000,66000000,10353
+Psycho,1998,"['Horror', 'Mystery', 'Thriller']",5.14,1013,25000000,37100000,11252
+A Simple Plan,1998,"['Crime', 'Drama', 'Thriller']",7.198,1006,17000000,16316273,10223
+Buffalo '66,1998,"['Drama', 'Romance', 'Comedy']",7.129,998,1500000,2375097,9464
+Central Station,1998,['Drama'],8.1,997,2900000,5596708,666
+A Night at the Roxbury,1998,"['Comedy', 'Romance']",6.531,960,17000000,30331165,9429
+Who Am I?,1998,"['Adventure', 'Action', 'Comedy', 'Thriller']",7.125,934,0,0,8697
+Soldier,1998,"['Science Fiction', 'Action', 'Drama', 'Fantasy']",6.402,895,75000000,14594226,9425
+Happiness,1998,"['Comedy', 'Drama']",7.445,885,3000000,2800000,10683
+Mighty Joe Young,1998,"['Adventure', 'Family', 'Action', 'Fantasy']",6.314,850,90000000,0,9822
+Quest for Camelot,1998,"['Fantasy', 'Animation', 'Drama', 'Romance', 'Family']",6.8,830,40000000,38210798,18937
+Scooby-Doo on Zombie Island,1998,"['Animation', 'Mystery', 'Family', 'Horror']",7.675,807,0,0,13151
+Gia,1998,"['Romance', 'Drama']",7.1,790,0,0,14533
+"Black Cat, White Cat",1998,"['Comedy', 'Romance', 'Crime']",7.659,779,0,0,1075
+Deep Rising,1998,"['Adventure', 'Action', 'Horror', 'Science Fiction']",6.157,771,45000000,11203026,9457
+Species II,1998,"['Science Fiction', 'Action', 'Horror']",5.165,765,35000000,19200000,10216
+He Got Game,1998,['Drama'],6.746,765,25000000,21567853,9469
+Hard Rain,1998,"['Thriller', 'Crime', 'Action']",5.858,748,70000000,19900000,11258
+The Avengers,1998,"['Action', 'Adventure', 'Thriller', 'Science Fiction', 'Comedy']",4.4,745,60000000,48600000,9320
+Blues Brothers 2000,1998,"['Music', 'Action', 'Comedy', 'Crime']",5.273,710,28000000,14051384,11568
+Apt Pupil,1998,"['Drama', 'Thriller']",6.512,689,14000000,8863193,9445
+Fight Club,1999,"['Drama', 'Thriller']",8.438,30996,63000000,100853753,550
+The Matrix,1999,"['Action', 'Science Fiction']",8.235,27004,63000000,463517383,603
+The Green Mile,1999,"['Fantasy', 'Drama', 'Crime']",8.502,18549,60000000,286801374,497
+Star Wars: Episode I - The Phantom Menace,1999,"['Adventure', 'Action', 'Science Fiction']",6.568,15354,115000000,924317558,1893
+Toy Story 2,1999,"['Animation', 'Comedy', 'Family']",7.602,14469,90000000,497375381,863
+American Beauty,1999,['Drama'],8.003,12643,15000000,356296601,14
+The Sixth Sense,1999,"['Mystery', 'Thriller', 'Drama']",7.9,12385,40000000,672800000,745
+The Mummy,1999,"['Adventure', 'Action', 'Fantasy']",7.0,9588,80000000,415885488,564
+10 Things I Hate About You,1999,"['Comedy', 'Romance', 'Drama']",7.589,8613,16000000,53478166,4951
+American Pie,1999,"['Comedy', 'Romance']",6.599,8028,11000000,235483004,2105
+Sleepy Hollow,1999,"['Fantasy', 'Thriller', 'Mystery', 'Horror']",7.187,7140,100000000,206071526,2668
+Tarzan,1999,"['Family', 'Adventure', 'Animation']",7.4,7102,130000000,448200000,37135
+Eyes Wide Shut,1999,"['Drama', 'Thriller', 'Mystery']",7.5,6661,65000000,162100000,345
+Notting Hill,1999,"['Romance', 'Comedy']",7.265,6478,42000000,363889678,509
+The Iron Giant,1999,"['Animation', 'Family', 'Science Fiction', 'Drama']",7.954,5935,50000000,23300000,10386
+The Blair Witch Project,1999,"['Horror', 'Mystery']",6.366,5196,60000,248639099,2667
+Being John Malkovich,1999,"['Comedy', 'Drama', 'Fantasy']",7.412,4609,13000000,22863596,492
+Stuart Little,1999,"['Family', 'Fantasy', 'Comedy', 'Adventure']",6.066,4518,133000000,300135367,10137
+"Girl, Interrupted",1999,['Drama'],7.6,4020,40000000,48350205,3558
+The Talented Mr. Ripley,1999,"['Thriller', 'Crime', 'Drama']",7.198,3975,40000000,128798265,1213
+Magnolia,1999,['Drama'],7.725,3808,37000000,48451803,334
+Bicentennial Man,1999,"['Science Fiction', 'Drama']",7.3,3773,100000000,87423861,2277
+The Bone Collector,1999,"['Drama', 'Mystery', 'Thriller', 'Crime']",6.793,3718,73000000,151493655,9481
+Austin Powers: The Spy Who Shagged Me,1999,"['Adventure', 'Comedy', 'Crime', 'Science Fiction']",6.293,3529,33000000,312016928,817
+Wild Wild West,1999,"['Action', 'Adventure', 'Comedy', 'Science Fiction', 'Western']",5.3,3453,170000000,222104681,8487
+Cruel Intentions,1999,"['Drama', 'Romance']",6.8,3435,10500000,76347426,796
+Big Daddy,1999,"['Comedy', 'Drama']",6.492,3421,34200000,234801895,9032
+Office Space,1999,['Comedy'],7.372,3219,10000000,12800000,1542
+The Ninth Gate,1999,"['Mystery', 'Thriller', 'Horror']",6.48,3201,38000000,58401898,622
+The World Is Not Enough,1999,"['Adventure', 'Action', 'Thriller']",6.283,3122,135000000,361832400,36643
+"South Park: Bigger, Longer & Uncut",1999,"['Animation', 'Comedy']",7.3,2833,21000000,83137864,9473
+Dogma,1999,"['Fantasy', 'Comedy', 'Adventure']",6.923,2688,10000000,33535478,1832
+The Boondock Saints,1999,"['Action', 'Thriller', 'Crime']",7.25,2568,6000000,38256,8374
+Deep Blue Sea,1999,"['Action', 'Horror', 'Science Fiction']",5.991,2562,60000000,164648231,8914
+Galaxy Quest,1999,"['Comedy', 'Science Fiction', 'Adventure']",7.077,2399,45000000,90683916,926
+She's All That,1999,"['Comedy', 'Romance']",6.3,2188,10000000,103166989,10314
+Three Kings,1999,"['Action', 'Comedy', 'War']",6.649,2186,75000000,108000000,6415
+8MM,1999,"['Thriller', 'Crime', 'Mystery']",6.464,2154,40000000,96618699,8224
+Entrapment,1999,"['Romance', 'Drama', 'Mystery']",6.2,2138,66000000,212404400,1844
+Runaway Bride,1999,"['Comedy', 'Romance']",6.118,2103,70000000,309500000,4806
+eXistenZ,1999,"['Action', 'Thriller', 'Science Fiction']",6.791,2079,15000000,2856712,1946
+Analyze This,1999,"['Comedy', 'Crime']",6.501,2028,80000000,176885658,9535
+Asterix and Obelix vs. Caesar,1999,"['Family', 'Adventure', 'Comedy', 'Fantasy']",6.011,1984,48500000,101644060,9564
+All About My Mother,1999,"['Comedy', 'Drama']",7.629,1984,8272296,67956089,99
+End of Days,1999,"['Action', 'Horror', 'Fantasy']",6.1,1961,100000000,212000000,9946
+The 13th Warrior,1999,"['Adventure', 'History', 'Action']",6.7,1958,120000000,61698899,1911
+The Insider,1999,"['Drama', 'Thriller']",7.5,1952,90000000,60300000,9008
+Payback,1999,"['Action', 'Drama', 'Crime', 'Thriller']",6.8,1920,90000000,161626121,2112
+Man on the Moon,1999,"['Comedy', 'Drama']",7.245,1895,82000000,47434430,1850
+Following,1999,"['Drama', 'Thriller']",7.1,1743,6000,48482,11660
+Any Given Sunday,1999,['Drama'],6.82,1728,55000000,100230832,9563
+The Straight Story,1999,['Drama'],7.7,1698,10000000,6418028,404
+Blue Streak,1999,"['Action', 'Comedy', 'Crime']",6.489,1563,65000000,117758500,11001
+Never Been Kissed,1999,"['Romance', 'Comedy', 'Drama']",6.2,1547,25000000,84565230,11355
+The Messenger: The Story of Joan of Arc,1999,"['Adventure', 'Drama', 'Action', 'History', 'War']",6.392,1531,85000000,66976317,10047
+Deuce Bigalow: Male Gigolo,1999,"['Comedy', 'Romance']",5.979,1480,17000000,92938755,10402
+The Hurricane,1999,['Drama'],7.432,1473,50000000,73956241,10400
+The Haunting,1999,"['Horror', 'Thriller', 'Fantasy', 'Mystery']",5.473,1448,80000000,177311151,11618
+The Thirteenth Floor,1999,"['Thriller', 'Science Fiction', 'Mystery']",7.072,1420,16000000,18564088,1090
+Double Jeopardy,1999,"['Drama', 'Thriller', 'Mystery']",6.622,1410,70000000,177841558,10398
+Boys Don't Cry,1999,"['Crime', 'Drama']",7.404,1400,2000000,11540607,226
+October Sky,1999,"['Drama', 'Family']",7.664,1345,25000000,34698685,13466
+Ghost Dog: The Way of the Samurai,1999,"['Crime', 'Drama']",7.335,1323,2000000,9392768,4816
+Universal Soldier: The Return,1999,"['Action', 'Science Fiction']",5.922,1306,33500000,10667893,10366
+Stir of Echoes,1999,"['Horror', 'Mystery', 'Thriller']",6.672,1300,12000000,21142914,11601
+The Thomas Crown Affair,1999,"['Drama', 'Crime', 'Romance']",6.744,1275,48000000,124305181,913
+Inspector Gadget,1999,"['Action', 'Adventure', 'Comedy', 'Family']",4.504,1274,75000000,134403112,332
+The Cider House Rules,1999,['Drama'],7.066,1232,24000000,88500000,1715
+Lake Placid,1999,"['Horror', 'Comedy', 'Action', 'Science Fiction', 'Thriller']",5.93,1202,27000000,56870414,9825
+Stigmata,1999,"['Horror', 'Thriller', 'Fantasy']",6.288,1177,29000000,50041732,10307
+Arlington Road,1999,"['Crime', 'Drama', 'Thriller', 'Mystery']",7.015,1176,31000000,41100000,1073
+Blast from the Past,1999,"['Drama', 'Romance', 'Comedy']",6.761,1160,35000000,40263020,11622
+Bringing Out the Dead,1999,['Drama'],6.599,1155,32000000,16797191,8649
+Election,1999,"['Comedy', 'Drama']",6.867,1136,25000000,14902041,9451
+The General's Daughter,1999,"['Thriller', 'Mystery', 'Crime']",6.415,984,60000000,149700000,2275
+The Astronaut's Wife,1999,"['Drama', 'Science Fiction', 'Thriller']",5.608,958,75000000,19598588,2900
+House on Haunted Hill,1999,['Horror'],5.607,924,37000000,40846082,11377
+Bowfinger,1999,['Comedy'],6.171,910,55000000,98625775,11353
+Pokémon the Movie 2000,1999,"['Adventure', 'Fantasy', 'Animation', 'Science Fiction', 'Family']",6.72,902,30000000,133949270,12599
+Mystery Men,1999,"['Adventure', 'Fantasy', 'Action', 'Comedy', 'Science Fiction']",5.819,875,68000000,29762011,9824
+Life,1999,"['Comedy', 'Crime']",6.651,839,80000000,73500000,6522
+True Crime,1999,"['Drama', 'Crime', 'Thriller', 'Mystery']",6.533,820,55000000,16700000,10354
+Anna and the King,1999,"['Drama', 'Romance', 'History']",6.8,810,75000000,113996937,1439
+Message in a Bottle,1999,"['Romance', 'Drama']",6.267,801,80000000,118880016,10207
+Go,1999,"['Crime', 'Comedy', 'Thriller']",6.985,777,6500000,28451622,9430
+Idle Hands,1999,"['Comedy', 'Horror', 'Fantasy', 'Romance']",6.177,714,25000000,4152230,6552
+Mickey's Once Upon a Christmas,1999,"['Animation', 'Family', 'Comedy']",7.119,697,0,0,15400
+EDtv,1999,['Comedy'],5.953,667,80000000,35242897,11374
+Ravenous,1999,"['Adventure', 'Western', 'Horror', 'Comedy']",6.848,663,12000000,2062405,10212
+Virus,1999,"['Horror', 'Action', 'Science Fiction']",5.393,647,75000000,30700000,9423
+Instinct,1999,"['Drama', 'Thriller']",6.492,636,80000000,34105207,12117
+Forces of Nature,1999,"['Romance', 'Comedy']",5.4,579,75000000,93888180,1641
+My Neighbors the Yamadas,1999,"['Animation', 'Comedy', 'Family']",7.0,578,0,0,16198
+Mickey Blue Eyes,1999,"['Comedy', 'Crime', 'Romance']",5.687,577,75000000,54264342,10154
+Pirates of Silicon Valley,1999,"['Drama', 'TV Movie']",7.046,571,0,0,3293
+Kikujiro,1999,"['Comedy', 'Drama']",7.501,566,0,0,4291
+Jawbreaker,1999,"['Comedy', 'Crime', 'Thriller']",6.4,563,3000000,3100000,18892
+I Stand Alone,1999,"['Drama', 'Thriller']",7.421,554,0,6955,1567
+Sweet and Lowdown,1999,"['Comedy', 'Drama', 'Music']",6.756,531,29750000,4525794,9684
+Jin-Roh: The Wolf Brigade,1999,"['Animation', 'Drama', 'Romance', 'Thriller', 'Science Fiction']",7.414,527,0,94072,823
+Gladiator,2000,"['Action', 'Drama', 'Adventure']",8.22,20225,103000000,465516248,98
+Memento,2000,"['Mystery', 'Thriller']",8.178,15673,9000000,40047236,77
+Cast Away,2000,"['Adventure', 'Drama']",7.66,11910,90000000,429632142,8358
+X-Men,2000,"['Adventure', 'Action', 'Science Fiction']",7.007,11854,75000000,296339527,36657
+American Psycho,2000,"['Thriller', 'Drama', 'Crime']",7.408,11735,7000000,34300000,1359
+Requiem for a Dream,2000,"['Crime', 'Drama']",8.013,10582,4500000,7390108,641
+Unbreakable,2000,"['Thriller', 'Drama', 'Mystery']",7.144,9659,75000000,248118121,9741
+Snatch,2000,"['Crime', 'Comedy']",7.817,9586,100000000,83557872,107
+How the Grinch Stole Christmas,2000,"['Family', 'Comedy', 'Fantasy']",6.8,7935,123000000,345800000,8871
+Scary Movie,2000,['Comedy'],6.4,7391,19000000,278022760,4247
+Mission: Impossible II,2000,"['Adventure', 'Action', 'Thriller']",6.132,7284,125000000,546388108,955
+The Emperor's New Groove,2000,"['Adventure', 'Animation', 'Comedy', 'Family', 'Fantasy']",7.557,7077,100000000,169327687,11688
+Final Destination,2000,['Horror'],6.626,6391,23000000,112880294,9532
+Meet the Parents,2000,"['Comedy', 'Romance']",6.686,6187,55000000,330444045,1597
+Chicken Run,2000,"['Animation', 'Comedy', 'Family']",6.834,5252,45000000,224834564,7443
+Gone in Sixty Seconds,2000,"['Action', 'Crime', 'Thriller']",6.447,4686,90000000,237200000,9679
+Pitch Black,2000,"['Thriller', 'Science Fiction', 'Action']",6.856,4636,23000000,53187659,2787
+The Beach,2000,"['Drama', 'Adventure', 'Romance', 'Thriller']",6.485,4555,40000000,144056873,1907
+"O Brother, Where Art Thou?",2000,"['Adventure', 'Comedy', 'Crime']",7.318,4401,26000000,71877090,134
+Charlie's Angels,2000,"['Action', 'Adventure', 'Comedy', 'Crime', 'Thriller']",5.849,4355,92000000,264105545,4327
+What Women Want,2000,"['Comedy', 'Romance']",6.444,4174,70000000,374100000,3981
+The Patriot,2000,"['Drama', 'History', 'War', 'Action']",7.182,4132,110000000,215294342,2024
+Miss Congeniality,2000,"['Comedy', 'Crime', 'Action']",6.5,4093,45000000,212000000,1493
+"Me, Myself & Irene",2000,['Comedy'],6.605,4081,51000000,149270999,2123
+Billy Elliot,2000,"['Drama', 'Comedy', 'Music']",7.6,3974,5000000,109280263,71
+The Road to El Dorado,2000,"['Family', 'Adventure', 'Animation', 'Comedy', 'Fantasy']",7.3,3936,95000000,76400000,10501
+Scream 3,2000,"['Horror', 'Mystery']",6.0,3842,40000000,161834276,4234
+Battle Royale,2000,"['Drama', 'Thriller', 'Action']",7.281,3646,4500000,30600000,3176
+The Virgin Suicides,2000,"['Drama', 'Romance']",7.118,3476,6000000,10409377,1443
+Erin Brockovich,2000,['Drama'],7.436,3473,52000000,256271286,462
+"Crouching Tiger, Hidden Dragon",2000,"['Adventure', 'Drama', 'Action', 'Romance']",7.432,3421,17000000,213978518,146
+Chocolat,2000,"['Comedy', 'Drama', 'Romance']",6.97,3409,25000000,152500000,392
+In the Mood for Love,2000,"['Drama', 'Romance']",8.1,3078,3000000,15867968,843
+Almost Famous,2000,"['Drama', 'Music']",7.5,2971,60000000,47386287,786
+Remember the Titans,2000,['Drama'],7.645,2818,30000000,136700000,10637
+Amores Perros,2000,"['Drama', 'Thriller']",7.629,2782,2000000,20908467,55
+Shanghai Noon,2000,"['Adventure', 'Action', 'Comedy', 'Western']",6.417,2666,55000000,99274467,8584
+Dinosaur,2000,"['Animation', 'Family', 'Adventure', 'Drama']",6.5,2659,127500000,354248063,10567
+Hollow Man,2000,"['Action', 'Science Fiction', 'Thriller']",5.952,2655,95000000,190213455,9383
+The Perfect Storm,2000,"['Drama', 'Adventure', 'Action']",6.484,2458,130000000,328718434,2133
+Men of Honor,2000,['Drama'],7.489,2409,32000000,82300000,11978
+Malena,2000,['Drama'],7.434,2399,0,14493284,10867
+Big Momma's House,2000,"['Crime', 'Comedy']",5.83,2394,30000000,173959438,9600
+Traffic,2000,"['Thriller', 'Drama', 'Crime']",7.1,2292,48000000,207500000,1900
+Coyote Ugly,2000,"['Comedy', 'Drama', 'Music', 'Romance']",6.271,2188,45000000,113900000,6282
+The 6th Day,2000,"['Science Fiction', 'Action', 'Mystery', 'Drama', 'Thriller']",5.995,2161,82000000,96085477,8452
+High Fidelity,2000,"['Drama', 'Comedy', 'Romance', 'Music']",7.119,2105,30000000,47100000,243
+The Family Man,2000,"['Comedy', 'Drama', 'Romance', 'Fantasy']",6.806,2087,60000000,124700000,5994
+Road Trip,2000,"['Comedy', 'Adventure']",6.223,2074,16000000,119754278,9285
+Bedazzled,2000,"['Fantasy', 'Comedy', 'Romance']",6.071,2014,48000000,90383208,1636
+The Whole Nine Yards,2000,"['Comedy', 'Crime']",6.459,1996,41300000,106371651,2069
+"Dude, Where's My Car?",2000,"['Comedy', 'Romance', 'Science Fiction', 'Mystery']",5.5,1986,13000000,73180723,8859
+What Lies Beneath,2000,"['Drama', 'Horror', 'Mystery', 'Thriller']",6.433,1947,100000000,291420351,2655
+Pay It Forward,2000,['Drama'],7.354,1919,40000000,55707411,10647
+Little Nicky,2000,"['Comedy', 'Fantasy']",5.856,1909,85000000,58292295,9678
+Dancer in the Dark,2000,"['Drama', 'Crime']",7.9,1908,12500000,40061153,16
+Frequency,2000,"['Science Fiction', 'Thriller', 'Family', 'Crime']",7.255,1906,31000000,68106245,10559
+Taxi 2,2000,"['Action', 'Comedy', 'Adventure', 'Crime']",6.26,1823,10500000,64433844,2332
+Bring It On,2000,['Comedy'],6.267,1791,28000000,90449929,1588
+The Little Mermaid II: Return to the Sea,2000,"['Animation', 'Adventure', 'Family', 'Comedy']",6.399,1754,0,0,10898
+Ask Me If I'm Happy,2000,['Comedy'],7.656,1690,0,0,50531
+Audition,2000,"['Horror', 'Drama']",7.122,1677,250000,359853,11075
+The Crimson Rivers,2000,"['Crime', 'Mystery', 'Thriller']",6.928,1632,2365000,0,60670
+The Cell,2000,"['Horror', 'Science Fiction', 'Thriller']",6.273,1628,33000000,104155843,8843
+Mission to Mars,2000,"['Science Fiction', 'Adventure', 'Mystery']",6.0,1509,90000000,110983407,2067
+Space Cowboys,2000,"['Action', 'Adventure', 'Thriller']",6.4,1454,65000000,128900000,5551
+102 Dalmatians,2000,"['Family', 'Comedy']",5.511,1427,85000000,183611771,10481
+Shaft,2000,"['Action', 'Adventure', 'Crime', 'Thriller']",6.012,1376,46000000,107626125,479
+Nutty Professor II: The Klumps,2000,"['Fantasy', 'Comedy', 'Romance', 'Science Fiction']",5.0,1361,84000000,123307945,12107
+Fantasia 2000,2000,"['Animation', 'Family', 'Music']",7.0,1336,80000000,60655420,49948
+The Gift,2000,"['Horror', 'Drama', 'Thriller', 'Mystery']",6.5,1313,10000000,12008642,2046
+U-571,2000,"['War', 'Action', 'Adventure']",6.514,1297,62000000,127700000,3536
+Romeo Must Die,2000,"['Action', 'Crime', 'Thriller']",6.275,1271,25000000,91036760,2085
+For the Birds,2000,"['Animation', 'Family', 'Comedy']",7.477,1259,0,0,13930
+A Dog's Will,2000,"['Comedy', 'Drama', 'Fantasy', 'Romance']",8.421,1191,0,4903192,40096
+Batman Beyond: Return of the Joker,2000,"['Animation', 'Action', 'Science Fiction', 'Thriller']",7.3,1166,0,0,16234
+Finding Forrester,2000,"['Drama', 'History']",7.115,1157,43000000,80100000,711
+Titan A.E.,2000,"['Animation', 'Science Fiction', 'Adventure', 'Family', 'Action']",6.595,1134,75000000,36754634,7450
+Red Planet,2000,"['Thriller', 'Action', 'Science Fiction']",5.7,1099,80000000,33463969,8870
+Vertical Limit,2000,"['Adventure', 'Action', 'Thriller']",5.997,1084,75000000,215663859,11678
+The Kid,2000,"['Fantasy', 'Comedy', 'Family']",6.744,1068,65000000,110317580,4244
+28 Days,2000,"['Comedy', 'Drama']",6.2,1044,43000000,62198945,10468
+The Replacements,2000,['Comedy'],6.689,1033,50000000,50054511,10393
+The Legend of Bagger Vance,2000,"['Drama', 'Romance', 'Fantasy']",6.589,958,80000000,39459427,4958
+Battlefield Earth,2000,"['Science Fiction', 'Action', 'Adventure']",3.318,893,44000000,29725663,5491
+Book of Shadows: Blair Witch 2,2000,"['Horror', 'Mystery']",4.315,880,15000000,47737094,11531
+Proof of Life,2000,"['Thriller', 'Action', 'Drama']",6.1,828,65000000,62761005,11983
+Thirteen Days,2000,"['History', 'Thriller']",6.996,794,80000000,34566746,11973
+The Flintstones in Viva Rock Vegas,2000,"['Comedy', 'Family', 'Romance']",4.8,785,83000000,59468275,889
+But I'm a Cheerleader,2000,"['Comedy', 'Romance']",7.04,779,1200000,2600000,20770
+Nine Queens,2000,"['Crime', 'Thriller', 'Drama']",7.759,771,1300000,12413888,18079
+Joint Security Area,2000,"['Drama', 'Thriller', 'Action']",7.8,769,12500000,0,2440
+Rules of Engagement,2000,"['War', 'Drama']",6.3,758,60000000,71000000,10479
+Autumn in New York,2000,"['Drama', 'Romance']",6.12,741,65000000,90726668,10641
+Dracula 2000,2000,"['Thriller', 'Horror', 'Action', 'Fantasy']",5.241,719,28000000,47053625,10577
+Where the Heart Is,2000,"['Comedy', 'Drama', 'Romance']",7.1,718,15000000,33800000,10564
+Small Time Crooks,2000,"['Comedy', 'Crime']",6.4,717,25000000,29934477,10569
+One Hundred Steps,2000,"['Drama', 'History']",7.791,713,0,1805884,29458
+Boiler Room,2000,"['Crime', 'Drama', 'Thriller']",6.712,712,7000000,28780255,14181
+Reindeer Games,2000,"['Thriller', 'Action', 'Crime']",5.7,698,42000000,32168970,2155
+Harry Potter and the Philosopher's Stone,2001,"['Adventure', 'Fantasy']",7.9,28818,125000000,976475550,671
+The Lord of the Rings: The Fellowship of the Ring,2001,"['Adventure', 'Fantasy', 'Action']",8.426,26605,93000000,871368364,120
+"Monsters, Inc.",2001,"['Animation', 'Comedy', 'Family']",7.847,19244,115000000,579700000,585
+Shrek,2001,"['Animation', 'Comedy', 'Fantasy', 'Adventure', 'Family']",7.753,18118,60000000,488628188,808
+Spirited Away,2001,"['Animation', 'Family', 'Fantasy']",8.534,17647,19000000,274925095,129
+Donnie Darko,2001,"['Fantasy', 'Drama', 'Mystery']",7.767,13007,4500000,7500000,141
+Ocean's Eleven,2001,"['Thriller', 'Crime']",7.5,12152,85000000,450717150,161
+Amélie,2001,"['Comedy', 'Romance']",7.913,12020,10000000,173921954,194
+A Beautiful Mind,2001,"['Drama', 'Romance']",7.855,10710,58000000,316791257,453
+The Fast and the Furious,2001,"['Action', 'Crime', 'Thriller']",6.996,10491,38000000,207283925,9799
+Jurassic Park III,2001,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",6.168,7579,93000000,368780809,331
+The Mummy Returns,2001,"['Adventure', 'Action', 'Fantasy']",6.4,7392,98000000,443280904,1734
+The Others,2001,"['Horror', 'Mystery', 'Thriller']",7.614,6907,17000000,210002906,1933
+Pearl Harbor,2001,"['War', 'Romance', 'History', 'Action']",6.94,6786,140000000,449220945,676
+Mulholland Drive,2001,"['Thriller', 'Drama', 'Mystery']",7.8,6737,15000000,20289986,1018
+A.I. Artificial Intelligence,2001,"['Drama', 'Science Fiction', 'Adventure']",7.051,6445,100000000,235926552,644
+Lara Croft: Tomb Raider,2001,"['Adventure', 'Action', 'Fantasy']",5.907,6326,115000000,274703340,1995
+Training Day,2001,"['Action', 'Crime', 'Drama']",7.508,6315,45000000,104900000,2034
+Black Hawk Down,2001,"['Action', 'War', 'History']",7.387,6107,92000000,172989651,855
+Bridget Jones's Diary,2001,"['Comedy', 'Romance', 'Drama']",6.742,5331,25000000,281929795,634
+The Princess Diaries,2001,"['Comedy', 'Family', 'Romance']",6.965,5146,37000000,165335153,9880
+American Pie 2,2001,"['Comedy', 'Romance']",6.248,5129,30000000,287553595,2770
+Atlantis: The Lost Empire,2001,"['Animation', 'Family', 'Adventure', 'Science Fiction']",7.0,4994,120000000,186053725,10865
+Hannibal,2001,"['Crime', 'Drama', 'Thriller']",6.768,4992,87000000,351692268,9740
+Scary Movie 2,2001,['Comedy'],5.8,4917,45000000,141220678,4248
+The Royal Tenenbaums,2001,"['Comedy', 'Drama']",7.464,4792,21000000,71441250,9428
+Moulin Rouge!,2001,"['Drama', 'Romance', 'Music']",7.54,4710,52500000,179213434,824
+Zoolander,2001,['Comedy'],6.209,4703,28000000,60780981,9398
+Blow,2001,"['Crime', 'Drama']",7.356,4472,53000000,83300000,4133
+Vanilla Sky,2001,"['Mystery', 'Romance', 'Science Fiction']",6.819,4453,68000000,203388341,1903
+Rush Hour 2,2001,"['Action', 'Comedy', 'Crime']",6.751,4392,90000000,347325802,5175
+Legally Blonde,2001,"['Comedy', 'Romance']",6.809,4336,18000000,141778365,8835
+Planet of the Apes,2001,"['Thriller', 'Science Fiction', 'Action', 'Adventure']",5.763,4265,100000000,362211740,869
+Enemy at the Gates,2001,"['Drama', 'War', 'History', 'Romance']",7.419,3879,68000000,96976270,853
+Spy Kids,2001,"['Family', 'Action', 'Comedy', 'Adventure', 'Science Fiction']",5.816,3594,35000000,147934180,10054
+A Knight's Tale,2001,"['Adventure', 'Drama', 'Romance', 'Action']",6.864,3246,65000000,117487473,9476
+Jeepers Creepers,2001,['Horror'],6.475,3162,10000000,59217789,8922
+Shallow Hal,2001,"['Comedy', 'Romance', 'Fantasy', 'Drama']",6.164,3032,40000000,141069860,9889
+From Hell,2001,"['Horror', 'Mystery', 'Thriller']",6.7,2929,35000000,74558115,768
+Swordfish,2001,"['Action', 'Crime', 'Thriller']",6.249,2836,102000000,147080413,9705
+K-PAX,2001,"['Science Fiction', 'Drama', 'Mystery']",7.213,2596,48000000,50315140,167
+Shaolin Soccer,2001,"['Action', 'Comedy']",7.15,2417,10000005,42776760,11770
+I Am Sam,2001,['Drama'],7.551,2396,22000000,92542418,10950
+Evolution,2001,"['Comedy', 'Science Fiction', 'Action']",6.101,2369,80000000,98376292,9397
+Thir13en Ghosts,2001,"['Horror', 'Thriller']",6.297,2279,42000000,68467960,9378
+Spy Game,2001,"['Action', 'Crime', 'Thriller']",6.908,2241,115000000,143049560,1535
+Not Another Teen Movie,2001,['Comedy'],5.794,2192,16000000,66468332,11397
+Serendipity,2001,"['Comedy', 'Romance']",6.951,2040,28000000,77516304,9778
+Along Came a Spider,2001,"['Crime', 'Mystery', 'Thriller', 'Action']",6.339,1970,60000000,105200000,2043
+Rat Race,2001,"['Adventure', 'Comedy']",6.275,1889,48000000,85498534,9896
+Ali,2001,['Drama'],6.76,1805,107000000,87812729,8489
+The Score,2001,"['Action', 'Crime', 'Thriller', 'Mystery', 'Drama']",6.696,1768,68000000,113579918,11371
+The Wedding Planner,2001,"['Comedy', 'Romance']",5.9,1765,35000000,94700000,2018
+Dr. Dolittle 2,2001,"['Comedy', 'Family', 'Romance', 'Fantasy']",5.316,1720,70000000,176100000,10808
+Cats & Dogs,2001,"['Family', 'Comedy', 'Action', 'Adventure', 'Fantasy']",5.4,1695,60000000,200687492,10992
+The Man Who Wasn't There,2001,"['Crime', 'Drama']",7.516,1678,20000000,18918721,10778
+The One,2001,"['Action', 'Science Fiction', 'Thriller']",6.133,1662,49000000,72689126,10796
+Jay and Silent Bob Strike Back,2001,"['Comedy', 'Adventure']",6.4,1659,22000000,33788161,2294
+Y Tu Mamá También,2001,"['Drama', 'Romance']",7.4,1659,5000000,33600000,1391
+Brotherhood of the Wolf,2001,"['Adventure', 'Horror', 'Action', 'History']",6.719,1653,29000000,70800000,6312
+Behind Enemy Lines,2001,"['Action', 'Drama', 'Thriller', 'War']",6.415,1581,40000000,91753202,8007
+Final Fantasy: The Spirits Within,2001,"['Adventure', 'Action', 'Fantasy', 'Science Fiction', 'Thriller', 'Romance', 'Animation']",6.197,1539,137000000,85131830,2114
+The Mexican,2001,"['Action', 'Comedy', 'Crime', 'Romance']",5.925,1533,57000000,147845033,6073
+Ghost World,2001,"['Comedy', 'Drama']",7.082,1515,7000000,8800000,1548
+Jason X,2001,"['Horror', 'Science Fiction']",4.87,1452,11000000,16951798,11470
+Kate & Leopold,2001,"['Romance', 'Comedy', 'Fantasy']",6.34,1432,48000000,76019048,11232
+Sweet November,2001,"['Drama', 'Romance']",6.9,1384,40000000,65754228,1921
+Wasabi,2001,"['Drama', 'Action', 'Comedy']",6.647,1367,15300000,10366360,2110
+The Last Castle,2001,"['Action', 'Drama', 'Thriller']",7.166,1354,72000000,27642707,2100
+Save the Last Dance,2001,"['Drama', 'Family', 'Romance', 'Music']",6.54,1325,13000000,131706809,9816
+The Animal,2001,"['Comedy', 'Science Fiction']",5.123,1315,22000000,84772742,11090
+The Devil's Backbone,2001,"['Fantasy', 'Drama', 'Horror', 'Thriller']",7.285,1300,4500000,6582065,1433
+Lady and the Tramp II: Scamp's Adventure,2001,"['Family', 'Animation', 'Romance', 'Adventure']",6.346,1295,0,0,18269
+Joy Ride,2001,"['Mystery', 'Thriller', 'Drama']",6.52,1277,23000000,36642838,10866
+Kiss of the Dragon,2001,"['Action', 'Crime', 'Thriller']",6.9,1276,25000000,64437847,2140
+The Piano Teacher,2001,"['Drama', 'Romance']",7.3,1196,6200000,6766708,1791
+Ghosts of Mars,2001,"['Action', 'Horror', 'Science Fiction']",5.149,1174,28000000,14010832,10016
+Super Troopers,2001,"['Comedy', 'Crime', 'Mystery']",6.553,1172,3000000,23182223,39939
+Gosford Park,2001,"['Drama', 'Mystery', 'Thriller']",6.8,1172,19800000,87754044,5279
+The Pledge,2001,"['Crime', 'Drama', 'Mystery', 'Thriller']",6.565,1163,35000000,29419291,5955
+The Experiment,2001,"['Drama', 'Thriller']",7.408,1154,0,13782896,575
+Black Knight,2001,"['Comedy', 'Fantasy', 'Adventure']",5.349,1152,50000000,33422806,11469
+Barbie in the Nutcracker,2001,"['Animation', 'Family']",6.9,1088,0,0,15167
+Osmosis Jones,2001,"['Adventure', 'Animation', 'Action', 'Comedy', 'Family']",6.5,1056,75000000,13596911,12610
+Bandits,2001,"['Comedy', 'Crime']",6.3,1055,75000000,67631903,3172
+The Glass House,2001,"['Drama', 'Thriller']",6.0,1051,30000000,23619609,2176
+Ichi the Killer,2001,"['Action', 'Crime', 'Horror']",6.993,1047,1400010,80631,9696
+Monster's Ball,2001,"['Drama', 'Romance']",6.766,1038,4000000,44900000,1365
+How High,2001,['Comedy'],6.347,1000,12000000,31200000,8386
+Don't Say a Word,2001,"['Thriller', 'Mystery']",6.256,997,50000000,100020092,12103
+Cowboy Bebop: The Movie,2001,"['Action', 'Animation', 'Science Fiction']",7.7,983,0,0,11299
+Session 9,2001,"['Horror', 'Mystery', 'Drama']",6.142,971,1500000,1612259,10972
+Jimmy Neutron: Boy Genius,2001,"['Family', 'Comedy', 'Adventure', 'Animation', 'Science Fiction']",6.1,959,25000000,80936232,12589
+Heartbreakers,2001,"['Comedy', 'Romance', 'Crime']",6.112,954,35000000,57800000,10833
+Ginger Snaps,2001,"['Fantasy', 'Horror', 'Drama', 'Thriller']",6.907,949,5000000,0,9871
+Waking Life,2001,"['Animation', 'Drama', 'Fantasy']",7.474,912,2000000,3176880,9081
+Don't Die Too Hard!,2001,"['Comedy', 'Action']",6.346,888,0,0,15449
+America's Sweethearts,2001,"['Comedy', 'Romance']",5.699,869,64400000,138191428,11467
+Original Sin,2001,"['Thriller', 'Drama', 'Mystery', 'Romance']",6.1,868,42000000,35402320,2057
+The Hole,2001,"['Crime', 'Drama', 'Horror', 'Thriller']",6.207,863,4158370,7819851,467
+The Lord of the Rings: The Two Towers,2002,"['Adventure', 'Fantasy', 'Action']",8.411,23109,79000000,926287400,121
+Harry Potter and the Chamber of Secrets,2002,"['Adventure', 'Fantasy']",7.705,22978,100000000,876688482,672
+Spider-Man,2002,"['Action', 'Science Fiction']",7.316,20038,139000000,821708551,557
+Catch Me If You Can,2002,"['Drama', 'Crime']",7.979,16501,52000000,352114312,640
+Star Wars: Episode II - Attack of the Clones,2002,"['Adventure', 'Action', 'Science Fiction']",6.586,13906,120000000,649398328,1894
+Ice Age,2002,"['Animation', 'Comedy', 'Family', 'Adventure']",7.366,13902,59000000,383257136,425
+Men in Black II,2002,"['Action', 'Comedy', 'Science Fiction']",6.381,10335,140000000,445135288,608
+The Pianist,2002,"['Drama', 'War']",8.38,9770,35000000,120098945,423
+The Bourne Identity,2002,"['Action', 'Drama', 'Mystery', 'Thriller']",7.5,9733,60000000,214034224,2501
+Minority Report,2002,"['Science Fiction', 'Action', 'Thriller']",7.35,9255,102000000,358372926,180
+28 Days Later,2002,"['Horror', 'Thriller', 'Science Fiction']",7.233,7959,8000000,85032676,170
+City of God,2002,"['Drama', 'Crime']",8.428,7875,3300000,30641770,598
+8 Mile,2002,"['Drama', 'Music']",7.143,7587,41000000,242875078,65
+Gangs of New York,2002,"['Drama', 'History', 'Crime']",7.314,6941,100000000,193772504,3131
+Lilo & Stitch,2002,"['Animation', 'Family', 'Comedy']",7.562,6873,80000000,273144151,11544
+Resident Evil,2002,"['Horror', 'Action', 'Science Fiction']",6.647,6686,33000000,102984862,1576
+The Ring,2002,"['Horror', 'Mystery']",6.69,6452,48000000,249348933,565
+Signs,2002,"['Drama', 'Thriller', 'Science Fiction', 'Mystery']",6.7,5983,72000000,408200000,2675
+The Transporter,2002,"['Action', 'Crime', 'Thriller']",6.713,5616,21000000,43900000,4108
+Panic Room,2002,"['Crime', 'Drama', 'Thriller']",6.791,5228,48000000,197100000,4547
+Insomnia,2002,"['Thriller', 'Crime', 'Drama']",6.955,5037,46000000,113714830,320
+Blade II,2002,"['Fantasy', 'Horror', 'Action', 'Thriller']",6.555,5014,54000000,155010032,36586
+Equilibrium,2002,"['Action', 'Science Fiction', 'Thriller']",7.046,4810,20000000,5400000,7299
+Spirit: Stallion of the Cimarron,2002,"['Animation', 'Adventure', 'Family', 'Drama', 'Western', 'Romance']",7.685,4789,80000000,122563539,9023
+xXx,2002,"['Action', 'Adventure', 'Thriller', 'Crime', 'Drama']",6.0,4661,70000000,277448382,7451
+Scooby-Doo,2002,"['Mystery', 'Adventure', 'Comedy']",6.094,4641,84000000,275650703,9637
+Red Dragon,2002,"['Crime', 'Thriller', 'Horror']",7.033,4526,78000000,209196298,9533
+Treasure Planet,2002,"['Science Fiction', 'Adventure', 'Animation', 'Family', 'Fantasy']",7.561,4454,140000000,109578115,9016
+A Walk to Remember,2002,"['Drama', 'Romance']",7.757,4172,11800000,47494916,10229
+Road to Perdition,2002,"['Crime', 'Drama', 'Thriller']",7.348,3837,80000000,181001478,4147
+Die Another Day,2002,"['Adventure', 'Action', 'Thriller']",5.997,3732,142000000,431971116,36669
+Asterix & Obelix: Mission Cleopatra,2002,"['Family', 'Fantasy', 'Comedy', 'Adventure']",7.374,3674,58500000,131116046,2899
+Austin Powers in Goldmember,2002,"['Comedy', 'Crime', 'Science Fiction']",6.0,3289,63000000,296938801,818
+The Scorpion King,2002,"['Action', 'Adventure', 'Fantasy', 'Drama']",5.594,3268,60000000,165333180,9334
+Irreversible,2002,"['Drama', 'Thriller', 'Crime']",7.185,3130,3500000,6500000,979
+Chicago,2002,"['Comedy', 'Crime', 'Drama']",7.123,2786,45000000,306776732,1574
+Adaptation.,2002,"['Comedy', 'Crime', 'Drama']",7.347,2648,19000000,32800000,2757
+Punch-Drunk Love,2002,"['Romance', 'Drama', 'Comedy']",7.113,2573,25000000,24665649,8051
+Ghost Ship,2002,"['Horror', 'Mystery', 'Thriller']",5.995,2552,35000000,71142361,9645
+John Q,2002,"['Drama', 'Thriller', 'Crime']",7.132,2515,36000000,102244770,8470
+Stuart Little 2,2002,"['Family', 'Adventure', 'Comedy']",5.767,2492,120000000,169956806,10996
+25th Hour,2002,"['Crime', 'Drama']",7.319,2467,5000000,23932055,1429
+The Time Machine,2002,"['Science Fiction', 'Adventure', 'Action']",6.305,2442,80000000,123700000,2135
+Mr. Deeds,2002,"['Comedy', 'Romance']",5.914,2426,50000000,171269565,2022
+Hero,2002,"['Drama', 'Adventure', 'Action', 'History']",7.499,2382,31000000,177394432,79
+Return to Never Land,2002,"['Adventure', 'Fantasy', 'Animation', 'Family']",6.474,2365,20000000,109862682,16690
+The Cat Returns,2002,"['Adventure', 'Fantasy', 'Animation', 'Drama', 'Family']",7.123,2360,0,54016370,15370
+Reign of Fire,2002,"['Adventure', 'Action', 'Fantasy']",6.2,2358,60000000,82150183,6278
+About a Boy,2002,"['Drama', 'Comedy', 'Romance']",6.686,2311,27000000,129000000,245
+Spy Kids 2: The Island of Lost Dreams,2002,"['Family', 'Action', 'Adventure', 'Comedy', 'Science Fiction']",5.655,2282,38000000,119723358,9488
+My Big Fat Greek Wedding,2002,"['Comedy', 'Drama', 'Romance']",6.5,2223,5000000,368744044,8346
+We Were Soldiers,2002,"['Action', 'History', 'War']",7.141,2172,75000000,114660784,10590
+Two Weeks Notice,2002,"['Romance', 'Comedy']",6.363,2139,60000000,199043242,2642
+Frida,2002,"['Drama', 'Romance']",7.401,2103,12000000,56298474,1360
+The Hot Chick,2002,"['Comedy', 'Fantasy']",6.361,2093,34000000,54639553,11852
+The Tuxedo,2002,"['Thriller', 'Action', 'Comedy', 'Science Fiction']",5.726,2073,60000000,104400000,10771
+Maid in Manhattan,2002,"['Comedy', 'Drama', 'Romance']",6.1,2006,55000000,154906693,7303
+Bend It Like Beckham,2002,"['Comedy', 'Drama', 'Romance']",6.325,1968,3500000,76585951,455
+The Count of Monte Cristo,2002,"['Adventure', 'Drama', 'History', 'Action', 'Thriller']",7.672,1928,35000000,75395048,11362
+National Lampoon's Van Wilder,2002,"['Comedy', 'Romance']",6.0,1890,6000000,39241323,11452
+The Sum of All Fears,2002,"['Thriller', 'Action', 'Drama']",6.4,1856,68000000,193921372,4614
+The Hours,2002,['Drama'],7.3,1815,25000000,108846217,590
+One Hour Photo,2002,"['Drama', 'Thriller']",6.643,1813,12000000,52223306,9357
+Secretary,2002,"['Romance', 'Drama', 'Comedy']",6.778,1774,4000000,9300000,11013
+Infernal Affairs,2002,"['Drama', 'Action', 'Thriller', 'Crime', 'Mystery']",7.804,1770,6400000,8836958,10775
+Jackass: The Movie,2002,"['Action', 'Comedy', 'Documentary']",6.32,1661,5000000,64282312,9012
+Unfaithful,2002,"['Thriller', 'Drama', 'Romance']",6.675,1632,50000000,119137784,2251
+Bowling for Columbine,2002,"['Documentary', 'Drama']",7.516,1632,4000000,35564473,1430
+Sweet Home Alabama,2002,"['Comedy', 'Romance']",6.4,1619,30000000,180622424,11529
+Sympathy for Mr. Vengeance,2002,"['Action', 'Drama', 'Thriller']",7.5,1558,4000000,1954937,4689
+Cube 2: Hypercube,2002,"['Thriller', 'Science Fiction', 'Mystery']",5.487,1536,0,3563603,437
+Star Trek: Nemesis,2002,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",6.3,1515,60000000,67336470,201
+Cinderella II: Dreams Come True,2002,"['Family', 'Animation', 'Romance', 'Fantasy']",6.106,1504,5000000,0,14128
+Ali G Indahouse,2002,['Comedy'],6.053,1434,7000000,23280529,9298
+Collateral Damage,2002,"['Action', 'Thriller', 'Drama']",5.767,1430,85000000,78382433,9884
+Solaris,2002,"['Drama', 'Science Fiction', 'Mystery']",5.921,1383,47000000,30002758,2103
+Talk to Her,2002,"['Drama', 'Romance']",7.575,1379,0,64803131,64
+The Santa Clause 2,2002,"['Fantasy', 'Comedy', 'Family']",5.983,1370,65000000,172842355,9021
+Halloween: Resurrection,2002,"['Horror', 'Thriller']",4.617,1363,13000000,37664855,11442
+Windtalkers,2002,"['War', 'Action']",6.323,1350,115000000,77600000,12100
+Home Alone 4,2002,"['Comedy', 'Family', 'TV Movie']",4.512,1325,0,0,12536
+Analyze That,2002,"['Comedy', 'Crime']",5.82,1323,60000000,55003135,9932
+About Schmidt,2002,"['Drama', 'Comedy']",6.841,1316,30000000,105834556,2755
+Eight Legged Freaks,2002,"['Action', 'Comedy', 'Horror', 'Thriller']",5.81,1304,30000000,45900000,8869
+Barbie as Rapunzel,2002,"['Animation', 'Family']",7.0,1262,0,0,15015
+Frailty,2002,"['Drama', 'Thriller', 'Crime']",6.955,1248,11000000,17400000,12149
+Confessions of a Dangerous Mind,2002,"['Comedy', 'Crime', 'Drama', 'Romance', 'Thriller', 'History']",6.695,1219,30000000,33013805,4912
+Enough,2002,"['Drama', 'Thriller']",6.7,1203,38000000,51800000,1957
+The Mothman Prophecies,2002,"['Drama', 'Horror', 'Mystery']",6.214,1195,32000000,55305279,2637
+The Spanish Apartment,2002,"['Drama', 'Comedy', 'Romance']",7.121,1186,5300000,3897799,1555
+"The Legend of Al, John and Jack",2002,"['Comedy', 'Crime']",7.078,1184,0,0,38397
+40 Days and 40 Nights,2002,"['Comedy', 'Romance']",5.473,1166,17000000,95146283,2752
+Changing Lanes,2002,"['Thriller', 'Drama']",6.278,1159,45000000,94935764,1537
+The Sweetest Thing,2002,"['Romance', 'Comedy']",5.591,1147,43000000,68696770,11812
+Queen of the Damned,2002,"['Fantasy', 'Horror', 'Romance']",6.1,1122,35000000,45479110,11979
+Murder by Numbers,2002,"['Crime', 'Drama', 'Thriller']",6.169,1112,50000000,56714147,11892
+K-19: The Widowmaker,2002,"['Drama', 'History', 'Thriller', 'Mystery', 'War']",6.537,1105,100000000,65700000,8665
+Joseph: King of Dreams,2002,"['Family', 'Animation']",6.9,1040,0,0,16366
+8 Women,2002,"['Comedy', 'Thriller', 'Mystery']",6.894,1031,8000000,42400000,1958
+Showtime,2002,"['Action', 'Comedy']",5.527,1022,85000000,77885672,5851
+The Lord of the Rings: The Return of the King,2003,"['Adventure', 'Fantasy', 'Action']",8.49,25672,94000000,1118888979,122
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,"['Adventure', 'Fantasy', 'Action']",7.815,21603,140000000,655011224,22
+Finding Nemo,2003,"['Animation', 'Family']",7.817,20051,94000000,940335536,12
+Kill Bill: Vol. 1,2003,"['Action', 'Crime']",7.97,18287,30000000,180906076,24
+The Matrix Reloaded,2003,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",7.066,11544,150000000,738599701,604
+Bruce Almighty,2003,"['Fantasy', 'Comedy']",6.723,11158,80000000,484592874,310
+X2,2003,"['Adventure', 'Action', 'Science Fiction']",7.031,10598,110000000,407711549,36658
+The Matrix Revolutions,2003,"['Adventure', 'Action', 'Thriller', 'Science Fiction']",6.747,10427,150000000,424988211,605
+Oldboy,2003,"['Drama', 'Thriller', 'Mystery', 'Action']",8.245,9356,3000000,17500000,670
+2 Fast 2 Furious,2003,"['Action', 'Crime', 'Thriller']",6.51,7871,76000000,236350661,584
+Lost in Translation,2003,"['Drama', 'Romance', 'Comedy']",7.388,7747,4000000,119723856,153
+Big Fish,2003,"['Adventure', 'Fantasy', 'Drama']",7.752,7520,70000000,123200000,587
+The Last Samurai,2003,"['Drama', 'Action', 'War']",7.596,7254,140000000,456800000,616
+Mystic River,2003,"['Thriller', 'Crime', 'Drama', 'Mystery']",7.742,7131,25000000,156800000,322
+Love Actually,2003,"['Comedy', 'Romance', 'Drama']",7.102,7100,40000000,250779876,508
+Terminator 3: Rise of the Machines,2003,"['Action', 'Thriller', 'Science Fiction']",6.176,6994,200000000,435000000,296
+Underworld,2003,"['Fantasy', 'Action', 'Thriller']",6.839,6407,22000000,95708457,277
+Hulk,2003,"['Science Fiction', 'Adventure', 'Action']",5.575,6091,137000000,245360480,1927
+School of Rock,2003,"['Comedy', 'Music']",7.082,5930,35000000,131100000,1584
+The Italian Job,2003,"['Action', 'Crime']",6.784,5806,60000000,176070171,9654
+Bad Boys II,2003,"['Action', 'Crime', 'Comedy']",6.654,5743,130000000,273339556,8961
+Brother Bear,2003,"['Adventure', 'Animation', 'Family']",7.269,5627,128000000,250397798,10009
+Daredevil,2003,"['Fantasy', 'Action']",5.283,5312,78000000,179179718,9480
+Final Destination 2,2003,"['Horror', 'Mystery']",6.297,4612,26000000,90941129,9358
+Lara Croft: Tomb Raider - The Cradle of Life,2003,"['Adventure', 'Action', 'Fantasy']",5.756,4383,95000000,160099222,1996
+Elf,2003,"['Comedy', 'Family', 'Fantasy']",6.656,4308,32000000,228500000,10719
+Memories of Murder,2003,"['Crime', 'Drama', 'Thriller']",8.1,4294,2800000,26000000,11423
+Scary Movie 3,2003,['Comedy'],5.967,4291,45000000,220673217,4256
+How to Lose a Guy in 10 Days,2003,"['Comedy', 'Romance']",6.851,4283,50000000,177500000,9919
+American Wedding,2003,"['Comedy', 'Romance']",6.216,4244,55000000,231449203,8273
+The League of Extraordinary Gentlemen,2003,"['Fantasy', 'Action', 'Thriller', 'Science Fiction']",6.0,4216,78000000,179265204,8698
+Identity,2003,"['Mystery', 'Thriller']",7.175,4145,28000000,90259536,2832
+Freaky Friday,2003,"['Family', 'Fantasy', 'Comedy']",6.563,4109,26000000,160846332,10330
+Phone Booth,2003,"['Thriller', 'Crime']",6.858,3965,13000000,97837138,1817
+Atlantis: Milo's Return,2003,"['Fantasy', 'Animation', 'Science Fiction', 'Family', 'Action']",6.3,3873,0,0,8965
+Johnny English,2003,"['Adventure', 'Action', 'Comedy']",6.282,3645,40000000,160466000,9486
+Master and Commander: The Far Side of the World,2003,"['Adventure', 'Drama', 'War']",7.172,3361,150000000,211623421,8619
+Anger Management,2003,['Comedy'],6.159,3307,75000000,195745823,9506
+21 Grams,2003,"['Drama', 'Crime', 'Thriller']",7.325,3270,20000000,60427839,470
+Charlie's Angels: Full Throttle,2003,"['Action', 'Adventure', 'Comedy']",5.483,3176,120000000,259175788,9471
+The Dreamers,2003,"['Drama', 'Romance']",7.2,2999,15000000,15100000,1278
+Wrong Turn,2003,"['Horror', 'Thriller']",6.371,2880,12600000,28650575,9902
+Cheaper by the Dozen,2003,"['Comedy', 'Family', 'Drama']",6.3,2873,40000000,190212113,11007
+The Texas Chainsaw Massacre,2003,['Horror'],6.307,2791,9500000,107967319,9373
+Freddy vs. Jason,2003,['Horror'],6.087,2732,30000000,116643421,6466
+Peter Pan,2003,"['Adventure', 'Fantasy', 'Family']",7.1,2709,100000000,121975011,10601
+S.W.A.T.,2003,"['Action', 'Thriller', 'Crime']",6.16,2610,80000000,207700000,9257
+Dogville,2003,"['Crime', 'Drama', 'Thriller']",7.759,2577,10000000,16690617,553
+"Good Bye, Lenin!",2003,"['Comedy', 'Drama']",7.537,2526,4800000,79384880,338
+Tears of the Sun,2003,"['War', 'Action', 'Drama']",6.888,2498,75000000,86500000,9567
+Monster,2003,"['Crime', 'Drama']",7.213,2445,8000000,60400000,504
+Gothika,2003,"['Horror', 'Thriller', 'Mystery']",6.112,2402,40000000,141591324,4970
+Shanghai Knights,2003,"['Action', 'Adventure', 'Comedy', 'Western']",6.139,2366,50000000,88323487,6038
+Spy Kids 3-D: Game Over,2003,"['Family', 'Action', 'Comedy', 'Adventure', 'Science Fiction']",5.142,2304,38000000,197101678,12279
+Once Upon a Time in Mexico,2003,"['Action', 'Crime', 'Thriller']",6.296,2300,29000000,98769390,1428
+Bad Santa,2003,"['Drama', 'Comedy', 'Crime']",6.547,2260,23000000,76500000,10147
+Daddy Day Care,2003,"['Comedy', 'Family']",5.915,2193,60000000,164433867,10708
+Sinbad: Legend of the Seven Seas,2003,"['Family', 'Animation', 'Adventure', 'Comedy', 'Fantasy', 'Action']",6.99,2131,60000000,80767884,14411
+The Life of David Gale,2003,"['Drama', 'Thriller', 'Crime']",7.436,2112,50000000,38955598,11615
+The Haunted Mansion,2003,"['Thriller', 'Fantasy', 'Comedy', 'Family', 'Mystery']",5.689,2091,90000000,182290266,10756
+The Rundown,2003,"['Adventure', 'Action', 'Comedy', 'Thriller']",6.448,2091,85000000,80900000,10159
+The Core,2003,"['Science Fiction', 'Adventure', 'Thriller']",5.816,2055,60000000,74208267,9341
+Elephant,2003,"['Crime', 'Drama']",7.0,2023,3000000,10000000,1807
+Old School,2003,['Comedy'],6.609,1998,24000000,87100000,11635
+Paycheck,2003,"['Action', 'Adventure', 'Mystery', 'Science Fiction', 'Thriller']",6.211,1934,60000000,117248958,9620
+Cold Mountain,2003,"['War', 'History', 'Adventure', 'Romance']",6.93,1892,79000000,173013509,2289
+Matchstick Men,2003,"['Comedy', 'Drama', 'Crime', 'Thriller']",7.005,1869,62000000,65565672,7270
+Mona Lisa Smile,2003,"['Drama', 'History', 'Romance']",6.919,1844,72300000,141337989,11820
+Love Me If You Dare,2003,"['Drama', 'Comedy', 'Romance']",7.232,1835,0,8561072,8424
+Dreamcatcher,2003,"['Drama', 'Horror', 'Science Fiction', 'Thriller']",5.628,1830,68000000,81240206,6171
+The Recruit,2003,"['Action', 'Thriller']",6.4,1828,46000000,101200000,1647
+Ong-Bak,2003,"['Action', 'Crime']",7.133,1776,1100000,20112926,9316
+Jeepers Creepers 2,2003,['Horror'],6.151,1743,17000000,63102666,11351
+The Cat in the Hat,2003,"['Family', 'Comedy', 'Adventure', 'Fantasy']",5.29,1741,109000000,133800000,10588
+Duplex,2003,['Comedy'],6.083,1738,40000000,19322135,7288
+Thirteen,2003,['Drama'],6.66,1702,2000000,10128960,11023
+House of 1000 Corpses,2003,['Horror'],6.187,1694,7000000,17949758,2662
+Something's Gotta Give,2003,"['Drama', 'Comedy', 'Romance']",6.64,1691,80000000,270000000,6964
+What a Girl Wants,2003,"['Comedy', 'Romance', 'Drama', 'Family']",6.298,1687,20000000,50700000,10735
+The Animatrix,2003,"['Animation', 'Science Fiction']",7.197,1684,5000000,68000000,55931
+"Legally Blonde 2: Red, White & Blonde",2003,"['Comedy', 'Romance']",5.714,1684,45000000,124914842,10327
+Taxi 3,2003,"['Action', 'Comedy', 'Crime']",5.748,1592,14500000,64497208,2334
+Intolerable Cruelty,2003,"['Comedy', 'Romance', 'Crime']",5.947,1582,60000000,119940815,11775
+Looney Tunes: Back in Action,2003,"['Animation', 'Comedy', 'Family']",6.351,1568,80000000,68500000,10715
+Holes,2003,"['Adventure', 'Family', 'Drama', 'Comedy']",6.885,1478,20000000,71406573,8326
+The Room,2003,"['Drama', 'Romance']",3.999,1466,6000000,1752988,17473
+Runaway Jury,2003,"['Drama', 'Thriller']",6.92,1451,60000000,80154140,11329
+Girl with a Pearl Earring,2003,"['Drama', 'Romance']",6.621,1432,10500000,33030115,3635
+Just Married,2003,"['Romance', 'Comedy']",5.782,1423,18000000,101564935,12090
+Tokyo Godfathers,2003,"['Animation', 'Drama', 'Comedy']",7.914,1407,0,607735,13398
+High Tension,2003,"['Horror', 'Thriller', 'Mystery']",6.771,1406,2500000,6291958,10226
+Cabin Fever,2003,['Horror'],5.69,1381,1500000,30600000,11547
+The Lizzie McGuire Movie,2003,"['Family', 'Comedy']",6.326,1302,17000000,55534455,18736
+A Tale of Two Sisters,2003,"['Drama', 'Horror', 'Mystery']",7.092,1276,15100000,1100000,4552
+Out of Time,2003,"['Thriller', 'Crime', 'Drama']",6.3,1251,50000000,55495563,2116
+Honey,2003,"['Music', 'Drama', 'Romance']",6.3,1208,18000000,62646763,10028
+101 Dalmatians II: Patch's London Adventure,2003,"['Family', 'Animation', 'Adventure', 'Comedy']",6.019,1207,0,0,13654
+The Jungle Book 2,2003,"['Family', 'Animation', 'Adventure']",5.89,1168,20000000,135700000,14873
+Open Range,2003,"['Western', 'Drama', 'Action', 'Romance']",7.217,1151,22000000,68296293,2055
+The Medallion,2003,"['Thriller', 'Fantasy', 'Action', 'Comedy']",5.607,1146,38000000,34300000,10610
+Harry Potter and the Prisoner of Azkaban,2004,"['Adventure', 'Fantasy']",8.0,22549,130000000,789804554,673
+The Incredibles,2004,"['Action', 'Adventure', 'Animation', 'Family']",7.719,18412,92000000,631442092,9806
+Spider-Man 2,2004,"['Action', 'Adventure', 'Science Fiction']",7.295,15854,200000000,788976453,558
+Eternal Sunshine of the Spotless Mind,2004,"['Science Fiction', 'Drama', 'Romance']",8.1,15810,20000000,72258126,38
+Kill Bill: Vol. 2,2004,"['Action', 'Crime', 'Thriller']",7.875,14564,30000000,152159461,393
+Shrek 2,2004,"['Animation', 'Family', 'Comedy', 'Fantasy', 'Adventure', 'Romance']",7.3,13018,150000000,935454538,809
+"I, Robot",2004,"['Action', 'Science Fiction']",6.957,12305,120000000,347234916,2048
+The Notebook,2004,"['Romance', 'Drama']",7.892,12163,29000000,115600000,11036
+Troy,2004,"['War', 'Action', 'History']",7.2,10701,175000000,497409852,652
+Howl's Moving Castle,2004,"['Fantasy', 'Animation', 'Adventure']",8.393,10618,24000000,236049757,4935
+Million Dollar Baby,2004,['Drama'],7.953,10053,30000000,216763646,70
+Saw,2004,"['Horror', 'Mystery', 'Crime']",7.418,9736,1200000,104045735,176
+Mean Girls,2004,"['Drama', 'Comedy']",7.221,9210,17000000,130193514,10625
+Shaun of the Dead,2004,"['Horror', 'Comedy']",7.536,8977,6000000,39396175,747
+The Day After Tomorrow,2004,"['Science Fiction', 'Thriller', 'Adventure']",6.546,8548,125000000,552639571,435
+The Terminal,2004,"['Comedy', 'Drama']",7.351,8365,60000000,219417255,594
+The Butterfly Effect,2004,"['Science Fiction', 'Thriller']",7.6,7914,13000000,96800000,1954
+The Bourne Supremacy,2004,"['Action', 'Drama', 'Thriller']",7.323,7872,75000000,288500217,2502
+Ocean's Twelve,2004,"['Thriller', 'Crime']",6.564,7618,110000000,362744280,163
+50 First Dates,2004,"['Comedy', 'Romance']",6.9,7499,75000000,196482882,1824
+Hellboy,2004,"['Fantasy', 'Action']",6.672,7196,66000000,99318987,1487
+The Polar Express,2004,"['Animation', 'Adventure', 'Family', 'Fantasy']",6.722,6645,165000000,318432432,5255
+National Treasure,2004,"['Adventure', 'Action', 'Thriller', 'Mystery']",6.645,6626,100000000,347500000,2059
+Shark Tale,2004,"['Animation', 'Action', 'Comedy', 'Family']",6.028,6537,75000000,367300000,10555
+Van Helsing,2004,"['Horror', 'Adventure', 'Action']",6.4,6335,160000000,300257475,7131
+Collateral,2004,"['Drama', 'Crime', 'Thriller']",7.235,6005,65000000,220239925,1538
+The Machinist,2004,"['Thriller', 'Drama']",7.525,5904,5000000,8203235,4553
+The Aviator,2004,['Drama'],7.218,5609,110000000,213719942,2567
+Man on Fire,2004,"['Action', 'Drama', 'Thriller']",7.459,5429,70000000,130300000,9509
+13 Going on 30,2004,"['Comedy', 'Fantasy', 'Romance']",6.8,5392,37000000,96500000,10096
+Lemony Snicket's A Series of Unfortunate Events,2004,"['Adventure', 'Comedy', 'Family']",6.818,5156,140000000,209073645,11774
+Meet the Fockers,2004,"['Comedy', 'Romance']",6.251,4984,80000000,516642939,693
+The Passion of the Christ,2004,['Drama'],7.518,4955,30000000,610063468,615
+AVP: Alien vs. Predator,2004,"['Adventure', 'Science Fiction', 'Action', 'Horror']",5.945,4747,70000000,177427090,395
+Resident Evil: Apocalypse,2004,"['Horror', 'Action', 'Science Fiction']",6.354,4574,45000000,129342769,1577
+The Village,2004,"['Drama', 'Mystery', 'Thriller']",6.486,4432,60000000,256700000,6947
+Anchorman: The Legend of Ron Burgundy,2004,['Comedy'],6.701,4395,26000000,90574188,8699
+The Chronicles of Riddick,2004,"['Action', 'Science Fiction']",6.543,4317,105000000,115772733,2789
+White Chicks,2004,"['Comedy', 'Crime']",6.937,4316,37000000,113100000,12153
+Dawn of the Dead,2004,"['Horror', 'Action']",7.051,4284,26000000,102278712,924
+Garfield,2004,"['Comedy', 'Family']",5.729,4156,50000000,200800000,8920
+Blade: Trinity,2004,"['Action', 'Horror', 'Science Fiction']",5.862,4143,65000000,128905366,36648
+Downfall,2004,"['Drama', 'History', 'War']",7.9,4112,16000000,92181574,613
+The Girl Next Door,2004,"['Comedy', 'Romance']",6.733,3817,21000000,31635150,10591
+Secret Window,2004,"['Mystery', 'Thriller']",6.566,3812,40000000,92900000,1586
+DodgeBall: A True Underdog Story,2004,['Comedy'],6.4,3664,20000000,168423227,9472
+Finding Neverland,2004,"['Drama', 'Fantasy']",7.319,3657,25000000,116766556,866
+Before Sunset,2004,"['Drama', 'Romance']",7.807,3622,2700000,15992615,80
+Closer,2004,"['Drama', 'Romance']",6.8,3615,27000000,115505027,2288
+Catwoman,2004,"['Action', 'Fantasy', 'Crime']",4.6,3491,100000000,82102379,314
+Alexander,2004,"['War', 'History', 'Action', 'Adventure', 'Drama', 'Romance']",5.952,3404,155000000,167298192,1966
+The Princess Diaries 2: Royal Engagement,2004,"['Comedy', 'Drama', 'Family', 'Romance']",6.7,3344,40000000,134734481,11130
+A Cinderella Story,2004,"['Comedy', 'Family', 'Romance']",6.6,3308,19000000,70067909,11247
+The Grudge,2004,"['Horror', 'Mystery', 'Thriller']",5.914,3082,10000000,183474602,1970
+The Lion King 1½,2004,"['Family', 'Animation', 'Comedy', 'Adventure']",6.6,3078,0,1465,11430
+The SpongeBob SquarePants Movie,2004,"['Family', 'Comedy', 'Adventure', 'Animation']",7.1,3072,30000000,141067890,11836
+The Life Aquatic with Steve Zissou,2004,"['Adventure', 'Comedy', 'Drama']",7.1,3046,50000000,34808403,421
+Hotel Rwanda,2004,"['Drama', 'History', 'War']",7.715,3023,17500000,38000000,205
+Kung Fu Hustle,2004,"['Action', 'Comedy', 'Crime', 'Fantasy']",7.478,3016,20000000,102034104,9470
+The Punisher,2004,"['Action', 'Crime', 'Drama']",6.355,3011,33000000,54700105,7220
+Bridget Jones: The Edge of Reason,2004,"['Comedy', 'Romance']",6.228,2951,40000000,265126918,9801
+Along Came Polly,2004,"['Comedy', 'Romance']",6.023,2944,42000000,178300000,5966
+Scooby-Doo 2: Monsters Unleashed,2004,"['Mystery', 'Fantasy', 'Adventure', 'Comedy']",6.08,2843,80000000,181466833,11024
+King Arthur,2004,"['Adventure', 'War', 'History', 'Action', 'Drama']",6.3,2831,120000000,203567857,9477
+EuroTrip,2004,['Comedy'],6.609,2792,25000000,22605153,9352
+Around the World in 80 Days,2004,"['Action', 'Adventure', 'Comedy']",5.95,2611,110000000,72178895,10204
+The Chorus,2004,['Drama'],7.729,2520,5300000,83600000,5528
+Mulan II,2004,"['Animation', 'Comedy', 'Family', 'Action']",6.5,2456,0,0,12242
+Starsky & Hutch,2004,"['Comedy', 'Crime']",5.82,2432,60000000,170300000,9384
+Primer,2004,"['Science Fiction', 'Drama', 'Thriller']",6.763,2310,7000,545436,14337
+Layer Cake,2004,"['Drama', 'Thriller', 'Crime']",6.914,2257,6500000,11900000,4836
+Harold & Kumar Go to White Castle,2004,"['Comedy', 'Adventure']",6.545,2175,9000000,23936908,11282
+Home on the Range,2004,"['Animation', 'Family']",6.051,2111,110000000,145358062,13700
+Ray,2004,"['Drama', 'Music']",7.45,2110,40000000,124700000,1677
+Napoleon Dynamite,2004,['Comedy'],6.782,2034,400000,46118097,8193
+Cellular,2004,"['Action', 'Thriller', 'Drama', 'Crime']",6.389,2008,25000000,57678321,9759
+Team America: World Police,2004,"['Adventure', 'Action', 'Comedy']",6.728,1962,32000000,50826898,3989
+Garden State,2004,"['Comedy', 'Drama', 'Romance']",7.081,1959,2500000,26781723,401
+District B13,2004,"['Action', 'Thriller', 'Science Fiction']",6.804,1923,12000000,11169386,10045
+Ella Enchanted,2004,"['Family', 'Fantasy', 'Comedy']",6.47,1918,31000000,27400000,14442
+Sideways,2004,"['Comedy', 'Drama', 'Romance']",7.113,1794,16000000,109502303,9675
+House of Flying Daggers,2004,"['Adventure', 'Drama', 'Action']",7.272,1723,15000000,92863945,9550
+Super Size Me,2004,['Documentary'],6.726,1722,65000,28575078,9372
+The Phantom of the Opera,2004,"['Thriller', 'Drama', 'Romance']",7.3,1717,70000000,154674241,9833
+Seed of Chucky,2004,"['Horror', 'Comedy']",5.498,1712,12000000,24829644,11249
+Taking Lives,2004,['Thriller'],6.381,1687,45000000,65470529,11081
+The Ladykillers,2004,"['Comedy', 'Crime', 'Thriller']",6.129,1677,35000000,76700000,5516
+The Manchurian Candidate,2004,"['Drama', 'Thriller', 'Mystery']",6.476,1659,80000000,96105964,14462
+Walking Tall,2004,"['Adventure', 'Drama', 'Action', 'Thriller']",6.3,1586,46000000,57223888,11358
+Barbie as The Princess & the Pauper,2004,"['Animation', 'Family', 'Comedy']",7.5,1522,0,0,15165
+Fahrenheit 9/11,2004,['Documentary'],7.085,1475,6000000,222400000,1777
+The Stepford Wives,2004,"['Comedy', 'Science Fiction', 'Horror']",5.686,1380,90000000,102000000,9890
+The Motorcycle Diaries,2004,['Drama'],7.418,1370,0,57663224,1653
+Spanglish,2004,"['Drama', 'Comedy']",6.023,1349,80000000,55470154,2539
+Shutter,2004,"['Horror', 'Mystery', 'Thriller']",7.294,1335,125000,0,17111
+Sky Captain and the World of Tomorrow,2004,"['Mystery', 'Action', 'Thriller', 'Science Fiction', 'Adventure']",5.899,1321,70000000,57958696,5137
+Hidalgo,2004,"['Western', 'Adventure']",6.9,1286,100000000,108103450,2023
+A Very Long Engagement,2004,"['Drama', 'Romance', 'War']",7.316,1271,47000000,0,2841
+Mindhunters,2004,"['Mystery', 'Thriller', 'Crime']",6.463,1259,27000000,21100000,16617
+Shall We Dance?,2004,"['Drama', 'Romance', 'Comedy']",6.415,1243,50000000,170128460,4380
+In the Bedroom,2001,"['Drama', 'Thriller']",6.9,386,1700000,44800000,1999
+Seabiscuit,2003,"['Drama', 'History']",7.055,887,87000000,148300000,4464
