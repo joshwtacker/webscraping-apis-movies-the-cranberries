@@ -1,0 +1,101 @@
+Title,Year,Genre,Vote_Average,Vote_Count,Budget,Revenue,TMDB_ID
+Spider-Man: No Way Home,2021,"['Action', 'Adventure', 'Science Fiction']",7.937,21275,200000000,1921847111,634649
+Dune,2021,"['Science Fiction', 'Adventure']",7.778,14110,165000000,407573628,438631
+Venom: Let There Be Carnage,2021,"['Science Fiction', 'Action', 'Adventure']",6.8,10869,110000000,506863592,580489
+Black Widow,2021,"['Action', 'Adventure', 'Science Fiction']",7.2,10851,200000000,379751131,497698
+Zack Snyder's Justice League,2021,"['Action', 'Adventure', 'Fantasy']",8.103,10482,70000000,0,791373
+Godzilla vs. Kong,2021,"['Action', 'Science Fiction', 'Adventure']",7.558,10374,200000000,470116094,399566
+Shang-Chi and the Legend of the Ten Rings,2021,"['Action', 'Adventure', 'Fantasy']",7.5,10031,150000000,432243292,566525
+Encanto,2021,"['Animation', 'Comedy', 'Family', 'Fantasy']",7.6,9925,150000000,261292688,568124
+Cruella,2021,"['Comedy', 'Crime', 'Adventure']",8.0,9784,200000000,233503234,337404
+Free Guy,2021,"['Comedy', 'Adventure', 'Science Fiction']",7.463,9379,110000000,331526598,550988
+The Suicide Squad,2021,"['Action', 'Comedy', 'Adventure']",7.477,9229,185000000,168717425,436969
+Don't Look Up,2021,"['Comedy', 'Science Fiction']",7.067,8890,75000000,791863,646380
+Eternals,2021,"['Science Fiction', 'Action', 'Adventure']",6.792,8828,200000000,402064899,524434
+Luca,2021,"['Animation', 'Comedy', 'Fantasy', 'Adventure', 'Family']",7.793,8727,200000000,51074773,508943
+Nobody,2021,"['Action', 'Thriller']",7.9,7870,16000000,57512470,615457
+F9,2021,"['Action', 'Adventure', 'Crime']",7.033,7509,200000000,726229501,385128
+Raya and the Last Dragon,2021,"['Animation', 'Family', 'Fantasy', 'Action', 'Adventure']",7.818,7088,100000000,130423032,527774
+A Quiet Place Part II,2021,"['Science Fiction', 'Thriller', 'Horror']",7.451,7074,55000000,297372261,520763
+No Time to Die,2021,"['Action', 'Thriller', 'Adventure']",7.4,6757,250000000,774153024,370172
+The Conjuring: The Devil Made Me Do It,2021,"['Horror', 'Mystery', 'Thriller']",7.381,6328,39000000,206444123,423108
+Red Notice,2021,"['Action', 'Comedy', 'Crime']",6.752,6176,160000000,178143,512195
+The Matrix Resurrections,2021,"['Science Fiction', 'Action', 'Adventure']",6.36,6175,190000000,156497322,624860
+Mortal Kombat,2021,"['Action', 'Fantasy', 'Adventure']",7.004,6109,20000000,84426031,460465
+Jungle Cruise,2021,"['Fantasy', 'Adventure']",7.323,5959,200000000,220889446,451048
+Wrath of Man,2021,"['Thriller', 'Crime', 'Drama']",7.592,5811,40000000,103966489,637649
+Ghostbusters: Afterlife,2021,"['Fantasy', 'Comedy', 'Adventure', 'Science Fiction']",7.337,4943,75000000,204445747,425909
+The King's Man,2021,"['Action', 'Adventure', 'Thriller']",6.7,4859,100000000,125897478,476669
+Old,2021,"['Thriller', 'Mystery', 'Horror']",6.323,4715,18000000,90146510,631843
+Sing 2,2021,"['Family', 'Comedy', 'Music', 'Animation']",7.838,4651,85000000,408402685,438695
+Army of the Dead,2021,"['Crime', 'Action', 'Horror']",6.229,4248,90000000,190700000,503736
+Space Jam: A New Legacy,2021,"['Family', 'Comedy', 'Adventure', 'Animation', 'Science Fiction']",6.7,4134,150000000,163692228,379686
+The Tomorrow War,2021,"['Action', 'Science Fiction', 'Adventure']",7.49,3871,200000000,14400000,588228
+Finch,2021,"['Science Fiction', 'Drama', 'Adventure']",7.823,3774,2500000,0,522402
+Last Night in Soho,2021,"['Horror', 'Mystery']",7.282,3682,43000000,22957625,576845
+The Last Duel,2021,"['History', 'Drama', 'Action']",7.4,3659,100000000,30552111,617653
+House of Gucci,2021,"['Drama', 'Crime', 'History']",6.575,3307,75000000,153235995,644495
+Nomadland,2021,['Drama'],7.185,3194,5000000,39458207,581734
+Nightmare Alley,2021,"['Crime', 'Drama', 'Thriller']",6.965,3177,60000000,39629195,597208
+The Mitchells vs. the Machines,2021,"['Animation', 'Adventure', 'Comedy']",7.861,3174,75000000,0,501929
+The Guilty,2021,"['Drama', 'Thriller']",6.427,2933,0,0,567748
+I Care a Lot,2021,"['Crime', 'Thriller', 'Drama', 'Comedy']",6.6,2861,0,0,601666
+The Power of the Dog,2021,"['Drama', 'Western']",6.753,2834,0,0,600583
+The French Dispatch,2021,"['Drama', 'Comedy']",7.015,2819,25000000,46333545,542178
+Halloween Kills,2021,"['Horror', 'Thriller']",6.433,2816,20000000,133423964,610253
+Don't Breathe 2,2021,"['Thriller', 'Horror']",7.018,2722,15000000,53785551,482373
+King Richard,2021,"['Drama', 'History']",7.6,2701,50000000,39400000,614917
+After We Fell,2021,"['Romance', 'Drama']",7.023,2687,14000000,21753705,744275
+The Little Things,2021,"['Drama', 'Crime', 'Thriller']",6.332,2673,30000000,29942746,602269
+The Boss Baby: Family Business,2021,"['Animation', 'Comedy', 'Adventure', 'Family']",7.3,2634,82000000,146745280,459151
+The Forever Purge,2021,"['Action', 'Horror', 'Thriller']",6.894,2602,18000000,76994245,602223
+Resident Evil: Welcome to Raccoon City,2021,"['Action', 'Horror', 'Science Fiction']",5.956,2598,25000000,41914915,460458
+Tom Clancy's Without Remorse,2021,"['Action', 'Thriller', 'War']",6.954,2576,0,0,567189
+Fear Street: 1994,2021,"['Horror', 'Mystery']",6.689,2517,0,0,591273
+Tom & Jerry,2021,"['Comedy', 'Family', 'Animation']",6.744,2516,50000000,136536687,587807
+Malignant,2021,"['Horror', 'Mystery']",6.758,2506,40000000,34891791,619778
+Licorice Pizza,2021,"['Drama', 'Comedy', 'Romance']",7.0,2495,40000000,33276075,718032
+Chaos Walking,2021,"['Fantasy', 'Science Fiction', 'Adventure']",6.562,2458,125000000,26508132,412656
+Hitman's Wife's Bodyguard,2021,"['Action', 'Comedy', 'Crime', 'Thriller']",6.663,2455,70000000,70060492,522931
+CODA,2021,"['Drama', 'Music', 'Romance']",7.903,2426,10000000,1905058,776503
+Coming 2 America,2021,['Comedy'],6.368,2312,60000000,0,484718
+The Unholy,2021,"['Horror', 'Mystery']",6.568,2221,10000000,30832137,632357
+"tick, tick... BOOM!",2021,"['Drama', 'Music']",7.609,2215,0,0,537116
+Spiral: From the Book of Saw,2021,"['Horror', 'Mystery']",5.92,2182,20000000,40618920,602734
+Army of Thieves,2021,"['Action', 'Crime', 'Comedy']",6.813,2178,30000000,46900000,796499
+Escape Room: Tournament of Champions,2021,"['Horror', 'Thriller', 'Mystery']",6.514,2172,15000000,65774490,585216
+Fear Street: 1978,2021,"['Horror', 'Mystery']",7.2,2112,0,0,591274
+The Green Knight,2021,"['Adventure', 'Drama', 'Fantasy']",6.607,2070,15000000,18887953,559907
+The Woman in the Window,2021,"['Crime', 'Mystery', 'Thriller']",6.0,2070,40000000,0,520663
+Infinite,2021,"['Science Fiction', 'Action', 'Adventure']",6.59,2022,0,0,581726
+To All the Boys: Always and Forever,2021,"['Romance', 'Comedy', 'Drama']",7.515,2008,0,0,614409
+The Kissing Booth 3,2021,"['Romance', 'Comedy']",6.869,1976,0,0,727745
+Ron's Gone Wrong,2021,"['Animation', 'Science Fiction', 'Family', 'Comedy']",7.9,1949,0,60692022,482321
+The Unforgivable,2021,"['Drama', 'Crime']",7.41,1936,0,0,645886
+Fear Street: 1666,2021,"['Mystery', 'Horror']",7.093,1898,0,0,591275
+Reminiscence,2021,"['Mystery', 'Science Fiction']",6.541,1877,68000000,18717947,579047
+Outside the Wire,2021,"['Thriller', 'Action', 'Science Fiction']",6.349,1863,0,0,775996
+The Ice Road,2021,"['Action', 'Thriller']",6.8,1827,0,7502846,646207
+Palmer,2021,['Drama'],8.1,1824,0,0,458220
+Boss Level,2021,"['Action', 'Science Fiction', 'Thriller']",6.86,1784,45000000,2000000,513310
+Clifford the Big Red Dog,2021,"['Family', 'Adventure', 'Comedy', 'Fantasy']",7.2,1779,64000000,107347356,585245
+Minari,2021,['Drama'],7.341,1758,2000000,12900000,615643
+Spencer,2021,"['Drama', 'History']",6.751,1757,18000000,25246967,716612
+Those Who Wish Me Dead,2021,"['Thriller', 'Action']",6.623,1757,20000000,23384502,578701
+The Hand of God,2021,['Drama'],7.535,1727,13049974,167909,722778
+West Side Story,2021,"['Drama', 'Romance', 'Crime']",6.956,1694,100000000,76016171,511809
+The Marksman,2021,"['Action', 'Drama', 'Thriller']",6.798,1681,23000000,23076711,634528
+Candyman,2021,"['Horror', 'Thriller']",6.0,1680,25000000,77411570,565028
+Blood Red Sky,2021,"['Horror', 'Thriller', 'Action']",6.813,1648,17739525,0,760883
+Snake Eyes: G.I. Joe Origins,2021,"['Action', 'Adventure']",6.468,1649,88000000,36964325,568620
+The Worst Person in the World,2021,"['Drama', 'Romance', 'Comedy']",7.441,1646,5000000,12687507,660120
+Judas and the Black Messiah,2021,"['Drama', 'History']",7.311,1635,26000000,6416063,583406
+Kate,2021,"['Action', 'Thriller']",6.636,1626,25000000,0,597891
+Pig,2021,"['Drama', 'Thriller']",6.646,1614,3000000,4638959,635731
+Belfast,2021,"['Drama', 'History']",7.1,1610,11000000,49158343,777270
+Titane,2021,"['Drama', 'Thriller', 'Horror']",6.331,1588,6600000,4982335,630240
+Jujutsu Kaisen 0,2021,"['Animation', 'Action', 'Fantasy']",8.123,1579,0,195870885,810693
+Love Hard,2021,"['Comedy', 'Romance']",6.93,1547,0,0,734265
+Fatherhood,2021,"['Drama', 'Comedy']",7.5,1481,0,0,607259
+Oxygen,2021,"['Science Fiction', 'Thriller', 'Horror']",6.604,1480,0,0,471498
+He's All That,2021,"['Comedy', 'Romance']",6.493,1444,0,0,347626

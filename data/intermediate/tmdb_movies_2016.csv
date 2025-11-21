@@ -1,0 +1,101 @@
+Title,Year,Genre,Vote_Average,Vote_Count,Budget,Revenue,TMDB_ID
+Deadpool,2016,"['Action', 'Adventure', 'Comedy']",7.622,32067,58000000,782837347,293660
+Captain America: Civil War,2016,"['Adventure', 'Action', 'Science Fiction']",7.448,23516,250000000,1155046416,271110
+Doctor Strange,2016,"['Fantasy', 'Adventure', 'Action']",7.418,22915,180000000,676343174,284052
+Suicide Squad,2016,"['Action', 'Adventure', 'Fantasy']",5.92,21707,175000000,749200054,297761
+Fantastic Beasts and Where to Find Them,2016,"['Fantasy', 'Adventure']",7.3,19331,180000000,809342332,259316
+Arrival,2016,"['Drama', 'Science Fiction', 'Mystery']",7.622,18712,47000000,203388186,329865
+Batman v Superman: Dawn of Justice,2016,"['Action', 'Adventure', 'Fantasy']",5.987,18594,250000000,874362803,209112
+La La Land,2016,"['Comedy', 'Drama', 'Romance']",7.9,17624,30000000,509183536,313369
+Zootopia,2016,"['Animation', 'Adventure', 'Family', 'Comedy']",7.8,17070,150000000,1025521689,269149
+Rogue One: A Star Wars Story,2016,"['Action', 'Adventure', 'Science Fiction']",7.5,15964,200000000,1056057273,330459
+Hacksaw Ridge,2016,"['Drama', 'History', 'War']",8.191,14417,40000000,175302354,324786
+Passengers,2016,"['Drama', 'Romance', 'Science Fiction']",6.952,13848,110000000,303144152,274870
+X-Men: Apocalypse,2016,"['Action', 'Adventure', 'Science Fiction', 'Fantasy']",6.517,13441,178000000,543934787,246655
+Moana,2016,"['Adventure', 'Comedy', 'Family', 'Animation']",7.565,13382,150000000,690860472,277834
+Me Before You,2016,"['Drama', 'Romance']",7.925,12884,20000000,207945075,296096
+Finding Dory,2016,"['Adventure', 'Animation', 'Comedy', 'Family']",7.04,12429,200000000,1029266989,127380
+Your Name.,2016,"['Animation', 'Romance', 'Drama']",8.479,12101,0,358000000,372058
+Now You See Me 2,2016,"['Thriller', 'Crime']",6.826,11158,120000000,334897606,291805
+Miss Peregrine's Home for Peculiar Children,2016,"['Fantasy', 'Adventure', 'Drama', 'Family']",6.837,10284,110000000,296482446,283366
+Hidden Figures,2016,"['Drama', 'History']",8.05,10163,25000000,235957472,381284
+The Conjuring 2,2016,['Horror'],7.294,8934,40000000,322819915,259693
+10 Cloverfield Lane,2016,"['Thriller', 'Science Fiction', 'Drama', 'Horror']",6.994,8359,15000000,110216998,333371
+The Secret Life of Pets,2016,"['Family', 'Comedy', 'Adventure', 'Animation']",6.3,8332,75000000,875457937,328111
+The Nice Guys,2016,"['Comedy', 'Crime', 'Action']",7.123,8326,50000000,71261763,290250
+The Jungle Book,2016,"['Family', 'Adventure', 'Fantasy']",6.867,8317,175000000,966550600,278927
+Sing,2016,"['Family', 'Comedy', 'Music', 'Animation']",7.12,8251,75000000,634151679,335797
+Nocturnal Animals,2016,"['Drama', 'Thriller']",7.4,8073,22500000,29300000,340666
+Train to Busan,2016,"['Horror', 'Thriller', 'Action', 'Adventure']",7.749,8042,8500000,87547518,396535
+Assassin's Creed,2016,"['Action', 'Adventure', 'Science Fiction']",5.429,7953,125000000,240700000,121856
+Don't Breathe,2016,"['Horror', 'Thriller', 'Crime']",7.016,7761,9900000,158906350,300669
+Sausage Party,2016,"['Adventure', 'Animation', 'Comedy', 'Fantasy']",5.75,7544,19000000,140705322,223702
+Sully,2016,"['Drama', 'History']",7.2,7501,60000000,240800000,363676
+The Witch,2016,"['Horror', 'Fantasy', 'Drama']",6.994,7403,4000000,40423945,310131
+Moonlight,2016,['Drama'],7.4,7317,4000000,65046687,376867
+Warcraft,2016,"['Action', 'Adventure', 'Fantasy']",6.39,7060,160000000,433677183,68735
+The Accountant,2016,"['Crime', 'Thriller', 'Drama']",7.13,7050,44000000,155160045,302946
+Nerve,2016,"['Mystery', 'Adventure', 'Crime']",7.008,6914,19000000,85241496,328387
+Star Trek Beyond,2016,"['Action', 'Adventure', 'Science Fiction']",6.8,6874,185000000,343471816,188927
+Allegiant,2016,"['Adventure', 'Science Fiction', 'Action', 'Mystery']",6.1,6800,110000000,179246868,262504
+Lion,2016,['Drama'],8.042,6796,12000000,140312928,334543
+Captain Fantastic,2016,"['Adventure', 'Drama']",7.891,6644,5000000,23123592,334533
+Ghostbusters,2016,"['Action', 'Fantasy', 'Comedy']",5.349,6636,144000000,229147509,43074
+Alice Through the Looking Glass,2016,"['Adventure', 'Family', 'Fantasy']",6.56,6631,170000000,299457024,241259
+Inferno,2016,"['Mystery', 'Thriller', 'Action']",6.085,6472,75000000,220021259,207932
+The Legend of Tarzan,2016,"['Fantasy', 'Action', 'Adventure']",5.914,6368,180000000,356743061,258489
+Kung Fu Panda 3,2016,"['Animation', 'Action', 'Adventure', 'Comedy', 'Family']",6.919,6360,145000000,521170825,140300
+Independence Day: Resurgence,2016,"['Action', 'Adventure', 'Science Fiction']",5.3,6278,165000000,389681935,47933
+Manchester by the Sea,2016,['Drama'],7.548,6188,9000000,79000000,334541
+The Magnificent Seven,2016,"['Adventure', 'Action', 'Western']",6.47,6178,90000000,162400000,333484
+Central Intelligence,2016,"['Action', 'Comedy']",6.417,6174,50000000,216972543,302699
+Jason Bourne,2016,"['Action', 'Adventure', 'Thriller']",6.4,5987,120000000,415484914,324668
+The 5th Wave,2016,"['Science Fiction', 'Adventure', 'Action']",5.938,5892,38000000,109906372,299687
+The Girl on the Train,2016,"['Crime', 'Mystery', 'Thriller']",6.441,5881,45000000,173200000,346685
+Collateral Beauty,2016,"['Drama', 'Romance']",7.218,5480,36000000,88528280,345920
+The Purge: Election Year,2016,"['Action', 'Horror', 'Thriller']",6.384,5391,10000000,118587880,316727
+The Great Wall,2016,"['Action', 'Adventure', 'Fantasy']",6.028,5376,150000000,331957105,311324
+War Dogs,2016,"['Comedy', 'Crime', 'Drama']",6.928,5238,50000000,86234523,308266
+The Founder,2016,"['Drama', 'History']",7.134,5222,15000000,24121245,310307
+The Shallows,2016,"['Horror', 'Drama', 'Thriller']",6.351,5216,17000000,119100758,332567
+Jack Reacher: Never Go Back,2016,"['Action', 'Drama', 'Thriller', 'Crime']",5.992,5132,60000000,162100000,343611
+London Has Fallen,2016,"['Action', 'Thriller']",6.2,4942,60000000,205754447,267860
+The Huntsman: Winter's War,2016,"['Action', 'Adventure', 'Drama']",6.285,4933,115000000,164989338,290595
+Ice Age: Collision Course,2016,"['Adventure', 'Animation', 'Family', 'Comedy', 'Science Fiction']",6.1,4762,105000000,408579038,278154
+Deepwater Horizon,2016,"['Drama', 'Action']",6.886,4736,110000000,121790376,296524
+Hush,2016,"['Horror', 'Thriller']",6.729,4724,1000000,0,376570
+Hell or High Water,2016,"['Western', 'Crime', 'Drama']",7.301,4686,12000000,37600000,338766
+Allied,2016,"['Action', 'Drama', 'War', 'Romance', 'Thriller']",6.8,4664,106000000,119520023,369885
+The Autopsy of Jane Doe,2016,"['Horror', 'Mystery']",6.827,4547,4000000,6170043,397243
+Perfect Strangers,2016,"['Comedy', 'Drama']",7.855,4517,0,32207491,381341
+Neighbors 2: Sorority Rising,2016,['Comedy'],5.819,4512,35000000,108007109,325133
+Snowden,2016,"['Drama', 'History', 'Crime', 'Thriller']",7.105,4501,40000000,37357216,302401
+Dirty Grandpa,2016,['Comedy'],5.936,4500,11500000,94100000,291870
+Why Him?,2016,['Comedy'],6.38,4295,38000000,118102725,356305
+A Silent Voice: The Movie,2016,"['Animation', 'Drama', 'Romance']",8.386,4268,0,30819442,378064
+Gods of Egypt,2016,"['Action', 'Adventure', 'Fantasy']",5.686,4222,140000000,150680864,205584
+Bad Moms,2016,['Comedy'],6.494,4176,20000000,183936074,376659
+The Edge of Seventeen,2016,"['Comedy', 'Drama']",7.157,4159,9000000,18803648,376660
+The Handmaiden,2016,"['Thriller', 'Drama', 'Romance']",8.197,4090,8575000,38600000,290098
+Lights Out,2016,['Horror'],6.365,4016,4900000,149368835,345911
+"Hail, Caesar!",2016,"['Comedy', 'Crime', 'Drama', 'Mystery']",5.931,3905,22000000,63647656,270487
+The Boy,2016,"['Horror', 'Mystery', 'Thriller']",5.968,3863,10000000,73929392,321258
+The Angry Birds Movie,2016,"['Animation', 'Adventure', 'Comedy', 'Family']",6.2,3846,73000000,349779543,153518
+The Neon Demon,2016,"['Horror', 'Thriller']",6.51,3843,7000000,3400000,301365
+Underworld: Blood Wars,2016,"['Fantasy', 'Action', 'Thriller', 'Science Fiction', 'Horror']",5.911,3827,35000000,81093313,346672
+13 Hours: The Secret Soldiers of Benghazi,2016,"['War', 'Action', 'History', 'Drama', 'Thriller']",7.269,3789,50000000,69411370,300671
+Trolls,2016,"['Family', 'Animation', 'Fantasy', 'Adventure', 'Comedy', 'Music']",6.63,3725,125000000,347337803,136799
+Kubo and the Two Strings,2016,"['Animation', 'Adventure', 'Family']",7.631,3707,60000000,76249438,313297
+Teenage Mutant Ninja Turtles: Out of the Shadows,2016,"['Action', 'Adventure', 'Comedy', 'Family', 'Science Fiction']",6.052,3675,135000000,245623848,308531
+Swiss Army Man,2016,"['Comedy', 'Drama', 'Romance', 'Fantasy', 'Adventure']",6.926,3665,3000000,5800000,347031
+Mechanic: Resurrection,2016,"['Action', 'Crime', 'Thriller']",6.03,3524,40000000,125729635,278924
+The BFG,2016,"['Adventure', 'Family', 'Fantasy']",6.281,3521,140000000,195243411,267935
+A Monster Calls,2016,"['Fantasy', 'Adventure', 'Family']",7.286,3474,43000000,47309313,258230
+Resident Evil: The Final Chapter,2016,"['Action', 'Horror', 'Science Fiction']",6.109,3359,40000000,312242626,173897
+Raw,2016,"['Horror', 'Drama']",7.041,3328,3500000,4100000,393519
+How to Be Single,2016,"['Comedy', 'Romance']",6.255,3281,38000000,112343513,259694
+Silence,2016,"['Drama', 'History']",7.12,3185,46000000,23834809,68730
+Money Monster,2016,"['Thriller', 'Drama']",6.435,3066,27000000,93282604,303858
+Two Is a Family,2016,"['Drama', 'Comedy']",7.731,3022,0,1447740,382591
+Bridget Jones's Baby,2016,"['Drama', 'Comedy', 'Romance']",6.4,3022,35000000,211952420,95610
+Green Room,2016,"['Horror', 'Crime', 'Thriller']",6.726,2839,5000000,3800000,313922

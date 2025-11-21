@@ -1,0 +1,101 @@
+Title,Year,Genre,Vote_Average,Vote_Count,Budget,Revenue,TMDB_ID
+Joker,2019,"['Crime', 'Thriller', 'Drama']",8.1,26975,55000000,1078958629,475557
+Avengers: Endgame,2019,"['Adventure', 'Science Fiction', 'Action']",8.237,26930,356000000,2799439100,299534
+Parasite,2019,"['Comedy', 'Thriller', 'Drama']",8.5,19707,11363000,257591776,496243
+Spider-Man: Far From Home,2019,"['Action', 'Adventure', 'Science Fiction']",7.4,16451,160000000,1131927996,429617
+Captain Marvel,2019,"['Action', 'Adventure', 'Science Fiction']",6.791,16352,152000000,1131416446,299537
+Once Upon a Time... in Hollywood,2019,"['Comedy', 'Drama', 'Thriller']",7.4,14286,95000000,392105159,466272
+Knives Out,2019,"['Comedy', 'Crime', 'Mystery']",7.8,13230,40000000,312897920,546554
+1917,2019,"['War', 'History', 'Drama', 'Action']",8.0,13092,100000000,446064352,530915
+John Wick: Chapter 3 - Parabellum,2019,"['Action', 'Thriller', 'Crime']",7.444,11312,55000000,326709727,458156
+The Lion King,2019,"['Adventure', 'Drama', 'Family', 'Animation']",7.103,10554,260000000,1662020819,420818
+Star Wars: The Rise of Skywalker,2019,"['Adventure', 'Action', 'Science Fiction']",6.279,10448,489900000,1074144248,181812
+Aladdin,2019,"['Adventure', 'Fantasy', 'Romance', 'Family']",7.093,10398,183000000,1097831681,420817
+Toy Story 4,2019,"['Family', 'Comedy', 'Animation', 'Adventure']",7.5,10222,175000000,1073841394,301528
+Frozen II,2019,"['Family', 'Animation', 'Adventure', 'Comedy', 'Fantasy']",7.242,10062,150000000,1453683476,330457
+Jojo Rabbit,2019,"['Comedy', 'War', 'Drama']",7.995,10055,14000000,82468705,515001
+Shazam!,2019,"['Action', 'Comedy', 'Fantasy']",6.985,9941,80000000,367799011,287947
+Alita: Battle Angel,2019,"['Action', 'Science Fiction', 'Adventure']",7.244,9669,170000000,405000000,399579
+It Chapter Two,2019,"['Horror', 'Thriller']",6.838,9241,79000000,473123154,474350
+Jumanji: The Next Level,2019,"['Adventure', 'Comedy', 'Fantasy']",6.886,9074,125000000,801693929,512200
+Glass,2019,"['Thriller', 'Drama', 'Science Fiction']",6.664,8837,20000000,246999039,450465
+Ford v Ferrari,2019,"['Drama', 'Action', 'History']",8.0,8590,97600000,225508210,359724
+After,2019,"['Romance', 'Drama']",7.115,8434,14000000,69497587,537915
+Us,2019,"['Horror', 'Mystery']",7.0,7798,20000000,256067149,458723
+Midsommar,2019,"['Horror', 'Drama', 'Mystery']",7.153,7715,9000000,48498408,530385
+The Platform,2019,"['Drama', 'Science Fiction', 'Thriller']",6.968,7575,1203235,1090116,619264
+Fast & Furious Presents: Hobbs & Shaw,2019,"['Action', 'Adventure', 'Comedy']",6.8,7543,200000000,760098996,384018
+The Irishman,2019,"['Crime', 'Drama', 'History']",7.6,7225,159000000,968853,398978
+Marriage Story,2019,['Drama'],7.732,7211,18000000,333686,492188
+Pokémon Detective Pikachu,2019,"['Action', 'Adventure', 'Fantasy']",6.912,7154,150000000,449762638,447404
+Ad Astra,2019,"['Science Fiction', 'Drama']",6.1,6966,87500000,127461872,419704
+How to Train Your Dragon: The Hidden World,2019,"['Animation', 'Family', 'Adventure']",7.7,6857,129000000,539987993,166428
+Dark Phoenix,2019,"['Science Fiction', 'Action', 'Adventure']",5.962,6846,200000000,252442974,320288
+Little Women,2019,"['Drama', 'Romance', 'History']",7.86,6593,40000000,216600000,331482
+Godzilla: King of the Monsters,2019,"['Science Fiction', 'Action']",6.695,6470,170000000,387300138,373571
+Maleficent: Mistress of Evil,2019,"['Family', 'Fantasy', 'Adventure']",7.3,6332,185000000,491730089,420809
+Zombieland: Double Tap,2019,"['Horror', 'Comedy']",6.912,6022,42000000,122810399,338967
+Five Feet Apart,2019,"['Romance', 'Drama']",8.2,5802,7000000,92600000,527641
+Terminator: Dark Fate,2019,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",6.4,5439,185000000,261119292,290859
+El Camino: A Breaking Bad Movie,2019,"['Crime', 'Drama', 'Thriller']",7.042,5381,0,0,559969
+Gemini Man,2019,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",6.274,5309,140000000,173469516,453405
+The Lighthouse,2019,"['Drama', 'Fantasy', 'Thriller']",7.489,5299,11000000,18262464,503919
+Men in Black: International,2019,"['Comedy', 'Science Fiction', 'Action', 'Adventure']",5.9,5169,110000000,253890701,479455
+Uncut Gems,2019,"['Drama', 'Thriller', 'Crime']",7.151,5105,19000000,50023780,473033
+6 Underground,2019,"['Action', 'Comedy', 'Thriller']",6.34,4988,150000000,0,509967
+Ready or Not,2019,"['Horror', 'Comedy']",7.036,4954,6000000,57600000,567609
+Escape Room,2019,"['Horror', 'Thriller', 'Mystery']",6.54,4895,9000000,155712077,522681
+Rocketman,2019,"['Music', 'Drama']",7.313,4846,40000000,167300000,504608
+Doctor Sleep,2019,"['Horror', 'Fantasy']",7.143,4692,45000000,72385286,501170
+Murder Mystery,2019,"['Action', 'Comedy', 'Mystery']",6.3,4635,24000000,0,514999
+Miracle in Cell No. 7,2019,['Drama'],8.256,4496,0,28000000,637920
+Dumbo,2019,"['Family', 'Fantasy', 'Adventure']",6.591,4451,170000000,353284621,329996
+Klaus,2019,"['Animation', 'Family', 'Adventure', 'Comedy', 'Fantasy']",8.23,4394,0,0,508965
+Yesterday,2019,"['Comedy', 'Fantasy', 'Music', 'Romance']",6.688,4109,26000000,154608856,515195
+Rambo: Last Blood,2019,"['Action', 'Thriller', 'Drama']",6.534,4078,50000000,91500000,522938
+Annabelle Comes Home,2019,['Horror'],6.409,3739,27000000,231252591,521029
+Angel Has Fallen,2019,"['Action', 'Thriller']",6.598,3723,40000000,146661977,423204
+Hellboy,2019,"['Fantasy', 'Horror', 'Action', 'Adventure']",5.578,3595,50000000,55065289,456740
+Happy Death Day 2U,2019,"['Comedy', 'Horror', 'Science Fiction']",6.325,3549,9000000,64600152,512196
+Isn't It Romantic,2019,"['Comedy', 'Fantasy', 'Romance']",6.204,3537,31000000,48800000,449563
+"Extremely Wicked, Shockingly Evil and Vile",2019,"['Drama', 'Crime']",7.0,3461,0,0,457799
+The King,2019,"['Drama', 'History', 'War']",7.156,3419,0,0,504949
+Triple Frontier,2019,"['Action', 'Thriller', 'Crime', 'Adventure']",6.323,3402,0,0,399361
+Jarhead: Law of Return,2019,['War'],6.5,3354,0,0,635744
+Pet Sematary,2019,['Horror'],5.743,3330,21000000,113118226,157433
+Brightburn,2019,"['Horror', 'Science Fiction']",6.135,3327,6000000,33224654,531309
+The Perfect Date,2019,"['Romance', 'Comedy']",6.441,3292,0,0,543540
+Crawl,2019,"['Horror', 'Thriller']",6.32,3266,13500000,91500000,511987
+The Secret Life of Pets 2,2019,"['Family', 'Comedy', 'Adventure', 'Animation']",6.947,3228,80000000,429434163,412117
+Bombshell,2019,['Drama'],6.784,3112,32000000,61404394,525661
+Charlie's Angels,2019,"['Action', 'Adventure', 'Comedy']",6.4,3072,48000000,73279888,458897
+The Two Popes,2019,"['Drama', 'History']",7.489,3051,0,232638,551332
+Hustlers,2019,"['Drama', 'Comedy', 'Crime']",6.5,3028,20000000,157563598,540901
+Spies in Disguise,2019,"['Animation', 'Action', 'Adventure', 'Comedy', 'Family']",7.57,2892,100000000,171616764,431693
+Anna,2019,"['Action', 'Adventure', 'Thriller']",6.706,2857,34000000,31626978,484641
+Portrait of a Lady on Fire,2019,"['Drama', 'Romance', 'History']",8.107,2803,5740000,9923127,531428
+Long Shot,2019,"['Comedy', 'Romance']",6.719,2788,40000000,0,459992
+Scary Stories to Tell in the Dark,2019,"['Horror', 'Adventure', 'Mystery']",6.495,2777,25000000,104545505,417384
+Fractured,2019,"['Thriller', 'Drama']",6.748,2758,0,0,568091
+Booksmart,2019,['Comedy'],7.009,2751,6000000,24849029,505600
+The Dead Don't Die,2019,"['Comedy', 'Horror']",5.431,2750,11000000,15325468,535581
+Cold Pursuit,2019,"['Crime', 'Action']",5.9,2710,60000000,76419755,438650
+I Am Mother,2019,"['Science Fiction', 'Thriller']",6.706,2702,0,643593,505948
+Richard Jewell,2019,"['Drama', 'History']",7.418,2632,45000000,33900000,292011
+The Hustle,2019,"['Comedy', 'Crime']",6.191,2612,21000000,97400000,449562
+Midway,2019,"['Action', 'War', 'History']",7.111,2599,100000000,127400000,522162
+The Curse of La Llorona,2019,['Horror'],5.655,2586,9000000,123233739,480414
+Last Christmas,2019,"['Comedy', 'Romance']",7.217,2501,30000000,121600000,549053
+Weathering with You,2019,"['Animation', 'Drama', 'Fantasy', 'Romance']",8.0,2495,0,186965409,568160
+The Addams Family,2019,"['Family', 'Animation', 'Comedy', 'Fantasy']",6.6,2428,40000000,204394183,481084
+Just Mercy,2019,"['Drama', 'Crime', 'History']",7.857,2397,25000000,50401502,522212
+Dark Waters,2019,"['Drama', 'Thriller']",7.532,2377,20000000,13601384,552178
+Polar,2019,"['Action', 'Crime', 'Drama']",6.3,2372,0,0,483906
+Ma,2019,"['Horror', 'Thriller']",5.818,2364,5000000,61220856,502416
+Vivarium,2019,"['Science Fiction', 'Thriller', 'Mystery', 'Horror']",6.045,2360,4000000,488000,458305
+The Lego Movie 2: The Second Part,2019,"['Action', 'Adventure', 'Animation', 'Comedy', 'Family']",6.664,2332,99000000,199603202,280217
+A Rainy Day in New York,2019,"['Comedy', 'Romance']",6.486,2320,25000000,23805899,475303
+In the Tall Grass,2019,"['Horror', 'Drama', 'Thriller']",5.542,2313,0,0,523139
+Countdown,2019,"['Horror', 'Thriller']",6.217,2227,6500000,48021766,599975
+The Highwaymen,2019,"['Crime', 'Drama', 'Thriller']",6.764,2150,49000000,0,500682
+Togo,2019,"['Adventure', 'Family']",8.142,2147,0,0,606856

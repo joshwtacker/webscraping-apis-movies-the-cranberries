@@ -1,0 +1,101 @@
+Title,Year,Genre,Vote_Average,Vote_Count,Budget,Revenue,TMDB_ID
+Spider-Man: Homecoming,2017,"['Action', 'Adventure', 'Science Fiction']",7.329,22613,175000000,880166924,315635
+Guardians of the Galaxy Vol. 2,2017,"['Science Fiction', 'Adventure', 'Action']",7.6,22404,200000000,863756051,283995
+Thor: Ragnarok,2017,"['Action', 'Adventure', 'Science Fiction']",7.6,21514,180000000,855301806,284053
+Wonder Woman,2017,"['Action', 'Adventure', 'Fantasy']",7.214,20528,149000000,823970682,297762
+Coco,2017,"['Family', 'Animation', 'Music', 'Adventure']",8.201,20421,175000000,814641172,354912
+Logan,2017,"['Action', 'Drama', 'Science Fiction']",7.82,19950,97000000,619021436,263115
+It,2017,"['Horror', 'Thriller']",7.238,19805,35000000,704242888,346364
+Get Out,2017,"['Mystery', 'Thriller', 'Horror']",7.621,18294,4500000,255407969,419430
+Split,2017,"['Horror', 'Thriller']",7.343,17954,9000000,278454358,381288
+Dunkirk,2017,"['War', 'Action', 'Drama']",7.4,17108,150000000,527000000,374720
+Baby Driver,2017,"['Action', 'Crime']",7.445,16373,34000000,226945087,339403
+Star Wars: The Last Jedi,2017,"['Adventure', 'Action', 'Science Fiction']",6.764,15905,300000000,1332698830,181808
+Beauty and the Beast,2017,"['Family', 'Fantasy', 'Romance']",6.969,15820,160000000,1266115964,321612
+Blade Runner 2049,2017,"['Science Fiction', 'Drama']",7.587,14536,150000000,259239658,335984
+Jumanji: Welcome to the Jungle,2017,"['Adventure', 'Comedy', 'Fantasy', 'Action', 'Family']",6.819,14133,90000000,995339117,353486
+John Wick: Chapter 2,2017,"['Action', 'Thriller', 'Crime']",7.339,13785,40000000,171539887,324552
+Justice League,2017,"['Action', 'Adventure', 'Science Fiction']",6.075,13375,300000000,661326987,141052
+The Shape of Water,2017,"['Drama', 'Fantasy', 'Romance']",7.24,12533,19500000,195300000,399055
+Call Me by Your Name,2017,"['Romance', 'Drama']",8.102,12494,3500000,43143046,398818
+Pirates of the Caribbean: Dead Men Tell No Tales,2017,"['Adventure', 'Action', 'Fantasy']",6.652,12479,230000000,795922298,166426
+Kong: Skull Island,2017,"['Action', 'Adventure', 'Fantasy']",6.548,10863,185000000,566652812,293167
+Kingsman: The Golden Circle,2017,"['Action', 'Adventure', 'Comedy', 'Crime']",6.952,10828,104000000,410902662,343668
+The Fate of the Furious,2017,"['Action', 'Crime', 'Thriller']",6.862,10600,250000000,1236000000,337339
+"Three Billboards Outside Ebbing, Missouri",2017,"['Crime', 'Drama']",8.061,10557,15000000,162729321,359940
+Murder on the Orient Express,2017,"['Mystery', 'Drama', 'Crime']",6.705,10286,55000000,352800000,392044
+The Greatest Showman,2017,['Drama'],7.869,9787,84000000,459066134,316029
+War for the Planet of the Apes,2017,"['Drama', 'Science Fiction', 'War']",7.211,9439,150000000,490719763,281338
+xXx: Return of Xander Cage,2017,"['Action', 'Adventure', 'Crime']",6.1,9120,85000000,346118277,47971
+Alien: Covenant,2017,"['Horror', 'Science Fiction', 'Thriller']",6.163,9118,97000000,240891763,126889
+Lady Bird,2017,"['Drama', 'Comedy']",7.254,8822,10000000,79000000,391713
+Ghost in the Shell,2017,"['Science Fiction', 'Drama', 'Action']",6.103,8348,110000000,169801921,315837
+Baywatch,2017,"['Comedy', 'Action', 'Crime']",6.091,8324,69000000,177900000,339846
+Wonder,2017,"['Family', 'Drama']",8.1,8097,20000000,315025930,406997
+Fifty Shades Darker,2017,"['Drama', 'Romance']",6.476,7826,55000000,381545846,341174
+Valerian and the City of a Thousand Planets,2017,"['Adventure', 'Science Fiction', 'Action']",6.631,7762,177200000,225973340,339964
+Life,2017,"['Horror', 'Science Fiction', 'Mystery', 'Thriller']",6.446,7689,58000000,100541806,395992
+Despicable Me 3,2017,"['Action', 'Animation', 'Comedy', 'Family', 'Adventure']",6.466,7456,80000000,1034800131,324852
+The Mummy,2017,"['Fantasy', 'Thriller', 'Action', 'Adventure', 'Horror']",5.517,7453,125000000,409231607,282035
+The Boss Baby,2017,"['Animation', 'Comedy', 'Family']",6.457,7309,125000000,527965936,295693
+mother!,2017,"['Drama', 'Horror']",6.967,6911,30000000,44516999,381283
+Transformers: The Last Knight,2017,"['Action', 'Adventure', 'Science Fiction']",6.056,6523,217000000,605425157,335988
+The Hitman's Bodyguard,2017,"['Action', 'Comedy', 'Crime', 'Thriller']",6.891,6460,30000000,176586701,390043
+Atomic Blonde,2017,"['Action', 'Adventure', 'Thriller']",6.429,6448,30000000,100014025,341013
+Happy Death Day,2017,"['Comedy', 'Horror', 'Mystery']",6.662,6409,4800000,125479266,440021
+What Happened to Monday,2017,"['Science Fiction', 'Thriller', 'Mystery', 'Action']",7.155,6286,20000000,27975429,406990
+Cars 3,2017,"['Animation', 'Adventure', 'Comedy', 'Family']",6.9,6191,175000000,383925276,260514
+"I, Tonya",2017,"['Drama', 'Comedy']",7.475,6017,11000000,53900000,389015
+King Arthur: Legend of the Sword,2017,"['Action', 'Drama', 'Fantasy']",6.549,5896,175000000,149175066,274857
+Annabelle: Creation,2017,['Horror'],6.605,5857,15000000,306592201,396422
+Bright,2017,"['Fantasy', 'Action', 'Thriller']",6.2,5837,90000000,0,400106
+Gifted,2017,"['Drama', 'Comedy']",8.0,5790,7000000,40300000,400928
+Wind River,2017,"['Crime', 'Mystery', 'Thriller', 'Drama']",7.434,5545,11000000,44998252,395834
+The Dark Tower,2017,"['Fantasy', 'Action', 'Science Fiction']",5.781,5362,60000000,113231078,353491
+Darkest Hour,2017,"['Drama', 'History']",7.351,5348,30000000,150847207,399404
+The Lego Batman Movie,2017,"['Animation', 'Action', 'Comedy', 'Family']",7.233,5241,80000000,311950384,324849
+Geostorm,2017,"['Action', 'Science Fiction', 'Thriller']",6.118,5004,120000000,221600160,274855
+The Invisible Guest,2017,"['Drama', 'Mystery', 'Thriller']",8.082,4794,4000000,30000000,411088
+American Made,2017,"['Action', 'Comedy', 'Crime', 'Drama']",6.895,4788,50000000,133511855,337170
+The Post,2017,"['Drama', 'History']",7.006,4780,50000000,179769467,446354
+Power Rangers,2017,"['Action', 'Adventure', 'Science Fiction']",6.256,4538,105000000,142300000,305470
+The Circle,2017,"['Drama', 'Thriller', 'Science Fiction']",5.521,4509,18000000,40651864,339988
+Okja,2017,"['Adventure', 'Drama', 'Science Fiction']",7.35,4431,50000000,0,387426
+The Killing of a Sacred Deer,2017,"['Drama', 'Thriller', 'Mystery']",7.011,4275,3000000,10700000,399057
+Death Note,2017,"['Crime', 'Fantasy', 'Horror']",4.265,4051,40000000,0,351460
+A Cure for Wellness,2017,"['Horror', 'Mystery', 'Science Fiction']",6.341,4046,40000000,26620002,340837
+Downsizing,2017,"['Drama', 'Science Fiction', 'Comedy']",5.387,3978,68000000,55003890,301337
+Molly's Game,2017,"['Drama', 'Crime']",7.151,3886,30000000,59284015,396371
+Jigsaw,2017,"['Horror', 'Mystery']",6.217,3844,10000000,104223315,298250
+Gerald's Game,2017,"['Horror', 'Thriller']",6.402,3820,0,0,343674
+The Babysitter,2017,"['Comedy', 'Horror']",6.174,3783,0,0,419479
+"Everything, Everything",2017,"['Drama', 'Romance']",7.242,3723,10000000,61621140,417678
+Logan Lucky,2017,"['Comedy', 'Crime', 'Action', 'Drama']",6.73,3700,29000000,48453605,399170
+The Disaster Artist,2017,"['Comedy', 'Drama']",7.104,3640,10000000,29820616,371638
+Phantom Thread,2017,"['Drama', 'Romance']",7.3,3639,35000000,47756590,400617
+To the Bone,2017,['Drama'],7.2,3558,0,0,401104
+Before I Fall,2017,"['Drama', 'Fantasy']",6.963,3484,5000000,16373843,397837
+A Dog's Purpose,2017,"['Adventure', 'Comedy', 'Fantasy', 'Family', 'Drama']",7.639,3449,22000000,205000000,381289
+Pitch Perfect 3,2017,"['Comedy', 'Music']",6.511,3398,45000000,185400345,353616
+The Ritual,2017,"['Horror', 'Mystery']",6.267,3265,1000000,1786396,433808
+T2 Trainspotting,2017,"['Drama', 'Comedy', 'Crime']",6.944,3249,18000000,41681746,180863
+The Emoji Movie,2017,"['Animation', 'Family', 'Comedy']",5.416,3225,50000000,216909830,378236
+American Assassin,2017,"['Action', 'Adventure', 'Thriller']",6.411,3150,33000000,67200000,415842
+The Lost City of Z,2017,"['Adventure', 'Drama', 'History']",6.396,3006,30000000,8574339,314095
+Ferdinand,2017,"['Animation', 'Family', 'Adventure', 'Comedy']",7.224,2998,111000000,295038508,364689
+Good Time,2017,"['Crime', 'Thriller', 'Drama']",7.213,2994,2000000,3283369,429200
+The Florida Project,2017,['Drama'],7.428,2967,2000000,11303040,394117
+You Were Never Really Here,2017,"['Crime', 'Drama', 'Thriller']",6.545,2934,17000000,9400000,398181
+Going in Style,2017,"['Crime', 'Comedy']",6.691,2926,25000000,84618541,353070
+1922,2017,"['Horror', 'Crime', 'Drama']",5.937,2838,5000000,2943477,452507
+The Foreigner,2017,"['Action', 'Thriller', 'Crime']",6.965,2802,35000000,145374099,379149
+47 Meters Down,2017,"['Horror', 'Thriller']",5.808,2789,5500000,62198461,403119
+Daddy's Home 2,2017,['Comedy'],6.305,2645,69000000,180613180,419680
+Paddington 2,2017,"['Adventure', 'Comedy', 'Family']",7.47,2623,40000000,290132513,346648
+Rings,2017,['Horror'],5.01,2560,25000000,83080890,14564
+It Comes at Night,2017,"['Drama', 'Horror', 'Mystery']",5.863,2542,5000000,19280931,418078
+Loving Vincent,2017,"['Animation', 'Drama', 'Mystery', 'History']",7.991,2542,5500000,42187665,339877
+The Big Sick,2017,"['Comedy', 'Drama', 'Romance']",7.3,2541,5000000,56303596,416477
+The Space Between Us,2017,"['Romance', 'Adventure', 'Science Fiction', 'Drama']",7.057,2507,30000000,14793385,365942
+The Mountain Between Us,2017,"['Drama', 'Adventure', 'Romance']",6.651,2472,35000000,62832209,290512
+Hostiles,2017,"['Drama', 'Western', 'History', 'Adventure']",6.941,2425,55000000,36976336,384680

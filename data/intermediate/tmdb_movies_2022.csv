@@ -1,0 +1,101 @@
+Title,Year,Genre,Vote_Average,Vote_Count,Budget,Revenue,TMDB_ID
+Avatar: The Way of Water,2022,"['Action', 'Adventure', 'Science Fiction']",7.611,13044,350000000,2330224914,76600
+The Batman,2022,"['Crime', 'Mystery', 'Thriller']",7.7,11371,185000000,772319315,414906
+Top Gun: Maverick,2022,"['Action', 'Drama']",8.2,10335,170000000,1488732821,361743
+Doctor Strange in the Multiverse of Madness,2022,"['Fantasy', 'Action', 'Adventure']",7.24,9872,290000000,955775804,453395
+Puss in Boots: The Last Wish,2022,"['Animation', 'Adventure', 'Fantasy', 'Comedy', 'Family']",8.209,8485,90000000,484700000,315162
+Thor: Love and Thunder,2022,"['Fantasy', 'Action', 'Comedy']",6.4,8203,250000000,760900000,616037
+Everything Everywhere All at Once,2022,"['Action', 'Adventure', 'Science Fiction']",7.728,7443,25000000,139200000,545611
+Prey,2022,"['Thriller', 'Action', 'Science Fiction']",7.674,7342,65000000,0,766507
+Black Panther: Wakanda Forever,2022,"['Action', 'Adventure', 'Science Fiction']",7.0,7101,250000000,859102154,505642
+Bullet Train,2022,"['Action', 'Comedy', 'Thriller']",7.419,7042,90000000,239300000,718930
+Black Adam,2022,"['Action', 'Adventure', 'Science Fiction']",6.8,6766,200000000,393452111,436270
+Jurassic World Dominion,2022,"['Adventure', 'Action', 'Science Fiction']",6.631,6732,583900000,1004004592,507086
+Uncharted,2022,"['Action', 'Adventure']",6.9,6489,120000000,407141258,335787
+Glass Onion: A Knives Out Mystery,2022,"['Comedy', 'Crime', 'Mystery']",7.0,6180,40000000,15000000,661374
+The Menu,2022,"['Comedy', 'Horror', 'Thriller']",7.172,5708,35000000,79628200,593643
+Sonic the Hedgehog 2,2022,"['Action', 'Adventure', 'Family', 'Comedy']",7.447,5690,110000000,405421518,675353
+Turning Red,2022,"['Animation', 'Family', 'Comedy', 'Fantasy']",7.329,5589,175000000,0,508947
+The Black Phone,2022,"['Horror', 'Thriller']",7.551,5499,16000000,161441914,756999
+Fantastic Beasts: The Secrets of Dumbledore,2022,"['Fantasy', 'Adventure']",6.635,4882,200000000,407200000,338953
+The Northman,2022,"['Action', 'Adventure', 'Fantasy']",7.0,4778,70000000,69633110,639933
+The Adam Project,2022,"['Adventure', 'Science Fiction', 'Action', 'Comedy']",7.006,4684,116000000,0,696806
+Morbius,2022,"['Action', 'Science Fiction', 'Fantasy']",5.939,4633,75000000,167635712,526896
+Nope,2022,"['Horror', 'Science Fiction']",6.825,4597,68000000,170823080,762504
+M3GAN,2022,"['Science Fiction', 'Horror']",7.0,4556,12000000,181796517,536554
+All Quiet on the Western Front,2022,"['War', 'History', 'Drama']",7.7,4376,20000000,0,49046
+The Whale,2022,['Drama'],7.793,4358,3000000,55101305,785084
+Fall,2022,['Thriller'],7.122,4316,3000000,17363261,985939
+The Gray Man,2022,"['Action', 'Thriller']",6.923,3989,200000000,454023,725201
+Death on the Nile,2022,"['Mystery', 'Crime', 'Thriller']",6.422,3979,90000000,137307235,505026
+Minions: The Rise of Gru,2022,"['Family', 'Comedy', 'Adventure', 'Animation', 'Science Fiction', 'Fantasy']",7.285,3861,85000000,940203765,438148
+The Lost City,2022,"['Action', 'Adventure', 'Comedy']",6.471,3832,74000000,192907684,752623
+Smile,2022,"['Horror', 'Mystery']",6.667,3813,17000000,217408513,882598
+X,2022,"['Horror', 'Thriller']",6.734,3728,1000000,15113105,760104
+Elvis,2022,"['Drama', 'Music', 'History']",7.477,3710,85000000,288670284,614934
+Lightyear,2022,"['Animation', 'Science Fiction', 'Family', 'Adventure']",6.896,3657,200000000,226425420,718789
+Scream,2022,"['Horror', 'Mystery']",6.689,3615,24000000,137743924,646385
+Babylon,2022,"['Drama', 'Comedy']",7.373,3532,78000000,65267446,615777
+Harry Potter 20th Anniversary: Return to Hogwarts,2022,['Documentary'],7.306,3452,0,0,899082
+Moonfall,2022,"['Science Fiction', 'Adventure', 'Action']",6.267,3393,146000000,67319703,406759
+A Man Called Otto,2022,"['Comedy', 'Drama']",7.754,3293,50000000,108961677,937278
+Through My Window,2022,"['Romance', 'Drama', 'Comedy']",7.362,3280,0,0,818647
+Guillermo del Toro's Pinocchio,2022,"['Animation', 'Fantasy', 'Adventure', 'Drama']",8.042,3175,35000000,0,555604
+The Banshees of Inisherin,2022,"['Drama', 'Comedy']",7.457,3118,20000000,49300000,674324
+Barbarian,2022,"['Horror', 'Thriller']",6.84,2964,4500000,45400000,913290
+Dragon Ball Super: Super Hero,2022,"['Animation', 'Science Fiction', 'Action']",7.887,2947,0,86600000,610150
+Hotel Transylvania: Transformania,2022,"['Animation', 'Comedy', 'Family', 'Adventure', 'Fantasy']",7.051,2938,75000000,18500000,585083
+Don't Worry Darling,2022,"['Science Fiction', 'Mystery', 'Thriller']",6.778,2782,35000000,86700000,619730
+Purple Hearts,2022,"['Romance', 'Drama']",8.1,2772,0,0,762975
+Hustle,2022,"['Drama', 'Comedy']",7.719,2709,21000000,0,705861
+Triangle of Sadness,2022,"['Comedy', 'Drama']",7.027,2630,15600000,24733572,497828
+The Fabelmans,2022,['Drama'],7.576,2589,40000000,45629909,804095
+Sisu,2022,"['Action', 'War']",7.397,2482,6600000,14281199,840326
+Pearl,2022,"['Horror', 'Thriller']",7.242,2383,1000000,10139416,949423
+The Bad Guys,2022,"['Family', 'Comedy', 'Crime', 'Adventure', 'Animation', 'Action']",7.535,2380,80000000,250162278,629542
+Violent Night,2022,"['Action', 'Comedy', 'Fantasy']",7.237,2378,20000000,75734910,899112
+Terrifier 2,2022,"['Horror', 'Thriller']",6.697,2374,250000,15741780,663712
+Ambulance,2022,"['Thriller', 'Action', 'Crime']",6.636,2302,40000000,52303589,763285
+The Unbearable Weight of Massive Talent,2022,"['Action', 'Comedy', 'Crime']",6.788,2298,30000000,29116320,648579
+The Woman King,2022,"['Action', 'Drama', 'History']",7.636,2265,50000000,97300000,724495
+Orphan: First Kill,2022,"['Horror', 'Thriller']",6.613,2235,10000000,9572765,760161
+The Guardians of the Galaxy Holiday Special,2022,"['Comedy', 'Science Fiction', 'Adventure']",7.1,2225,0,0,774752
+Samaritan,2022,"['Science Fiction', 'Crime', 'Action']",6.675,2114,100000000,0,629176
+Day Shift,2022,"['Action', 'Fantasy', 'Horror', 'Comedy', 'Thriller']",6.753,2101,100000000,0,755566
+Where the Crawdads Sing,2022,"['Drama', 'Mystery', 'Romance']",7.543,2095,24000000,144353965,682507
+The Pale Blue Eye,2022,"['Thriller', 'Crime', 'Horror', 'Mystery']",6.811,2033,72000000,0,800815
+Halloween Ends,2022,"['Horror', 'Thriller']",6.066,1921,33000000,104374176,616820
+Luck,2022,"['Animation', 'Adventure', 'Comedy', 'Fantasy']",7.749,1860,0,0,585511
+Troll,2022,"['Fantasy', 'Action', 'Adventure']",6.583,1832,0,0,736526
+365 Days: This Day,2022,"['Romance', 'Drama']",5.93,1783,0,0,829557
+The Ice Age Adventures of Buck Wild,2022,"['Animation', 'Comedy', 'Family', 'Adventure']",6.588,1779,0,0,774825
+Fresh,2022,"['Horror', 'Thriller']",6.973,1775,0,0,787752
+Hocus Pocus 2,2022,"['Fantasy', 'Comedy', 'Family']",7.2,1773,30000000,0,642885
+Amsterdam,2022,"['Mystery', 'Comedy', 'Drama']",6.063,1718,80000000,31245810,664469
+Dog,2022,"['Drama', 'Comedy']",7.306,1694,20000000,84774243,626735
+Pinocchio,2022,"['Fantasy', 'Adventure', 'Family']",6.306,1683,0,0,532639
+Aftersun,2022,['Drama'],7.675,1673,0,7834405,965150
+Spiderhead,2022,"['Science Fiction', 'Thriller']",5.786,1667,0,0,615469
+DC League of Super-Pets,2022,"['Family', 'Comedy', 'Adventure', 'Animation', 'Science Fiction']",7.178,1667,90000000,203000000,539681
+Beast,2022,"['Thriller', 'Action', 'Horror', 'Adventure']",6.542,1665,0,56000000,760741
+Enola Holmes 2,2022,"['Adventure', 'Mystery', 'Crime']",7.321,1635,0,0,829280
+The Sea Beast,2022,"['Animation', 'Adventure', 'Action', 'Family', 'Fantasy']",7.325,1608,0,0,560057
+Memory,2022,"['Action', 'Thriller', 'Crime']",6.746,1595,30000000,13900000,818397
+Suzume,2022,"['Animation', 'Drama', 'Adventure', 'Fantasy']",7.896,1587,0,323638107,916224
+Texas Chainsaw Massacre,2022,['Horror'],5.21,1572,20000000,0,632727
+Three Thousand Years of Longing,2022,"['Drama', 'Fantasy', 'Romance']",6.885,1563,60000000,20300000,556694
+Deep Water,2022,"['Drama', 'Mystery', 'Thriller']",5.817,1531,49000000,0,619979
+Bones and All,2022,"['Horror', 'Romance', 'Drama']",7.027,1519,16000000,15234907,791177
+RRR,2022,"['Action', 'Adventure', 'Drama']",7.739,1474,69000000,160000000,579974
+Blonde,2022,['Drama'],5.929,1462,22000000,0,301502
+Werewolf by Night,2022,"['Action', 'Fantasy', 'Horror']",6.978,1434,0,0,894205
+TÁR,2022,"['Music', 'Drama']",7.09,1426,35000000,29048571,817758
+Thirteen Lives,2022,"['Drama', 'Thriller']",7.857,1399,55000000,0,698948
+Decision to Leave,2022,"['Thriller', 'Mystery', 'Romance']",7.335,1370,0,16914773,705996
+Strange World,2022,"['Animation', 'Family', 'Adventure', 'Science Fiction', 'Fantasy']",6.3,1364,180000000,73621640,877269
+The Good Nurse,2022,"['Drama', 'Crime', 'Mystery']",6.874,1354,0,0,541134
+Bodies Bodies Bodies,2022,"['Horror', 'Comedy', 'Mystery']",6.176,1350,3000000,13900000,520023
+Ticket to Paradise,2022,"['Drama', 'Comedy', 'Romance']",6.43,1339,20000000,168800000,800939
+The School for Good and Evil,2022,"['Fantasy', 'Comedy', 'Adventure', 'Drama']",7.046,1327,0,0,779782
+After Ever Happy,2022,"['Romance', 'Drama']",6.79,1325,14000000,19238073,744276
+Chip 'n Dale: Rescue Rangers,2022,"['Animation', 'Family', 'Comedy', 'Adventure', 'Mystery']",6.999,1314,70000000,623190,420821

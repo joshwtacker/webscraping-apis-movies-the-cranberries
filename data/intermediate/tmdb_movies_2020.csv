@@ -1,0 +1,101 @@
+Title,Year,Genre,Vote_Average,Vote_Count,Budget,Revenue,TMDB_ID
+Soul,2020,"['Animation', 'Family', 'Comedy', 'Fantasy', 'Drama']",8.103,11022,150000000,121977511,508442
+Tenet,2020,"['Action', 'Thriller', 'Science Fiction']",7.177,10600,205000000,365304105,577922
+Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),2020,"['Action', 'Crime']",6.9,10581,75000000,205537933,495764
+Sonic the Hedgehog,2020,"['Action', 'Science Fiction', 'Comedy', 'Family']",7.297,10137,85000000,319715683,454626
+365 Days,2020,"['Romance', 'Drama']",7.009,9340,0,9458590,664413
+Wonder Woman 1984,2020,"['Action', 'Adventure', 'Fantasy']",6.391,8817,200000000,169601036,464052
+Bad Boys for Life,2020,"['Thriller', 'Action', 'Crime']",7.127,8541,90000000,426505244,38700
+Mulan,2020,"['Adventure', 'Fantasy', 'Action']",6.8,6913,200000000,69965374,337401
+Onward,2020,"['Family', 'Comedy', 'Adventure', 'Animation', 'Fantasy']",7.654,6405,200000000,141888276,508439
+Extraction,2020,"['Action', 'Thriller']",7.304,6385,65000000,0,545609
+Enola Holmes,2020,"['Adventure', 'Mystery', 'Crime']",7.242,6321,21000000,0,497582
+The Gentlemen,2020,"['Comedy', 'Crime']",7.668,6279,22000000,115171795,522627
+The Invisible Man,2020,"['Thriller', 'Science Fiction', 'Horror']",7.1,6053,7000000,144492724,570670
+After We Collided,2020,"['Romance', 'Drama']",7.163,5413,14000000,47990414,613504
+Bloodshot,2020,"['Action', 'Science Fiction', 'Adventure']",6.696,5123,42000000,39861118,338762
+The Kissing Booth 2,2020,"['Comedy', 'Romance']",7.619,5077,0,0,583083
+Greenland,2020,"['Action', 'Adventure', 'Thriller', 'Science Fiction']",7.125,4828,34000000,52300000,524047
+The Old Guard,2020,"['Action', 'Fantasy']",7.118,4604,70000000,0,547016
+Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,2020,"['Animation', 'Action', 'Fantasy', 'Thriller']",8.209,4313,15700000,523542183,635302
+Love and Monsters,2020,"['Comedy', 'Adventure', 'Science Fiction', 'Action']",7.278,4277,30000000,1122066,590223
+The Croods: A New Age,2020,"['Animation', 'Family', 'Adventure', 'Fantasy', 'Comedy']",7.458,4006,65000000,215905815,529203
+The Call of the Wild,2020,"['Adventure', 'Family', 'Drama']",7.531,3867,109000000,111200000,481848
+Dolittle,2020,"['Family', 'Comedy', 'Fantasy', 'Adventure']",6.588,3764,175000000,251410631,448119
+The New Mutants,2020,"['Science Fiction', 'Horror', 'Action']",6.084,3589,67000000,49169594,340102
+Another Round,2020,"['Comedy', 'Drama']",7.635,3577,5150000,21700000,580175
+The Devil All the Time,2020,"['Crime', 'Drama', 'Thriller']",7.193,3519,0,0,499932
+Promising Young Woman,2020,"['Thriller', 'Crime', 'Drama']",7.402,3491,10000000,20379604,582014
+The Hunt,2020,"['Action', 'Thriller', 'Horror']",6.627,3474,14000000,10550350,514847
+The Father,2020,['Drama'],8.101,3453,6000000,21029340,600354
+Palm Springs,2020,"['Comedy', 'Romance', 'Science Fiction']",7.334,3453,5000000,1818417,587792
+Monster Hunter,2020,"['Action', 'Fantasy', 'Adventure']",6.541,3442,60000000,42145959,458576
+Underwater,2020,"['Horror', 'Science Fiction', 'Action', 'Adventure']",6.283,3301,50000000,40882928,443791
+The Trial of the Chicago 7,2020,"['Drama', 'History']",7.67,3218,35000000,107423,556984
+Greyhound,2020,"['War', 'Action', 'Drama']",7.417,3152,50300000,0,516486
+Project Power,2020,"['Action', 'Crime', 'Science Fiction']",6.431,2965,0,0,605116
+All the Bright Places,2020,"['Romance', 'Drama']",7.637,2950,0,0,342470
+The SpongeBob Movie: Sponge on the Run,2020,"['Family', 'Comedy', 'Adventure', 'Animation']",7.4,2919,60000000,4810790,400160
+Roald Dahl's The Witches,2020,"['Comedy', 'Fantasy', 'Family', 'Horror']",6.349,2915,0,29303571,531219
+Run,2020,"['Thriller', 'Horror', 'Drama']",7.2,2751,1700000,5184368,546121
+Borat Subsequent Moviefilm,2020,['Comedy'],6.436,2723,0,0,740985
+Sound of Metal,2020,"['Drama', 'Music']",7.7,2710,0,516520,502033
+Ava,2020,"['Action', 'Thriller', 'Crime']",5.828,2674,0,2987741,539885
+To All the Boys: P.S. I Still Love You,2020,"['Romance', 'Comedy']",6.822,2639,0,0,565426
+Fantasy Island,2020,"['Adventure', 'Fantasy', 'Horror', 'Mystery']",5.77,2569,7000000,49500000,539537
+Peninsula,2020,"['Horror', 'Action', 'Thriller', 'Adventure']",6.745,2491,17000000,42698327,581392
+Guns Akimbo,2020,"['Action', 'Comedy', 'Crime', 'Thriller']",6.432,2454,15000000,835102,457335
+Gabriel's Inferno,2020,"['Romance', 'Drama']",8.403,2437,0,0,696374
+Spenser Confidential,2020,"['Comedy', 'Action', 'Thriller']",6.516,2417,0,0,581600
+Unhinged,2020,"['Action', 'Thriller', 'Horror']",6.438,2407,33000000,39238300,625568
+Holidate,2020,"['Comedy', 'Romance']",6.985,2282,0,0,615665
+Trolls World Tour,2020,"['Family', 'Animation', 'Comedy', 'Fantasy', 'Adventure', 'Music']",7.256,2219,90000000,49276818,446893
+I'm Thinking of Ending Things,2020,"['Mystery', 'Thriller', 'Horror']",6.572,2081,0,0,500840
+#Alive,2020,"['Action', 'Horror', 'Science Fiction']",7.228,1956,6300000,13416285,614696
+Life in a Year,2020,"['Drama', 'Romance']",8.241,1941,0,0,447362
+The Midnight Sky,2020,"['Science Fiction', 'Drama']",5.732,1930,0,70018,614911
+Emma.,2020,"['Comedy', 'Romance']",7.009,1862,10000000,25200000,556678
+News of the World,2020,"['Drama', 'Western', 'Adventure']",6.946,1853,38000000,12700000,581032
+Honest Thief,2020,"['Thriller', 'Action', 'Crime']",6.484,1821,0,31220247,553604
+The Babysitter: Killer Queen,2020,"['Comedy', 'Horror']",6.339,1766,0,0,623491
+Scoob!,2020,"['Animation', 'Comedy', 'Family', 'Mystery']",7.005,1764,90000000,28600000,385103
+Freaky,2020,"['Horror', 'Comedy']",6.558,1743,5000000,15100000,551804
+Hubie Halloween,2020,"['Comedy', 'Mystery', 'Horror']",5.913,1721,14000000,0,617505
+Mank,2020,"['Drama', 'History']",6.684,1712,25000000,122252,614560
+The Social Dilemma,2020,"['Documentary', 'Drama']",7.44,1699,0,0,656690
+Artemis Fowl,2020,"['Adventure', 'Fantasy', 'Science Fiction', 'Family', 'Action']",5.535,1697,125000000,0,475430
+Color Out of Space,2020,"['Horror', 'Science Fiction', 'Mystery', 'Thriller']",6.1,1597,6000000,1023510,548473
+The Half of It,2020,"['Comedy', 'Romance', 'Drama']",7.1,1552,0,0,597219
+Gabriel's Inferno: Part II,2020,"['Romance', 'Drama']",8.369,1534,0,0,724089
+Justice League Dark: Apokolips War,2020,"['Animation', 'Action', 'Adventure', 'Fantasy']",8.213,1523,0,0,618344
+Gretel & Hansel,2020,"['Horror', 'Fantasy']",5.999,1508,5000000,22304357,542224
+Eurovision Song Contest: The Story of Fire Saga,2020,"['Comedy', 'Music']",6.42,1502,0,0,531454
+A Whisker Away,2020,"['Animation', 'Drama', 'Romance', 'Fantasy']",7.881,1449,0,0,667520
+Mortal Kombat Legends: Scorpion's Revenge,2020,"['Animation', 'Action', 'Fantasy']",8.091,1426,0,0,664767
+Escape from Pretoria,2020,"['Drama', 'History', 'Thriller']",7.186,1419,0,2431995,502425
+Rose Island,2020,"['Comedy', 'Adventure']",7.033,1369,8000000,0,636565
+Over the Moon,2020,"['Animation', 'Adventure', 'Family', 'Fantasy']",7.191,1352,0,0,560050
+Return,2020,['Animation'],6.4,1346,0,0,836466
+The Lodge,2020,"['Horror', 'Drama', 'Mystery', 'Thriller']",6.111,1345,0,2679585,474764
+My Spy,2020,"['Family', 'Action', 'Comedy']",6.9,1324,18000000,10200000,592834
+Wolfwalkers,2020,"['Animation', 'Family', 'Adventure', 'Fantasy']",8.205,1305,12000000,1310720,441130
+The Way Back,2020,['Drama'],6.643,1281,23000000,14590514,529485
+Happiest Season,2020,"['Romance', 'Comedy']",7.126,1272,0,1401954,520172
+Brahms: The Boy II,2020,"['Horror', 'Mystery', 'Thriller']",5.9,1271,10000000,20311536,555974
+Pieces of a Woman,2020,['Drama'],7.021,1266,0,0,641662
+Tolo Tolo,2020,"['Comedy', 'Drama', 'Family']",6.116,1263,20000000,52186426,593402
+The Courier,2020,"['Thriller', 'History', 'Drama']",7.034,1242,0,26000000,522241
+The Wrong Missy,2020,"['Comedy', 'Romance']",6.144,1229,0,0,582596
+Ma Rainey's Black Bottom,2020,"['Drama', 'Music']",6.651,1216,0,0,615667
+I Still Believe,2020,"['Music', 'Drama', 'Romance']",7.6,1206,12000000,16069730,585244
+Work It,2020,"['Comedy', 'Music']",7.506,1198,0,0,612706
+His House,2020,"['Drama', 'Horror']",6.416,1178,0,0,575774
+Feel the Beat,2020,"['Comedy', 'Music', 'Drama']",7.57,1143,0,0,707886
+Chemical Hearts,2020,"['Drama', 'Romance']",7.319,1143,0,0,621013
+Rebecca,2020,"['Romance', 'Drama', 'Mystery', 'Thriller']",6.3,1135,0,0,505379
+Da 5 Bloods,2020,"['War', 'Drama']",6.448,1132,45000000,0,581859
+"Miraculous World: New York, United HeroeZ",2020,"['Animation', 'TV Movie', 'Fantasy', 'Action']",8.098,1119,0,0,755812
+The Outpost,2020,"['War', 'Drama', 'History', 'Action']",6.9,1116,18000000,2133452,531876
+The Christmas Chronicles: Part Two,2020,"['Family', 'Fantasy', 'Adventure', 'Comedy']",6.484,1106,0,0,654028
+Money Heist: The Phenomenon,2020,['Documentary'],7.5,1080,0,0,689249
+The King of Staten Island,2020,"['Comedy', 'Drama']",7.0,1080,35000000,2200000,579583

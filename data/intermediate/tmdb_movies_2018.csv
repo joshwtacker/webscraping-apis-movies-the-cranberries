@@ -1,0 +1,101 @@
+Title,Year,Genre,Vote_Average,Vote_Count,Budget,Revenue,TMDB_ID
+Avengers: Infinity War,2018,"['Adventure', 'Action', 'Science Fiction']",8.235,31141,300000000,2052415039,299536
+Black Panther,2018,"['Action', 'Adventure', 'Science Fiction']",7.366,22948,200000000,1349926083,284054
+Deadpool 2,2018,"['Action', 'Comedy', 'Adventure']",7.489,18724,110000000,785896632,383498
+Bohemian Rhapsody,2018,"['Music', 'Drama']",7.964,17395,52000000,910813521,424694
+Venom,2018,"['Science Fiction', 'Action']",6.827,16842,116000000,856085151,335983
+Spider-Man: Into the Spider-Verse,2018,"['Animation', 'Action', 'Adventure', 'Science Fiction']",8.395,16595,90000000,393602435,324857
+Ready Player One,2018,"['Adventure', 'Action', 'Science Fiction']",7.584,16365,175000000,607274134,333339
+A Quiet Place,2018,"['Horror', 'Drama', 'Science Fiction']",7.396,14891,17000000,340955294,447332
+Aquaman,2018,"['Action', 'Adventure', 'Fantasy']",6.872,14565,160000000,1152028393,297802
+Ant-Man and the Wasp,2018,"['Action', 'Adventure', 'Science Fiction']",6.912,13827,140000000,622674139,363088
+Incredibles 2,2018,"['Action', 'Adventure', 'Animation', 'Family']",7.456,13353,200000000,1243225667,260513
+Jurassic World: Fallen Kingdom,2018,"['Action', 'Adventure', 'Science Fiction', 'Thriller']",6.538,12392,170000000,1310469037,351286
+Green Book,2018,"['Drama', 'Comedy', 'History']",8.224,12370,23000000,321752656,490132
+A Star Is Born,2018,"['Music', 'Drama', 'Romance']",7.5,11995,36000000,436388866,332562
+Fantastic Beasts: The Crimes of Grindelwald,2018,"['Fantasy', 'Adventure']",6.8,11230,200000000,654900000,338952
+Bird Box,2018,"['Horror', 'Thriller', 'Drama']",6.826,10302,19800000,0,405774
+Annihilation,2018,"['Science Fiction', 'Horror']",6.434,9078,40000000,43070915,300668
+Solo: A Star Wars Story,2018,"['Science Fiction', 'Adventure', 'Action']",6.6,9000,250000000,392952373,348350
+Mission: Impossible - Fallout,2018,"['Action', 'Adventure']",7.4,8810,178000000,791658205,353081
+To All the Boys I've Loved Before,2018,"['Comedy', 'Romance']",7.596,8604,0,0,466282
+Ocean's Eight,2018,"['Crime', 'Comedy', 'Action']",6.967,8578,70000000,297718711,402900
+Fifty Shades Freed,2018,"['Drama', 'Romance']",6.682,8233,55000000,371985018,337167
+Hereditary,2018,"['Horror', 'Mystery', 'Thriller']",7.291,8225,10000000,87796204,493922
+Maze Runner: The Death Cure,2018,"['Science Fiction', 'Action', 'Adventure', 'Thriller']",7.093,8163,62000000,288175335,336843
+Tomb Raider,2018,"['Action', 'Adventure', 'Fantasy']",6.366,8140,94000000,274650803,338970
+The Meg,2018,"['Action', 'Science Fiction', 'Horror']",6.2,7984,150000000,530517320,345940
+Ralph Breaks the Internet,2018,"['Family', 'Animation', 'Comedy', 'Adventure']",7.2,7885,175000000,529323962,404368
+BlacKkKlansman,2018,"['Crime', 'Comedy', 'Drama', 'History']",7.5,7865,15000000,93411426,487558
+The Kissing Booth,2018,"['Romance', 'Comedy']",7.17,7356,0,0,454983
+Rampage,2018,"['Action', 'Adventure', 'Science Fiction']",6.456,7312,120000000,428028233,427641
+The Nun,2018,['Horror'],5.908,7017,22000000,366082797,439079
+Bumblebee,2018,"['Action', 'Adventure', 'Science Fiction']",6.718,6431,135000000,467989645,424783
+Red Sparrow,2018,"['Thriller', 'Mystery']",6.533,6202,69000000,151572634,401981
+"Love, Simon",2018,"['Comedy', 'Drama', 'Romance']",7.983,6164,17000000,66316289,449176
+Game Night,2018,"['Mystery', 'Comedy', 'Crime']",6.846,6070,37000000,117501013,445571
+The Favourite,2018,"['History', 'Comedy', 'Drama']",7.5,5729,15000000,95918706,375262
+The Equalizer 2,2018,"['Action', 'Thriller', 'Crime']",6.8,5708,62000000,190400157,345887
+Creed II,2018,"['Drama', 'Action']",7.0,5629,50000000,214200000,480530
+First Man,2018,"['History', 'Drama']",7.042,5477,70000000,105713218,369972
+The Mule,2018,"['Crime', 'Drama']",6.865,5205,50000000,174800000,504172
+Skyscraper,2018,"['Action', 'Thriller', 'Adventure']",6.3,5197,125000000,304870828,447200
+Isle of Dogs,2018,"['Adventure', 'Comedy', 'Animation']",7.844,5189,62770198,64337744,399174
+Pacific Rim: Uprising,2018,"['Action', 'Fantasy', 'Science Fiction', 'Adventure']",6.1,5171,150000000,290061297,268896
+The Predator,2018,"['Science Fiction', 'Action', 'Thriller']",5.6,4941,88000000,160542134,346910
+Halloween,2018,"['Horror', 'Thriller']",6.566,4933,10000000,259939869,424139
+Mortal Engines,2018,"['Adventure', 'Science Fiction']",6.208,4920,100000000,83869818,428078
+Upgrade,2018,"['Action', 'Thriller', 'Science Fiction']",7.497,4748,3000000,16976561,500664
+Hotel Transylvania 3: Summer Vacation,2018,"['Animation', 'Comedy', 'Family', 'Fantasy']",6.853,4605,80000000,528600000,400155
+The Commuter,2018,"['Action', 'Thriller', 'Mystery']",6.364,4510,30000000,119942387,399035
+A Simple Favor,2018,"['Thriller', 'Comedy', 'Mystery']",6.638,4458,20000000,97644617,484247
+The Grinch,2018,"['Family', 'Comedy', 'Animation']",6.869,4271,75000000,508600000,360920
+The Ballad of Buster Scruggs,2018,"['Western', 'Comedy', 'Drama', 'Music', 'Mystery', 'Romance']",7.13,4262,0,0,537996
+Truth or Dare,2018,"['Thriller', 'Horror']",5.94,4148,3500000,95330493,460019
+The First Purge,2018,"['Action', 'Horror', 'Thriller']",6.001,4123,13000000,137056262,442249
+Searching,2018,"['Drama', 'Mystery', 'Thriller']",7.57,4070,1000000,75462037,489999
+Black Mirror: Bandersnatch,2018,"['Science Fiction', 'Mystery', 'Drama']",6.763,4054,0,0,569547
+Roma,2018,['Drama'],7.624,4022,15000000,1140769,426426
+Sicario: Day of the Soldado,2018,"['Action', 'Crime', 'Thriller']",6.938,3853,35000000,75836683,400535
+Crazy Rich Asians,2018,"['Comedy', 'Romance']",7.062,3841,30000000,238539198,455207
+Bad Times at the El Royale,2018,"['Thriller', 'Mystery', 'Crime', 'Drama']",6.845,3739,32000000,31882724,446021
+Midnight Sun,2018,"['Romance', 'Drama']",7.812,3508,2800000,27365467,419478
+Mamma Mia! Here We Go Again,2018,"['Comedy', 'Romance']",7.09,3496,75000000,395607854,458423
+Vice,2018,"['Drama', 'Comedy']",7.015,3484,60000000,76100000,429197
+Sierra Burgess Is a Loser,2018,"['Comedy', 'Drama', 'Romance']",6.293,3441,0,0,462919
+The Cloverfield Paradox,2018,"['Horror', 'Thriller', 'Science Fiction']",5.629,3434,45000000,0,384521
+Mary Poppins Returns,2018,"['Fantasy', 'Family', 'Comedy']",6.509,3399,130000000,348807090,400650
+Tag,2018,"['Comedy', 'Action']",6.712,3309,28000000,75100000,455980
+Den of Thieves,2018,"['Crime', 'Thriller', 'Action']",6.854,3246,30000000,80509622,449443
+Instant Family,2018,"['Comedy', 'Drama']",7.507,3125,48000000,121000000,491418
+12 Strong,2018,"['War', 'Drama', 'Action', 'History']",6.346,3097,35000000,67450815,429351
+Robin Hood,2018,"['Adventure', 'Action', 'Thriller', 'Fantasy']",5.9,3067,100000000,86493046,375588
+Insidious: The Last Key,2018,"['Horror', 'Thriller']",6.254,3046,10000000,172811971,406563
+Dragon Ball Super: Broly,2018,"['Action', 'Science Fiction', 'Animation']",7.903,3036,1000000,125002821,503314
+Overlord,2018,"['Horror', 'War', 'Science Fiction']",6.732,3004,38000000,41657844,438799
+The House That Jack Built,2018,"['Drama', 'Horror', 'Crime', 'Thriller']",7.127,2940,9800000,5566776,398173
+The Darkest Minds,2018,"['Action', 'Adventure', 'Drama']",7.029,2888,34000000,41142379,445651
+Christopher Robin,2018,"['Adventure', 'Comedy', 'Family', 'Fantasy']",7.304,2840,75000000,197744377,420814
+Terrifier,2018,"['Horror', 'Thriller']",6.325,2825,35000,421798,420634
+Beautiful Boy,2018,['Drama'],7.552,2742,25000000,7700000,451915
+Set It Up,2018,"['Romance', 'Comedy']",6.9,2742,0,0,384677
+Suspiria,2018,"['Horror', 'Mystery', 'Drama']",6.899,2682,20000000,7953089,361292
+Death Wish,2018,"['Action', 'Crime', 'Thriller', 'Drama']",6.203,2667,30000000,34017028,395990
+Alpha,2018,"['Adventure', 'Drama']",6.525,2651,51000000,99630675,399360
+Adrift,2018,"['Thriller', 'Romance', 'Adventure']",6.838,2649,35000000,59945012,429300
+Johnny English Strikes Again,2018,"['Action', 'Adventure', 'Comedy']",6.262,2638,25000000,158972570,463272
+Ghostland,2018,"['Horror', 'Mystery', 'Thriller']",7.387,2567,0,0,476299
+Mowgli: Legend of the Jungle,2018,"['Adventure', 'Drama']",6.47,2545,175000000,0,407436
+Widows,2018,"['Crime', 'Thriller', 'Drama']",6.486,2396,42000000,73900000,401469
+When We First Met,2018,"['Comedy', 'Romance', 'Fantasy']",6.56,2328,10000000,0,433310
+Mile 22,2018,"['Action', 'Thriller']",6.2,2319,35000000,66308758,347375
+The Spy Who Dumped Me,2018,"['Comedy', 'Action', 'Adventure']",6.388,2298,40000000,33562069,454992
+The Christmas Chronicles,2018,"['Comedy', 'Adventure', 'Family', 'Fantasy']",7.149,2288,0,0,527435
+Hunter Killer,2018,"['Action', 'Adventure', 'Thriller']",6.897,2286,40000000,31672678,399402
+Every Day,2018,"['Romance', 'Fantasy']",7.251,2273,4900000,10400000,465136
+Climax,2018,"['Horror', 'Drama']",7.046,2260,2900000,1696075,507076
+Dogman,2018,"['Crime', 'Drama', 'Thriller']",7.528,2258,0,5080147,483184
+The Princess Switch,2018,"['Romance', 'Comedy']",6.995,2250,0,0,556803
+The House with a Clock in Its Walls,2018,"['Comedy', 'Fantasy', 'Family', 'Horror', 'Mystery']",6.252,2240,42000000,131523093,463821
+Shoplifters,2018,"['Drama', 'Crime', 'Thriller']",7.8,2194,0,0,505192
+The Nutcracker and the Four Realms,2018,"['Fantasy', 'Adventure', 'Family']",6.1,2192,120000000,173961069,426543

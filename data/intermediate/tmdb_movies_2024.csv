@@ -1,0 +1,101 @@
+Title,Year,Genre,Vote_Average,Vote_Count,Budget,Revenue,TMDB_ID
+Deadpool & Wolverine,2024,"['Action', 'Comedy', 'Science Fiction']",7.57,7932,200000000,1338073645,533535
+Dune: Part Two,2024,"['Science Fiction', 'Adventure']",8.1,7199,190000000,714844358,693134
+Inside Out 2,2024,"['Animation', 'Adventure', 'Comedy', 'Family']",7.551,6247,200000000,1698863816,1022789
+The Wild Robot,2024,"['Animation', 'Science Fiction', 'Family', 'Adventure', 'Drama']",8.319,5494,78000000,331982078,1184918
+The Substance,2024,"['Drama', 'Horror', 'Science Fiction']",7.1,5344,17500000,76506196,933260
+Furiosa: A Mad Max Saga,2024,"['Action', 'Science Fiction', 'Adventure']",7.46,4491,168000000,174287546,786892
+Godzilla x Kong: The New Empire,2024,"['Action', 'Adventure', 'Science Fiction']",7.1,4394,150000000,571750016,823464
+Alien: Romulus,2024,"['Horror', 'Science Fiction']",7.175,4091,80000000,350865342,945961
+Gladiator II,2024,"['Action', 'Adventure', 'Drama']",6.653,3991,310000000,462180717,558449
+Kingdom of the Planet of the Apes,2024,"['Science Fiction', 'Adventure', 'Action']",7.057,3960,160000000,397378150,653346
+Civil War,2024,"['War', 'Action', 'Drama']",6.849,3928,50000000,126542249,929590
+The Beekeeper,2024,"['Action', 'Crime', 'Thriller']",7.275,3869,35000000,152720535,866398
+Venom: The Last Dance,2024,"['Action', 'Science Fiction', 'Adventure']",6.683,3843,120000000,478937618,912649
+The Fall Guy,2024,"['Action', 'Comedy', 'Romance']",6.982,3312,125000000,181073291,746036
+Kung Fu Panda 4,2024,"['Animation', 'Family', 'Action', 'Comedy', 'Adventure', 'Fantasy']",7.029,3275,80000000,548040835,1011985
+Nosferatu,2024,"['Horror', 'Fantasy']",6.691,3248,50000000,181764515,426063
+Bad Boys: Ride or Die,2024,"['Action', 'Comedy', 'Crime', 'Thriller', 'Adventure']",7.346,3113,100000000,404547819,573435
+A Quiet Place: Day One,2024,"['Horror', 'Science Fiction', 'Thriller']",6.684,3018,67000000,261907653,762441
+Sonic the Hedgehog 3,2024,"['Action', 'Science Fiction', 'Comedy', 'Family']",7.646,3014,122000000,492162604,939243
+Conclave,2024,"['Drama', 'Thriller']",7.202,3005,20000000,115657988,974576
+Despicable Me 4,2024,"['Family', 'Comedy', 'Animation', 'Science Fiction']",7.013,2972,100000000,969597394,519182
+Beetlejuice Beetlejuice,2024,"['Comedy', 'Fantasy', 'Horror']",7.0,2844,99000000,452000435,917496
+Moana 2,2024,"['Family', 'Comedy', 'Adventure', 'Animation', 'Fantasy']",7.026,2784,150000000,1059242164,1241982
+Road House,2024,"['Action', 'Thriller']",6.94,2758,85000000,0,359410
+Anora,2024,"['Drama', 'Comedy', 'Romance']",7.05,2730,6000000,56286295,1064213
+Red One,2024,"['Action', 'Comedy', 'Fantasy']",7.036,2718,250000000,185700759,845781
+Twisters,2024,"['Action', 'Thriller']",6.791,2702,155000000,372262265,718821
+Joker: Folie à Deux,2024,"['Drama', 'Crime', 'Thriller']",5.408,2671,190000000,207500287,889737
+Damsel,2024,"['Fantasy', 'Action', 'Adventure']",6.997,2589,60000000,5000,763215
+Wicked,2024,"['Drama', 'Romance', 'Fantasy']",6.9,2547,150000000,757961815,402431
+Trap,2024,"['Crime', 'Horror', 'Mystery', 'Thriller']",6.261,2516,30000000,83677281,1032823
+Carry-On,2024,"['Thriller', 'Action']",6.888,2478,47000000,0,1005331
+Flow,2024,"['Animation', 'Adventure', 'Fantasy', 'Family']",8.13,2442,3700000,17660107,823219
+Mufasa: The Lion King,2024,"['Adventure', 'Family', 'Animation']",7.355,2435,200000000,722631756,762509
+Challengers,2024,"['Drama', 'Romance']",6.939,2427,55000000,94182533,937287
+Madame Web,2024,"['Action', 'Fantasy']",5.32,2388,80000000,100498764,634492
+Longlegs,2024,"['Crime', 'Horror', 'Thriller']",6.564,2328,10000000,127961936,1226578
+Heretic,2024,"['Horror', 'Thriller']",6.974,2282,10000000,51913394,1138194
+Juror #2,2024,"['Drama', 'Thriller']",6.871,2201,30000000,21418477,1106739
+Kraven the Hunter,2024,"['Action', 'Adventure', 'Thriller']",6.466,2094,130000000,62076533,539972
+Ghostbusters: Frozen Empire,2024,"['Fantasy', 'Adventure', 'Comedy']",6.5,1969,100000000,201967521,967847
+Smile 2,2024,"['Horror', 'Mystery']",6.594,1890,28000000,138128854,1100782
+Late Night with the Devil,2024,['Horror'],7.11,1866,2000000,15469415,938614
+Emilia Pérez,2024,"['Drama', 'Thriller']",6.511,1835,26000000,16302703,974950
+The Count of Monte Cristo,2024,"['Adventure', 'Action', 'Drama']",7.954,1819,46000000,75360860,1084736
+The Idea of You,2024,"['Romance', 'Drama', 'Comedy']",7.333,1807,0,36178,843527
+Terrifier 3,2024,"['Horror', 'Thriller']",6.815,1800,2000000,90322103,1034541
+Speak No Evil,2024,"['Horror', 'Thriller']",7.185,1790,15000000,76756109,1114513
+Abigail,2024,"['Horror', 'Thriller', 'Crime', 'Action', 'Comedy']",6.723,1781,28000000,43015969,1111873
+It Ends with Us,2024,"['Drama', 'Romance']",6.971,1754,25000000,350993761,1079091
+Blink Twice,2024,"['Mystery', 'Thriller']",6.681,1667,20000000,46393906,840705
+The Ministry of Ungentlemanly Warfare,2024,"['Action', 'Comedy', 'War']",7.034,1664,60000000,29768915,799583
+Argylle,2024,"['Action', 'Adventure', 'Comedy']",6.023,1595,200000000,96221061,848538
+Immaculate,2024,"['Horror', 'Mystery', 'Thriller']",6.224,1512,9000000,35340015,1041613
+Rebel Ridge,2024,"['Crime', 'Action', 'Thriller']",6.997,1462,0,0,646097
+IF,2024,"['Comedy', 'Fantasy', 'Family']",7.018,1461,110000000,190309707,639720
+Your Fault,2024,"['Drama', 'Romance']",7.132,1454,0,0,1156593
+Atlas,2024,"['Science Fiction', 'Action']",6.704,1454,100000000,0,614933
+Transformers One,2024,"['Animation', 'Science Fiction', 'Adventure', 'Family']",8.025,1436,75000000,129408392,698687
+Hit Man,2024,"['Comedy', 'Romance', 'Crime']",6.794,1434,8800000,5101673,974635
+The Watchers,2024,"['Fantasy', 'Horror', 'Mystery']",6.375,1424,30000000,51147812,1086747
+The Brutalist,2024,"['Drama', 'History']",6.958,1400,9600000,50145227,549509
+Lift,2024,"['Action', 'Comedy', 'Crime']",6.4,1370,0,0,955916
+Rebel Moon - Part Two: The Scargiver,2024,"['Science Fiction', 'Action', 'Adventure']",6.085,1361,83000000,0,934632
+Land of Bad,2024,"['Action', 'War', 'Thriller']",7.271,1360,18000000,7021101,969492
+The Garfield Movie,2024,"['Family', 'Comedy', 'Adventure', 'Animation']",7.028,1351,60000000,254907482,748783
+Under Paris,2024,"['Action', 'Horror']",5.93,1349,0,0,1001311
+Borderlands,2024,"['Action', 'Science Fiction', 'Comedy']",5.616,1337,115000000,33017367,365177
+Beverly Hills Cop: Axel F,2024,"['Action', 'Comedy', 'Crime']",6.7,1325,150000000,0,280180
+The Platform 2,2024,"['Science Fiction', 'Horror', 'Thriller']",5.547,1313,0,0,1125510
+Tarot,2024,['Horror'],6.412,1294,8000000,49256239,719221
+MaXXXine,2024,"['Horror', 'Thriller']",6.321,1290,10000000,22057161,1023922
+Wolfs,2024,"['Crime', 'Comedy', 'Action']",6.546,1269,80000000,0,877817
+Monkey Man,2024,"['Action', 'Thriller']",6.879,1253,10000000,35271631,560016
+A Complete Unknown,2024,"['Drama', 'Music']",7.111,1249,65000000,138003641,661539
+A Real Pain,2024,"['Comedy', 'Drama']",6.8,1203,3000000,24856027,1013850
+The First Omen,2024,['Horror'],6.849,1191,30000000,53992802,437342
+Apocalypse Z: The Beginning of the End,2024,"['Drama', 'Action', 'Horror']",6.723,1168,0,500000,1118031
+The Crow,2024,"['Action', 'Fantasy', 'Horror']",5.815,1157,50000000,24109036,957452
+Kinds of Kindness,2024,"['Drama', 'Comedy']",6.48,1123,15000000,16398509,1029955
+We Live in Time,2024,"['Romance', 'Drama']",7.259,1103,20000000,37182814,1100099
+No Way Up,2024,"['Thriller', 'Horror', 'Action']",6.3,1072,0,0,1096197
+The Union,2024,"['Action', 'Comedy']",6.1,1058,0,0,704239
+Fly Me to the Moon,2024,"['Romance', 'Comedy']",6.806,1028,100000000,42260534,956842
+The Bikeriders,2024,"['Crime', 'Drama']",6.69,1003,40000000,36110860,1008409
+Babygirl,2024,"['Drama', 'Romance']",5.739,1001,20000000,60934894,1097549
+Spaceman,2024,"['Science Fiction', 'Adventure', 'Drama']",6.717,958,40000000,0,636706
+Upgraded,2024,"['Romance', 'Comedy']",7.186,947,0,0,1014590
+The Tearsmith,2024,"['Romance', 'Drama']",6.5,918,7000000,0,1127166
+Beating Hearts,2024,"['Romance', 'Crime', 'Drama']",7.2,917,37315205,36010728,959604
+Megalopolis,2024,"['Science Fiction', 'Drama']",5.2,902,120000000,14387154,592831
+Woman of the Hour,2024,"['Crime', 'Drama', 'Thriller']",6.4,900,836057,0,835113
+Don't Move,2024,"['Horror', 'Thriller']",6.335,899,0,0,1063877
+Bob Marley: One Love,2024,"['Music', 'History', 'Drama']",6.647,899,70000000,180828556,802219
+Subservience,2024,"['Science Fiction', 'Horror', 'Thriller']",6.6,890,4400000,262793,1064028
+Miller's Girl,2024,"['Thriller', 'Drama', 'Romance']",6.3,880,4000000,1430985,1026436
+I'm Still Here,2024,"['Drama', 'History']",7.94,863,1480000,36109482,1000837
+Love Lies Bleeding,2024,"['Crime', 'Romance', 'Thriller', 'Drama']",6.567,861,10000000,12778225,948549
+Arthur the King,2024,"['Adventure', 'Drama']",7.577,855,19000000,40829138,618588
+Uglies,2024,"['Science Fiction', 'Adventure', 'Action']",5.753,853,0,0,748167

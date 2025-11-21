@@ -1,0 +1,101 @@
+Title,Year,Genre,Vote_Average,Vote_Count,Budget,Revenue,TMDB_ID
+Oppenheimer,2023,"['Drama', 'History']",8.045,10956,100000000,952000000,872585
+Barbie,2023,"['Comedy', 'Adventure']",6.946,10463,145000000,1447138421,346698
+The Super Mario Bros. Movie,2023,"['Family', 'Comedy', 'Adventure', 'Animation', 'Fantasy']",7.603,10065,100000000,1362000000,502356
+Spider-Man: Across the Spider-Verse,2023,"['Animation', 'Action', 'Adventure', 'Science Fiction']",8.338,8027,100000000,690897910,569094
+Guardians of the Galaxy Vol. 3,2023,"['Science Fiction', 'Adventure', 'Action', 'Comedy']",7.932,7783,250000000,845550000,447365
+John Wick: Chapter 4,2023,"['Action', 'Thriller', 'Crime']",7.717,7478,100000000,440157245,603692
+Fast X,2023,"['Action', 'Crime', 'Thriller', 'Adventure', 'Mystery']",7.016,6104,340000000,704709660,385687
+Ant-Man and the Wasp: Quantumania,2023,"['Action', 'Adventure', 'Science Fiction']",6.3,5508,200000000,476071180,640146
+Transformers: Rise of the Beasts,2023,"['Science Fiction', 'Adventure', 'Action']",7.202,5071,195000000,441381193,667538
+Poor Things,2023,"['Science Fiction', 'Romance', 'Comedy']",7.661,5070,35000000,117607117,792307
+Elemental,2023,"['Family', 'Fantasy', 'Comedy', 'Romance', 'Animation']",7.6,5027,200000000,496444308,976573
+The Flash,2023,"['Action', 'Science Fiction', 'Adventure']",6.6,4754,220000000,271333313,298618
+Mission: Impossible - Dead Reckoning Part One,2023,"['Action', 'Thriller']",7.5,4718,291000000,571125435,575264
+Five Nights at Freddy's,2023,"['Horror', 'Thriller']",7.4,4622,20000000,297144130,507089
+Dungeons & Dragons: Honor Among Thieves,2023,"['Adventure', 'Fantasy', 'Comedy']",7.332,4232,151000000,208200000,493529
+Wonka,2023,"['Comedy', 'Family', 'Fantasy']",7.053,4118,125000000,634502312,787699
+My Fault,2023,"['Drama', 'Romance', 'Thriller']",7.764,3920,0,0,1010581
+Indiana Jones and the Dial of Destiny,2023,"['Adventure', 'Action']",6.5,3861,294700000,383963057,335977
+Killers of the Flower Moon,2023,"['Crime', 'History', 'Drama']",7.409,3835,200000000,158722599,466420
+Meg 2: The Trench,2023,"['Action', 'Science Fiction', 'Horror']",6.4,3777,129000000,384056482,615656
+No Hard Feelings,2023,"['Comedy', 'Romance']",6.699,3571,45000000,83000000,884605
+The Creator,2023,"['Science Fiction', 'Action', 'Adventure']",7.027,3561,80000000,104272136,670292
+Talk to Me,2023,['Horror'],7.1,3488,4500000,91959188,1008042
+Shazam! Fury of the Gods,2023,"['Comedy', 'Action', 'Fantasy']",6.4,3474,110000000,134221819,594767
+The Equalizer 3,2023,"['Action', 'Thriller', 'Crime']",7.3,3468,70000000,191067560,926393
+Evil Dead Rise,2023,"['Horror', 'Thriller']",6.9,3436,15000000,147156372,713704
+Society of the Snow,2023,"['Drama', 'History']",7.985,3300,65500000,1281,906126
+Aquaman and the Lost Kingdom,2023,"['Action', 'Adventure', 'Fantasy']",6.6,3269,205000000,440181226,572802
+The Hunger Games: The Ballad of Songbirds & Snakes,2023,"['Drama', 'Science Fiction', 'Action']",7.0,3260,100000000,337371917,695721
+The Little Mermaid,2023,"['Adventure', 'Family', 'Fantasy', 'Romance']",6.3,3179,297000000,569626289,447277
+Gran Turismo,2023,"['Adventure', 'Action', 'Drama']",7.739,3155,60000000,121700000,980489
+The Marvels,2023,"['Science Fiction', 'Adventure', 'Action']",5.963,3155,274800000,206136825,609681
+The Pope's Exorcist,2023,"['Horror', 'Thriller']",6.933,3012,18000000,76987621,758323
+Anatomy of a Fall,2023,"['Thriller', 'Mystery', 'Crime']",7.539,3006,6700000,35634133,915935
+Leave the World Behind,2023,"['Drama', 'Mystery', 'Thriller']",6.377,2973,0,0,726209
+Blue Beetle,2023,"['Action', 'Science Fiction', 'Adventure']",6.658,2943,104000000,130788072,565770
+Scream VI,2023,"['Horror', 'Crime', 'Thriller']",6.974,2938,35000000,168961389,934433
+Guy Ritchie's The Covenant,2023,"['War', 'Action', 'Thriller']",7.73,2938,55000000,21948551,882569
+Knock at the Cabin,2023,"['Horror', 'Mystery', 'Thriller']",6.255,2937,20000000,54700000,631842
+Napoleon,2023,"['History', 'War', 'Romance']",6.317,2900,165000000,220597098,753342
+Godzilla Minus One,2023,"['Science Fiction', 'Horror', 'Action']",7.592,2872,15000000,113676322,940721
+Anyone But You,2023,"['Romance', 'Comedy']",6.831,2790,25000000,214891370,1072790
+Creed III,2023,"['Drama', 'Action']",7.1,2745,75000000,275300000,677179
+Extraction 2,2023,"['Action', 'Thriller', 'Crime']",7.406,2713,65000000,0,697843
+Saltburn,2023,"['Drama', 'Comedy', 'Thriller']",6.962,2696,20000000,21013738,930564
+65,2023,"['Action', 'Adventure', 'Science Fiction']",5.964,2679,45000000,60730568,700391
+A Haunting in Venice,2023,"['Mystery', 'Thriller', 'Crime']",6.585,2642,60000000,121400000,945729
+Sound of Freedom,2023,"['Action', 'Drama']",7.979,2628,14500000,250600000,678512
+The Killer,2023,"['Crime', 'Thriller']",6.579,2560,175000000,362113,800158
+Plane,2023,"['Action', 'Adventure', 'Thriller']",6.907,2506,25000000,74515586,646389
+Rebel Moon - Part One: A Child of Fire,2023,"['Science Fiction', 'Action', 'Adventure']",6.239,2411,83000000,0,848326
+The Boy and the Heron,2023,"['Animation', 'Adventure', 'Fantasy', 'Family', 'Drama']",7.4,2388,50000000,294200000,508883
+The Zone of Interest,2023,"['Drama', 'History']",7.002,2355,15000000,52631884,467244
+The Nun II,2023,['Horror'],6.675,2350,38500000,269670590,968051
+Cocaine Bear,2023,"['Thriller', 'Comedy', 'Crime']",6.022,2286,32500000,88314672,804150
+Asteroid City,2023,"['Comedy', 'Drama']",6.441,2286,25000000,53857743,747188
+Saw X,2023,"['Horror', 'Mystery']",7.193,2217,13000000,125319714,951491
+The Holdovers,2023,"['Comedy', 'Drama']",7.7,2210,13000000,42513270,840430
+Air,2023,"['Drama', 'History']",7.3,2197,80000000,90100000,964980
+Migration,2023,"['Family', 'Comedy', 'Adventure', 'Animation']",7.4,2124,72000000,298776052,940551
+Past Lives,2023,"['Drama', 'Romance']",7.72,2084,12000000,28126646,666277
+Ghosted,2023,"['Action', 'Comedy', 'Romance']",6.916,2040,40000000,0,868759
+Renfield,2023,"['Comedy', 'Fantasy', 'Horror']",6.5,1998,65000000,26874347,649609
+Insidious: The Red Door,2023,"['Horror', 'Thriller']",6.534,1872,16000000,189086877,614479
+Murder Mystery 2,2023,"['Mystery', 'Comedy', 'Crime']",6.4,1857,0,0,638974
+Heart of Stone,2023,"['Thriller', 'Action']",6.758,1820,0,0,724209
+The Last Voyage of the Demeter,2023,"['Horror', 'Fantasy']",6.748,1818,45000000,21600000,635910
+Operation Fortune: Ruse de Guerre,2023,"['Action', 'Comedy', 'Thriller']",6.466,1773,50000000,48983306,739405
+Expend4bles,2023,"['Action', 'Adventure', 'Thriller']",6.09,1764,100000000,37917985,299054
+Wish,2023,"['Animation', 'Family', 'Fantasy', 'Adventure']",6.3,1687,175000000,254997360,1022796
+Perfect Days,2023,['Drama'],7.773,1656,14000000,24094016,976893
+The Family Plan,2023,"['Action', 'Comedy', 'Family']",7.242,1651,0,0,1029575
+Tetris,2023,"['Thriller', 'History', 'Drama']",7.663,1569,0,0,726759
+Winnie the Pooh: Blood and Honey,2023,"['Horror', 'Thriller']",4.993,1512,100000,7717044,980078
+Nowhere,2023,"['Thriller', 'Drama']",7.336,1488,0,0,1151534
+Teenage Mutant Ninja Turtles: Mutant Mayhem,2023,"['Animation', 'Comedy', 'Action', 'Science Fiction']",7.211,1489,75000000,180513586,614930
+Thanksgiving,2023,"['Horror', 'Mystery']",6.483,1454,15000000,46553280,1071215
+"Red, White & Royal Blue",2023,"['Comedy', 'Romance']",7.9,1453,0,0,930094
+There's Still Tomorrow,2023,"['Drama', 'Comedy', 'History']",8.1,1440,9000000,50121593,1026227
+Hypnotic,2023,"['Mystery', 'Science Fiction', 'Thriller', 'Action', 'Drama']",6.206,1379,70000000,16014123,536437
+The Mother,2023,"['Action', 'Thriller']",6.621,1354,0,0,552688
+No One Will Save You,2023,"['Horror', 'Science Fiction']",6.68,1339,22800000,0,820609
+The Three Musketeers: D'Artagnan,2023,"['Adventure', 'Action', 'Drama', 'History']",6.937,1323,27500000,31843086,796185
+When Evil Lurks,2023,"['Horror', 'Thriller']",7.208,1307,0,2090252,744857
+Retribution,2023,"['Thriller', 'Action', 'Adventure']",6.6,1298,20000000,18685751,762430
+Leo,2023,"['Animation', 'Comedy', 'Family']",7.392,1282,0,0,1075794
+Nimona,2023,"['Animation', 'Family', 'Action', 'Science Fiction', 'Adventure', 'Fantasy', 'Comedy']",7.868,1271,0,0,961323
+Dogman,2023,"['Action', 'Drama', 'Crime']",7.874,1267,0,4082217,944401
+Knights of the Zodiac,2023,"['Fantasy', 'Action', 'Adventure', 'Science Fiction']",6.3,1241,60000000,7000000,455476
+The Wonderful Story of Henry Sugar,2023,"['Comedy', 'Fantasy', 'Adventure']",7.239,1232,0,0,923939
+Beau Is Afraid,2023,"['Comedy', 'Adventure', 'Fantasy']",6.7,1225,35000000,12337378,798286
+American Fiction,2023,"['Comedy', 'Drama']",7.283,1209,16000000,22483370,1056360
+To Catch a Killer,2023,"['Thriller', 'Crime', 'Drama']",6.864,1209,0,3138750,605886
+The Exorcist: Believer,2023,"['Horror', 'Thriller']",5.826,1198,30000000,136284218,807172
+Missing,2023,"['Drama', 'Mystery', 'Thriller']",7.41,1188,7000000,45100756,768362
+Haunted Mansion,2023,"['Comedy', 'Drama', 'Fantasy']",6.439,1169,157800000,117449790,616747
+Kandahar,2023,"['Action', 'Thriller', 'War']",6.808,1162,30000000,9400000,717930
+Ferrari,2023,"['History', 'Drama']",6.4,1162,95000000,39220516,365620
+Dream Scenario,2023,"['Comedy', 'Fantasy']",6.651,1160,10000000,14114415,823482
+Asterix & Obelix: The Middle Kingdom,2023,"['Family', 'Comedy', 'Adventure']",4.837,1119,72000000,46497678,643215
