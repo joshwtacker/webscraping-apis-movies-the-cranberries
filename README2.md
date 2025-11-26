@@ -1,4 +1,4 @@
-# An Analysis of Movie Performance, Part 2: Data Analysis and Presentation
+# An Analysis of Movie Performance,Part 2: Data Analysis and Presentation
 
 In this part, you’ll use the datasets you gathered in Part 1 to explore what makes a movie successful. You’ll perform exploratory data analysis, create visualizations, and, where appropriate, fit simple statistical models.
 
