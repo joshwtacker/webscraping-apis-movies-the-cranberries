@@ -1,67 +1,31 @@
-# An Analysis of Movie Performance
+# Lights, Camera, Data: Movie Statistics Over a Decade
 
-In this part, you’ll gather data about popular movies and award winners. The goal is to build a dataset that you’ll later use to analyze what makes a movie successful and how awards and box office performance relate to one another.
+In this project, we used data about movie popularity and Oscar winners to analyze factors that contribute to movie success and how awards and box-office performance are related.
 
-### Part 1: Data Gathering
-1. Scrape Best Picture Data.  
-    * Scrape the [Best Picture wikipedia page](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture).  
-    * Extract for each year:  
-        * Year  
-        * Film Title  
-        * Winner (Yes/No)  
-    * Data cleaning tips:  
-        * Ensure that year and film title columns are clean and consistent (no footnotes, parentheses, etc.).
-        * Save the results as best_picture.csv.  
-2. Gather Movie Data via TMDB API  
-    a. Set up the API    
-    * Create a free [TMDB account](https://developer.themoviedb.org/docs/getting-started)  
-    * Generate an API key are review their documentation, especially:  
-        * /discover/movie  
-        * /movie/{movie_id}  
-        * /search/movie  
-    b. Collect top movies (2015-2024)  
-    For each year from 2015 to 2024:  
-        * Query TMDB for the top 100 movies (by vote count).  
-        * For each movie, gather:  
-            * Title  
-            * Release Year  
-            * Genre(s)  
-            * Vote Average  
-            * Vote Count  
-            * Budget  
-            * Revenue  
-            * TMDB ID  
-        * Store all results in a single DataFrame and export to movies_2015_2024.csv.
-        * Hint: TMDB rate limits are generous for free accounts, but you should pause between requests (eg. time.sleep(0.25)). 
-        * Some Oscar films may not appear in the top 100 by vote count. For any missing, use the /search/movie endpoint to add it.  
+### Data Gathering
+* We scraped data related to Oscar awards from the following Wikipedia pages: 
+    * [Best Picture wikipedia page](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Picture)
+    * [Best Actor](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor)
+    * [Best Actress](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress)
+* We gathered movie statistics from The Movie Database (TMDB) via API
+     * [TMDB API](https://developer.themoviedb.org/reference/getting-started)
+* We examined the following movie data:
+    * Top 100 movies (by TMDB vote count) per year from 2015 - 2024
+    * All movies nominated for a Best Picture between 2015 and 2024
+    * All movies containing a cast member who was nominated for a Best Actor Oscar between 2015 and 2024
 
-**Optional Extension: Actors and Actresses** 
+## Data Analysis
+* We examined the following research questions. Each question has a corresponding Jupyter notebook in the notebooks folder.
+    * How popular is each genre over the last decade? ([notebook](https://github.com/nss-data-science-cohort-9/webscraping-apis-movies-the-cranberries/blob/main/notebooks/AE_Issue_3.ipynb))
+    * How do budget and revenue vary by year or by genre? ([notebook](https://github.com/nss-data-science-cohort-9/webscraping-apis-movies-the-cranberries/blob/main/notebooks/cdg_issue_5.ipynb)
+    * What is the average profit margin (revenue - budget) across genres or years? ([notebook](https://github.com/nss-data-science-cohort-9/webscraping-apis-movies-the-cranberries/blob/main/notebooks/JWT_issue_6.ipynb))
+    * How do movie ratings (vote average) relate to box-office performance? ([notebook](https://github.com/nss-data-science-cohort-9/webscraping-apis-movies-the-cranberries/blob/main/notebooks/cdg_issue_4.ipynb))
+    * Adjust all financial metrics (budget and revenue) for inflation to 2024 dollars using CPI data. ([notebook](https://github.com/nss-data-science-cohort-9/webscraping-apis-movies-the-cranberries/blob/main/notebooks/AE_Issue_7.ipynb))
+    * Do Best Picture nominees or winners tend to earn higher box-office revenue than non-nominated movies? ([notebook](https://github.com/nss-data-science-cohort-9/webscraping-apis-movies-the-cranberries/blob/main/notebooks/JWT_issue_8.ipynb))
+    * Are certain genres or types of roles more common among award-winning films? ([notebook](https://github.com/nss-data-science-cohort-9/webscraping-apis-movies-the-cranberries/blob/main/notebooks/AE_issue_9.ipynb))
+    * Do movies featuring a Best Actor or Best Actress winner in their cast tend to perform better? ([notebook](https://github.com/nss-data-science-cohort-9/webscraping-apis-movies-the-cranberries/blob/main/notebooks/AE_Issue_10.ipynb))
 
-1. Scrape Wikipedia for Best Actor and Best Actress Data
-    * Scrape the following Wikipedia pages:  
-        * [Best Actor](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actor)
-        * [Best Actress](https://en.wikipedia.org/wiki/Academy_Award_for_Best_Actress)
-    * Each apge contains tables of winners and nominees by year.
-    * Extract the following columns:  
-        * Year
-        * Actor/Actress Name
-        * Film Title
-        * Winner (Yes/No)
-    * Data cleaning tips:  
-        * Remove footnote markers from names and movie titles.
-        * Ensure that you save just the release year (eg. 2009 instead of 2009 (82nd))
-        * Store the cleaned data as two csv files:  
-            * best_actor.csv
-            * best_actress.csv  
 
-2. Collect Actor and Actress Filmographies  
-    Using the data from your actor and actresses CSVs:  
-    * Search TMDB for each recent performer (using /search/person). Note: you can start with 2015-2024 initially, but, if time allows, you can go back even further.
-    * For each person, retrieve their movie credits using /person/{person_id}/movie_credits.  
-    * Extract relevant fields for each movie, such as:  
-        * Actor/Actress Name  
-        * Movie Title  
-        * Character Name (optional)  
-        * Release Year  
-        * Movie ID
-    * Combine all filmographies into one file, actor_filmography.csv
+
+## Final Presentation
+* You will find the final presentation slides in [assets/Movie_Performance_Presentation.pdf](https://github.com/nss-data-science-cohort-9/webscraping-apis-movies-the-cranberries/tree/main/assets)
